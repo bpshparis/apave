@@ -1,0 +1,573 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 15527,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.308147,
+      "label": "positive"
+    }
+  },
+  "retrieved_url": "https://www.iaea.org/",
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Nuclear technology",
+      "relevance": 0.709062,
+      "count": 1
+    },
+    {
+      "text": "Nuclear science",
+      "relevance": 0.605629,
+      "count": 1
+    },
+    {
+      "text": "Health Related Environmental Studies Newsletter",
+      "relevance": 0.589755,
+      "count": 1
+    },
+    {
+      "text": "Nuclear safety",
+      "relevance": 0.588294,
+      "count": 2
+    },
+    {
+      "text": "International Atomic Energy Agency",
+      "relevance": 0.587247,
+      "count": 1
+    },
+    {
+      "text": "Experts Gather",
+      "relevance": 0.555379,
+      "count": 1
+    },
+    {
+      "text": "Power Reactor Information System",
+      "relevance": 0.553967,
+      "count": 2
+    },
+    {
+      "text": "radioactive material",
+      "relevance": 0.552906,
+      "count": 3
+    },
+    {
+      "text": "IAEA’s work",
+      "relevance": 0.550038,
+      "count": 1
+    },
+    {
+      "text": "International Conference",
+      "relevance": 0.546796,
+      "count": 2
+    },
+    {
+      "text": "Innovative Nuclear Reactors",
+      "relevance": 0.546348,
+      "count": 1
+    },
+    {
+      "text": "Animal Diseases",
+      "relevance": 0.546168,
+      "count": 2
+    },
+    {
+      "text": "International Project",
+      "relevance": 0.5461,
+      "count": 1
+    },
+    {
+      "text": "Radiation Safety",
+      "relevance": 0.545311,
+      "count": 1
+    },
+    {
+      "text": "Herzegovina Veterinary Labs",
+      "relevance": 0.544221,
+      "count": 1
+    },
+    {
+      "text": "regulatory framework",
+      "relevance": 0.543555,
+      "count": 1
+    },
+    {
+      "text": "United Arab Emirates",
+      "relevance": 0.542365,
+      "count": 1
+    },
+    {
+      "text": "Emerging Technologies Workshop",
+      "relevance": 0.541929,
+      "count": 1
+    },
+    {
+      "text": "Southeastern Europe",
+      "relevance": 0.540757,
+      "count": 1
+    },
+    {
+      "text": "Belarus Set",
+      "relevance": 0.539168,
+      "count": 1
+    },
+    {
+      "text": "Nuclear Power",
+      "relevance": 0.537107,
+      "count": 1
+    },
+    {
+      "text": "research activities",
+      "relevance": 0.53628,
+      "count": 1
+    },
+    {
+      "text": "Environmental Protection Newsletter Vol.",
+      "relevance": 0.535214,
+      "count": 1
+    },
+    {
+      "text": "Newcomers Eye Nuclear Power",
+      "relevance": 0.533511,
+      "count": 1
+    },
+    {
+      "text": "Nuclear Power Plants",
+      "relevance": 0.532456,
+      "count": 1
+    },
+    {
+      "text": "Technical Cooperation Programme",
+      "relevance": 0.531276,
+      "count": 1
+    },
+    {
+      "text": "potential harmful effects of radiation",
+      "relevance": 0.531175,
+      "count": 1
+    },
+    {
+      "text": "Email Address",
+      "relevance": 0.529935,
+      "count": 1
+    },
+    {
+      "text": "point A",
+      "relevance": 0.529869,
+      "count": 1
+    },
+    {
+      "text": "Global Nuclear Safety",
+      "relevance": 0.52975,
+      "count": 1
+    },
+    {
+      "text": "IAEA",
+      "relevance": 0.527317,
+      "count": 8
+    },
+    {
+      "text": "reliable source of low carbon electricity",
+      "relevance": 0.526423,
+      "count": 1
+    },
+    {
+      "text": "Radioactive waste",
+      "relevance": 0.526092,
+      "count": 1
+    },
+    {
+      "text": "January",
+      "relevance": 0.525485,
+      "count": 14
+    },
+    {
+      "text": "Annual Report",
+      "relevance": 0.525339,
+      "count": 1
+    },
+    {
+      "text": "Vienna",
+      "relevance": 0.524048,
+      "count": 5
+    },
+    {
+      "text": "Climate Change",
+      "relevance": 0.523522,
+      "count": 1
+    },
+    {
+      "text": "Technical Cooperation",
+      "relevance": 0.522538,
+      "count": 1
+    },
+    {
+      "text": "first nuclear power plants",
+      "relevance": 0.522288,
+      "count": 1
+    },
+    {
+      "text": "News Story",
+      "relevance": 0.521231,
+      "count": 4
+    },
+    {
+      "text": "important news",
+      "relevance": 0.52123,
+      "count": 1
+    },
+    {
+      "text": "Latest meeting",
+      "relevance": 0.521153,
+      "count": 1
+    },
+    {
+      "text": "world's centre",
+      "relevance": 0.520649,
+      "count": 1
+    },
+    {
+      "text": "lumpy skin diseases",
+      "relevance": 0.520609,
+      "count": 1
+    },
+    {
+      "text": "Nuclear Energy",
+      "relevance": 0.520076,
+      "count": 1
+    },
+    {
+      "text": "significant year",
+      "relevance": 0.519134,
+      "count": 1
+    },
+    {
+      "text": "newcomer countries",
+      "relevance": 0.51854,
+      "count": 1
+    },
+    {
+      "text": "Sustainable Development Goals",
+      "relevance": 0.516826,
+      "count": 1
+    },
+    {
+      "text": "support of the IAEA",
+      "relevance": 0.515944,
+      "count": 1
+    },
+    {
+      "text": "Blue Tongue",
+      "relevance": 0.51587,
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "IAEA",
+      "relevance": 0.967927,
+      "disambiguation": {
+        "subtype": [
+          "AwardWinner"
+        ],
+        "name": "International_Atomic_Energy_Agency",
+        "dbpedia_resource": "http://dbpedia.org/resource/International_Atomic_Energy_Agency"
+      },
+      "count": 17,
+      "confidence": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Français",
+      "relevance": 0.291592,
+      "count": 1,
+      "confidence": 0.057831
+    },
+    {
+      "type": "Organization",
+      "text": "Global Nuclear Safety and Security Network",
+      "relevance": 0.248355,
+      "count": 1,
+      "confidence": 0.197748
+    },
+    {
+      "type": "Location",
+      "text": "Vienna",
+      "relevance": 0.248007,
+      "count": 5,
+      "confidence": 1
+    },
+    {
+      "type": "Organization",
+      "text": "GNSSN",
+      "relevance": 0.247904,
+      "count": 1,
+      "confidence": 0.370444
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Nuclear Fusion Journal",
+      "relevance": 0.238133,
+      "count": 1,
+      "confidence": 0.605172
+    },
+    {
+      "type": "Organization",
+      "text": "Board of Governors",
+      "relevance": 0.208584,
+      "count": 2,
+      "confidence": 0.833402
+    },
+    {
+      "type": "Organization",
+      "text": "International Nuclear Information System",
+      "relevance": 0.134535,
+      "count": 2,
+      "confidence": 0.390585
+    },
+    {
+      "type": "Location",
+      "text": "Austria",
+      "relevance": 0.133345,
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction"
+        ],
+        "name": "Austria",
+        "dbpedia_resource": "http://dbpedia.org/resource/Austria"
+      },
+      "count": 3,
+      "confidence": 0.999997
+    },
+    {
+      "type": "Location",
+      "text": "Belarus",
+      "relevance": 0.128028,
+      "count": 2,
+      "confidence": 0.999997
+    },
+    {
+      "type": "Location",
+      "text": "UAE",
+      "relevance": 0.124719,
+      "disambiguation": {
+        "subtype": [
+          "Country",
+          "GovernmentalJurisdiction"
+        ],
+        "name": "United_Arab_Emirates",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Arab_Emirates"
+      },
+      "count": 2,
+      "confidence": 0.988686
+    },
+    {
+      "type": "Location",
+      "text": "Herzegovina",
+      "relevance": 0.112972,
+      "count": 2,
+      "confidence": 0.991918
+    },
+    {
+      "type": "Location",
+      "text": "Bosnia",
+      "relevance": 0.102281,
+      "disambiguation": {
+        "subtype": [
+          "Country",
+          "GovernmentalJurisdiction"
+        ],
+        "name": "Bosnia_and_Herzegovina",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bosnia_and_Herzegovina"
+      },
+      "count": 2,
+      "confidence": 0.999158
+    },
+    {
+      "type": "Company",
+      "text": "Flickr",
+      "relevance": 0.097362,
+      "count": 1,
+      "confidence": 0.62688
+    },
+    {
+      "type": "Organization",
+      "text": "FAO",
+      "relevance": 0.08601,
+      "disambiguation": {
+        "subtype": [
+          "MembershipOrganization",
+          "AwardWinner",
+          "GovernmentalBody",
+          "TouristAttraction"
+        ],
+        "name": "United_Nations",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Nations"
+      },
+      "count": 2,
+      "confidence": 0.999963
+    },
+    {
+      "type": "HealthCondition",
+      "text": "Cancer",
+      "relevance": 0.083009,
+      "disambiguation": {
+        "subtype": [
+          "FieldOfStudy",
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "DiseaseCause",
+          "MedicalSpecialty",
+          "RiskFactor",
+          "Disease"
+        ],
+        "name": "Cancer",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cancer"
+      },
+      "count": 1,
+      "confidence": 0.983718
+    },
+    {
+      "type": "Organization",
+      "text": "Food and Agriculture Organization",
+      "relevance": 0.060291,
+      "disambiguation": {
+        "name": "Food_and_Agriculture_Organization",
+        "dbpedia_resource": "http://dbpedia.org/resource/Food_and_Agriculture_Organization"
+      },
+      "count": 1,
+      "confidence": 0.678079
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Food and Environmental Protection",
+      "relevance": 0.054072,
+      "count": 1,
+      "confidence": 0.211421
+    },
+    {
+      "type": "Location",
+      "text": "Fukushima",
+      "relevance": 0.043785,
+      "count": 1,
+      "confidence": 0.368984
+    },
+    {
+      "type": "Location",
+      "text": "Chernobyl",
+      "relevance": 0.042035,
+      "count": 1,
+      "confidence": 0.79022
+    },
+    {
+      "type": "Location",
+      "text": "Africa",
+      "relevance": 0.041058,
+      "count": 1,
+      "confidence": 0.998678
+    },
+    {
+      "type": "Location",
+      "text": "Us",
+      "relevance": 0.039003,
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ],
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 1,
+      "confidence": 0.682956
+    },
+    {
+      "type": "Location",
+      "text": "Europe",
+      "relevance": 0.031914,
+      "count": 1,
+      "confidence": 0.808795
+    },
+    {
+      "type": "Location",
+      "text": "Iran",
+      "relevance": 0.030639,
+      "count": 1,
+      "confidence": 0.999851
+    },
+    {
+      "type": "Location",
+      "text": "Kuwait",
+      "relevance": 0.016804,
+      "count": 1,
+      "confidence": 0.977965
+    },
+    {
+      "type": "Organization",
+      "text": "Vienna International Centre",
+      "relevance": 0.006662,
+      "count": 1,
+      "confidence": 0.525919
+    }
+  ],
+  "concepts": [
+    {
+      "text": "International Atomic Energy Agency",
+      "relevance": 0.947246,
+      "dbpedia_resource": "http://dbpedia.org/resource/International_Atomic_Energy_Agency"
+    },
+    {
+      "text": "Nuclear power",
+      "relevance": 0.918759,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nuclear_power"
+    },
+    {
+      "text": "Nuclear fission",
+      "relevance": 0.916941,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nuclear_fission"
+    },
+    {
+      "text": "Nuclear technology",
+      "relevance": 0.766651,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nuclear_technology"
+    },
+    {
+      "text": "Chernobyl disaster",
+      "relevance": 0.765951,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chernobyl_disaster"
+    },
+    {
+      "text": "Nuclear safety",
+      "relevance": 0.698887,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nuclear_safety"
+    },
+    {
+      "text": "Nuclear physics",
+      "relevance": 0.662102,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nuclear_physics"
+    },
+    {
+      "text": "Nuclear fuel",
+      "relevance": 0.635234,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nuclear_fuel"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999995,
+      "label": "/business and industrial/energy/nuclear power"
+    },
+    {
+      "score": 0.999862,
+      "label": "/business and industrial/energy/nuclear power/nuclear accident"
+    }
+  ]
+}

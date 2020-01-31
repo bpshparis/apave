@@ -1,0 +1,39 @@
+[
+
+    {
+        "name": "AEIA",
+        "url": "https://www.iaea.org/",
+        "id": 0
+    },
+    {
+        "name": "Verification and monitoring in Iran",
+        "url": "https://www.iaea.org/newscenter/focus/iran",
+        "id": 1
+    },
+    {
+        "name": "Verification in the DPRK",
+        "url": "https://www.iaea.org/newscenter/focus/dprk",
+        "id": 2
+    },
+    {
+        "name": "63rd General Conference",
+        "url": "https://www.iaea.org/about/policy/gc/gc63",
+        "id": 3
+    },
+    {
+        "name": "Fukushima nuclear accident",
+        "url": "https://www.iaea.org/newscenter/focus/fukushima",
+        "id": 4
+    },
+    {
+        "name": "Fukushima Daiichi status updates",
+        "url": "https://www.iaea.org/newscenter/focus/fukushima/status-update",
+        "id": 5
+    },
+    {
+        "name": "Chernobyl nuclear accident",
+        "url": "https://www.iaea.org/newscenter/focus/chernobyl",
+        "id": 6
+    }
+
+]

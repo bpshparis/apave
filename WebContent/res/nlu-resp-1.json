@@ -1,0 +1,600 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 20648,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.731016,
+      "label": "positive"
+    }
+  },
+  "retrieved_url": "https://www.iaea.org/newscenter/focus/iran",
+  "language": "en",
+  "keywords": [
+    {
+      "text": "IAEA’s work",
+      "relevance": 0.932852,
+      "count": 2
+    },
+    {
+      "text": "IAEA Director General Yukiya Amano",
+      "relevance": 0.905139,
+      "count": 6
+    },
+    {
+      "text": "IAEA Board of Governors",
+      "relevance": 0.810745,
+      "count": 6
+    },
+    {
+      "text": "Special coverage of IAEA inspection activities",
+      "relevance": 0.779298,
+      "count": 1
+    },
+    {
+      "text": "IAEA Director General Holds Talks",
+      "relevance": 0.713001,
+      "count": 1
+    },
+    {
+      "text": "application of IAEA safeguards",
+      "relevance": 0.690156,
+      "count": 1
+    },
+    {
+      "text": "Introductory Statement",
+      "relevance": 0.68427,
+      "count": 42
+    },
+    {
+      "text": "IAEA Board of Governors Opens",
+      "relevance": 0.679957,
+      "count": 1
+    },
+    {
+      "text": "UN General Assembly",
+      "relevance": 0.671136,
+      "count": 1
+    },
+    {
+      "text": "September Meeting",
+      "relevance": 0.620757,
+      "count": 2
+    },
+    {
+      "text": "IAEA Director General Reports",
+      "relevance": 0.615579,
+      "count": 1
+    },
+    {
+      "text": "Board of Governors",
+      "relevance": 0.592012,
+      "count": 54
+    },
+    {
+      "text": "statements",
+      "relevance": 0.55994,
+      "count": 1
+    },
+    {
+      "text": "November",
+      "relevance": 0.549913,
+      "count": 31
+    },
+    {
+      "text": "IAEA Director General",
+      "relevance": 0.549881,
+      "count": 18
+    },
+    {
+      "text": "September",
+      "relevance": 0.54544,
+      "count": 31
+    },
+    {
+      "text": "media coverage",
+      "relevance": 0.539118,
+      "count": 1
+    },
+    {
+      "text": "IAEA Director General Highlights Achievements",
+      "relevance": 0.538774,
+      "count": 1
+    },
+    {
+      "text": "June",
+      "relevance": 0.534972,
+      "count": 22
+    },
+    {
+      "text": "Iran Sign Road-map Agreement",
+      "relevance": 0.534165,
+      "count": 1
+    },
+    {
+      "text": "Nuclear Verification",
+      "relevance": 0.532066,
+      "count": 8
+    },
+    {
+      "text": "59th General Conference",
+      "relevance": 0.530376,
+      "count": 1
+    },
+    {
+      "text": "Director General Statement",
+      "relevance": 0.52888,
+      "count": 1
+    },
+    {
+      "text": "Director General",
+      "relevance": 0.528868,
+      "count": 4
+    },
+    {
+      "text": "Joint Statement",
+      "relevance": 0.528624,
+      "count": 2
+    },
+    {
+      "text": "March",
+      "relevance": 0.528471,
+      "count": 24
+    },
+    {
+      "text": "IAEA LEU Bank Storage Facility",
+      "relevance": 0.524598,
+      "count": 1
+    },
+    {
+      "text": "Acting Director General Urges Iran",
+      "relevance": 0.523387,
+      "count": 1
+    },
+    {
+      "text": "National Development Priorities",
+      "relevance": 0.522834,
+      "count": 1
+    },
+    {
+      "text": "December",
+      "relevance": 0.522772,
+      "count": 14
+    },
+    {
+      "text": "Roadmap Agreement",
+      "relevance": 0.518554,
+      "count": 1
+    },
+    {
+      "text": "Director General’s Press Briefing",
+      "relevance": 0.51826,
+      "count": 1
+    },
+    {
+      "text": "Opening Remarks",
+      "relevance": 0.517953,
+      "count": 1
+    },
+    {
+      "text": "North Korea",
+      "relevance": 0.51678,
+      "count": 3
+    },
+    {
+      "text": "IAEA Chief Addresses Media",
+      "relevance": 0.516409,
+      "count": 1
+    },
+    {
+      "text": "Iran",
+      "relevance": 0.5164,
+      "count": 84
+    },
+    {
+      "text": "Significant Progress",
+      "relevance": 0.516109,
+      "count": 1
+    },
+    {
+      "text": "October",
+      "relevance": 0.516044,
+      "count": 11
+    },
+    {
+      "text": "Nuclear Fuel",
+      "relevance": 0.514941,
+      "count": 1
+    },
+    {
+      "text": "Panel Discussion",
+      "relevance": 0.513594,
+      "count": 1
+    },
+    {
+      "text": "IAEA",
+      "relevance": 0.512495,
+      "count": 21
+    },
+    {
+      "text": "Acting Director General",
+      "relevance": 0.511907,
+      "count": 1
+    },
+    {
+      "text": "Press Conference",
+      "relevance": 0.511742,
+      "count": 1
+    },
+    {
+      "text": "E3",
+      "relevance": 0.511609,
+      "count": 2
+    },
+    {
+      "text": "Health Care",
+      "relevance": 0.51124,
+      "count": 1
+    },
+    {
+      "text": "International Institute",
+      "relevance": 0.509537,
+      "count": 1
+    },
+    {
+      "text": "Vice-President",
+      "relevance": 0.509412,
+      "count": 1
+    },
+    {
+      "text": "Press",
+      "relevance": 0.509296,
+      "count": 2
+    },
+    {
+      "text": "January",
+      "relevance": 0.509093,
+      "count": 19
+    },
+    {
+      "text": "Statement",
+      "relevance": 0.508603,
+      "count": 12
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "IAEA",
+      "relevance": 0.9999,
+      "count": 119,
+      "confidence": 1
+    },
+    {
+      "type": "Location",
+      "text": "Iran",
+      "relevance": 0.881187,
+      "count": 106,
+      "confidence": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Board of Governors",
+      "relevance": 0.771874,
+      "count": 65,
+      "confidence": 1
+    },
+    {
+      "type": "Person",
+      "text": "Director General Yukiya Amano",
+      "relevance": 0.194235,
+      "count": 10,
+      "confidence": 0.999922
+    },
+    {
+      "type": "Person",
+      "text": "Yukiya Amano",
+      "relevance": 0.148223,
+      "disambiguation": {
+        "name": "Yukiya_Amano",
+        "dbpedia_resource": "http://dbpedia.org/resource/Yukiya_Amano"
+      },
+      "count": 7,
+      "confidence": 1.0
+    },
+    {
+      "type": "Location",
+      "text": "Tehran",
+      "relevance": 0.081877,
+      "count": 9,
+      "confidence": 1
+    },
+    {
+      "type": "Person",
+      "text": "Amano",
+      "relevance": 0.052074,
+      "count": 5,
+      "confidence": 0.999983
+    },
+    {
+      "type": "Organization",
+      "text": "IAEA Board of Governors",
+      "relevance": 0.04858,
+      "count": 2,
+      "confidence": 0.92445
+    },
+    {
+      "type": "Organization",
+      "text": "United Nations General Assembly",
+      "relevance": 0.047758,
+      "disambiguation": {
+        "name": "United_Nations_General_Assembly",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Nations_General_Assembly"
+      },
+      "count": 5,
+      "confidence": 0.998856
+    },
+    {
+      "type": "Person",
+      "text": "Director General Amano",
+      "relevance": 0.047047,
+      "count": 2,
+      "confidence": 0.871382
+    },
+    {
+      "type": "Organization",
+      "text": "59th General Conference",
+      "relevance": 0.044765,
+      "count": 1,
+      "confidence": 0.196646
+    },
+    {
+      "type": "Location",
+      "text": "North Korea",
+      "relevance": 0.039713,
+      "disambiguation": {
+        "subtype": [
+          "Country",
+          "GovernmentalJurisdiction"
+        ],
+        "name": "North_Korea",
+        "dbpedia_resource": "http://dbpedia.org/resource/North_Korea"
+      },
+      "count": 3,
+      "confidence": 0.998303
+    },
+    {
+      "type": "Person",
+      "text": "Dr. ElBaradei",
+      "relevance": 0.03387,
+      "count": 1,
+      "confidence": 0.983671
+    },
+    {
+      "type": "Person",
+      "text": "Larijani",
+      "relevance": 0.03366,
+      "count": 1,
+      "confidence": 0.94386
+    },
+    {
+      "type": "Location",
+      "text": "Vienna",
+      "relevance": 0.031041,
+      "count": 3,
+      "confidence": 1
+    },
+    {
+      "type": "Company",
+      "text": "CNN",
+      "relevance": 0.028987,
+      "disambiguation": {
+        "subtype": [
+          "Broadcast",
+          "AwardWinner",
+          "RadioNetwork",
+          "TVNetwork"
+        ],
+        "name": "CNN",
+        "dbpedia_resource": "http://dbpedia.org/resource/CNN"
+      },
+      "count": 4,
+      "confidence": 0.999857
+    },
+    {
+      "type": "Person",
+      "text": "Amano Meets U.S. Ambassador Haley",
+      "relevance": 0.02819,
+      "count": 1,
+      "confidence": 0.555877
+    },
+    {
+      "type": "Facility",
+      "text": "Bank Storage Facility",
+      "relevance": 0.02739,
+      "count": 1,
+      "confidence": 0.17984
+    },
+    {
+      "type": "Location",
+      "text": "Lausanne",
+      "relevance": 0.027218,
+      "count": 3,
+      "confidence": 0.991835
+    },
+    {
+      "type": "Quantity",
+      "text": "Six Decades",
+      "relevance": 0.025736,
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "Company",
+      "text": "BBC",
+      "relevance": 0.023342,
+      "count": 3,
+      "confidence": 0.999991
+    },
+    {
+      "type": "Person",
+      "text": "ElBaradei",
+      "relevance": 0.020217,
+      "count": 1,
+      "confidence": 0.930707
+    },
+    {
+      "type": "Organization",
+      "text": "UN",
+      "relevance": 0.019351,
+      "disambiguation": {
+        "subtype": [
+          "MembershipOrganization",
+          "AwardWinner",
+          "GovernmentalBody",
+          "TouristAttraction"
+        ],
+        "name": "United_Nations",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Nations"
+      },
+      "count": 2,
+      "confidence": 1.0
+    },
+    {
+      "type": "Person",
+      "text": "US Secretary of State John Kerry",
+      "relevance": 0.018576,
+      "count": 1,
+      "confidence": 0.338275
+    },
+    {
+      "type": "Organization",
+      "text": "Attends Munich Security Conference",
+      "relevance": 0.014439,
+      "count": 1,
+      "confidence": 0.198799
+    },
+    {
+      "type": "Person",
+      "text": "Tero Varjoranta",
+      "relevance": 0.013846,
+      "count": 1,
+      "confidence": 0.839732
+    },
+    {
+      "type": "Organization",
+      "text": "Board of Governors Convenes",
+      "relevance": 0.01322,
+      "count": 1,
+      "confidence": 0.62262
+    },
+    {
+      "type": "Location",
+      "text": "U.S.",
+      "relevance": 0.01169,
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ],
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 3,
+      "confidence": 0.999999
+    },
+    {
+      "type": "Organization",
+      "text": "Security Council",
+      "relevance": 0.009729,
+      "disambiguation": {
+        "name": "United_Nations_Security_Council",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Nations_Security_Council"
+      },
+      "count": 1,
+      "confidence": 0.535136
+    },
+    {
+      "type": "Location",
+      "text": "New York",
+      "relevance": 0.007756,
+      "count": 1,
+      "confidence": 0.997116
+    },
+    {
+      "type": "Organization",
+      "text": "EU",
+      "relevance": 0.007582,
+      "count": 2,
+      "confidence": 0.999647
+    },
+    {
+      "type": "Person",
+      "text": "State Minister Kihara",
+      "relevance": 0.005285,
+      "count": 1,
+      "confidence": 0.41303
+    },
+    {
+      "type": "Organization",
+      "text": "Atomic Energy Organization",
+      "relevance": 0.004437,
+      "count": 1,
+      "confidence": 0.566438
+    },
+    {
+      "type": "Person",
+      "text": "Dr Ali Akbar Salehi",
+      "relevance": 0.004359,
+      "count": 1,
+      "confidence": 0.989588
+    },
+    {
+      "type": "Organization",
+      "text": "International Institute for Strategic Studies",
+      "relevance": 0.002057,
+      "disambiguation": {
+        "name": "International_Institute_for_Strategic_Studies",
+        "dbpedia_resource": "http://dbpedia.org/resource/International_Institute_for_Strategic_Studies"
+      },
+      "count": 1,
+      "confidence": 0.806052
+    }
+  ],
+  "concepts": [
+    {
+      "text": "2010s",
+      "relevance": 0.97955,
+      "dbpedia_resource": "http://dbpedia.org/resource/2010s"
+    },
+    {
+      "text": "2016",
+      "relevance": 0.917311,
+      "dbpedia_resource": "http://dbpedia.org/resource/2016"
+    },
+    {
+      "text": "Years in the future",
+      "relevance": 0.910479,
+      "dbpedia_resource": "http://dbpedia.org/resource/Years_in_the_future"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.916419,
+      "label": "/law, govt and politics/government/heads of state"
+    },
+    {
+      "score": 0.766762,
+      "label": "/law, govt and politics/armed forces"
+    },
+    {
+      "score": 0.70807,
+      "label": "/society/unrest and war"
+    }
+  ]
+}
