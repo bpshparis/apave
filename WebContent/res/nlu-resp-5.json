@@ -1,0 +1,420 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 13352,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.650896,
+      "label": "positive"
+    }
+  },
+  "retrieved_url": "https://www.iaea.org/newscenter/focus/fukushima/status-update",
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Japanese Government",
+      "relevance": 0.62633,
+      "count": 4
+    },
+    {
+      "text": "updated information",
+      "relevance": 0.61927,
+      "count": 2
+    },
+    {
+      "text": "food restrictions",
+      "relevance": 0.605113,
+      "count": 4
+    },
+    {
+      "text": "laboratory comparison exercises",
+      "relevance": 0.582988,
+      "count": 2
+    },
+    {
+      "text": "IAEA",
+      "relevance": 0.581375,
+      "count": 34
+    },
+    {
+      "text": "copy of a report",
+      "relevance": 0.579109,
+      "count": 4
+    },
+    {
+      "text": "Fukushima Daiichi Nuclear Power Station",
+      "relevance": 0.577256,
+      "count": 8
+    },
+    {
+      "text": "purpose of public reassurance",
+      "relevance": 0.576761,
+      "count": 4
+    },
+    {
+      "text": "water injection reduction test",
+      "relevance": 0.57145,
+      "count": 2
+    },
+    {
+      "text": "continued vigilance of the authorities",
+      "relevance": 0.546857,
+      "count": 2
+    },
+    {
+      "text": "appropriate regulatory action",
+      "relevance": 0.546323,
+      "count": 4
+    },
+    {
+      "text": "significant changes",
+      "relevance": 0.54593,
+      "count": 6
+    },
+    {
+      "text": "public communication",
+      "relevance": 0.544695,
+      "count": 4
+    },
+    {
+      "text": "Fukushima Prefecture",
+      "relevance": 0.54033,
+      "count": 2
+    },
+    {
+      "text": "results of previous proficiency tests",
+      "relevance": 0.539592,
+      "count": 2
+    },
+    {
+      "text": "Joint FAO",
+      "relevance": 0.53647,
+      "count": 4
+    },
+    {
+      "text": "coastal waters",
+      "relevance": 0.534339,
+      "count": 2
+    },
+    {
+      "text": "Japanese laboratories",
+      "relevance": 0.534231,
+      "count": 2
+    },
+    {
+      "text": "recovery operations",
+      "relevance": 0.533543,
+      "count": 4
+    },
+    {
+      "text": "safety of the food supply",
+      "relevance": 0.531704,
+      "count": 6
+    },
+    {
+      "text": "Japan",
+      "relevance": 0.531323,
+      "count": 26
+    },
+    {
+      "text": "marine environment",
+      "relevance": 0.52671,
+      "count": 4
+    },
+    {
+      "text": "significant decrease of groundwater inflow",
+      "relevance": 0.526664,
+      "count": 2
+    },
+    {
+      "text": "first advisory point",
+      "relevance": 0.525721,
+      "count": 2
+    },
+    {
+      "text": "agricultural production",
+      "relevance": 0.525448,
+      "count": 4
+    },
+    {
+      "text": "continuation of sea area",
+      "relevance": 0.525199,
+      "count": 4
+    },
+    {
+      "text": "fisheries samples",
+      "relevance": 0.525172,
+      "count": 4
+    },
+    {
+      "text": "marine biota",
+      "relevance": 0.523127,
+      "count": 4
+    },
+    {
+      "text": "site areas",
+      "relevance": 0.521482,
+      "count": 2
+    },
+    {
+      "text": "reliable data",
+      "relevance": 0.519784,
+      "count": 2
+    },
+    {
+      "text": "interlaboratory comparison exercises",
+      "relevance": 0.519087,
+      "count": 2
+    },
+    {
+      "text": "seawater",
+      "relevance": 0.518726,
+      "count": 16
+    },
+    {
+      "text": "relevant authorities",
+      "relevance": 0.518403,
+      "count": 4
+    },
+    {
+      "text": "discharge record",
+      "relevance": 0.51794,
+      "count": 4
+    },
+    {
+      "text": "ongoing progress",
+      "relevance": 0.516918,
+      "count": 2
+    },
+    {
+      "text": "radionuclide contamination of food",
+      "relevance": 0.516635,
+      "count": 4
+    },
+    {
+      "text": "groundwater level",
+      "relevance": 0.515125,
+      "count": 2
+    },
+    {
+      "text": "sediment",
+      "relevance": 0.515009,
+      "count": 8
+    },
+    {
+      "text": "information",
+      "relevance": 0.514579,
+      "count": 12
+    },
+    {
+      "text": "analytical performance of the Japanese laboratories",
+      "relevance": 0.514073,
+      "count": 2
+    },
+    {
+      "text": "results",
+      "relevance": 0.514012,
+      "count": 8
+    },
+    {
+      "text": "IAEA Division",
+      "relevance": 0.513298,
+      "count": 4
+    },
+    {
+      "text": "food",
+      "relevance": 0.513273,
+      "count": 4
+    },
+    {
+      "text": "water",
+      "relevance": 0.513056,
+      "count": 2
+    },
+    {
+      "text": "Ministry of Foreign Affairs",
+      "relevance": 0.511739,
+      "count": 4
+    },
+    {
+      "text": "marine sediment",
+      "relevance": 0.511699,
+      "count": 4
+    },
+    {
+      "text": "progress",
+      "relevance": 0.510973,
+      "count": 6
+    },
+    {
+      "text": "second half",
+      "relevance": 0.510084,
+      "count": 2
+    },
+    {
+      "text": "regard",
+      "relevance": 0.509745,
+      "count": 4
+    },
+    {
+      "text": "fishery",
+      "relevance": 0.509514,
+      "count": 4
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "IAEA",
+      "relevance": 0.9999,
+      "count": 38,
+      "confidence": 1
+    },
+    {
+      "type": "Location",
+      "text": "Japan",
+      "relevance": 0.655693,
+      "disambiguation": {
+        "subtype": [
+          "MusicalGroup",
+          "BroadcastArtist",
+          "MusicalArtist",
+          "RecordProducer"
+        ],
+        "name": "Japan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Japan"
+      },
+      "count": 30,
+      "confidence": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Fukushima Daiichi Nuclear Power Station",
+      "relevance": 0.644394,
+      "count": 8,
+      "confidence": 0.997547
+    },
+    {
+      "type": "Organization",
+      "text": "Japanese Government",
+      "relevance": 0.270772,
+      "disambiguation": {
+        "name": "Government_of_Japan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Government_of_Japan"
+      },
+      "count": 4,
+      "confidence": 1.0
+    },
+    {
+      "type": "Organization",
+      "text": "Ministry of Foreign Affairs",
+      "relevance": 0.245835,
+      "count": 4,
+      "confidence": 0.999999
+    },
+    {
+      "type": "Organization",
+      "text": "Peer Review Mission",
+      "relevance": 0.184543,
+      "count": 2,
+      "confidence": 0.82848
+    },
+    {
+      "type": "Organization",
+      "text": "Joint FAO",
+      "relevance": 0.17663,
+      "count": 4,
+      "confidence": 0.983134
+    },
+    {
+      "type": "Organization",
+      "text": "ISF",
+      "relevance": 0.099845,
+      "count": 2,
+      "confidence": 0.999698
+    },
+    {
+      "type": "Quantity",
+      "text": "three years",
+      "relevance": 0.050886,
+      "count": 2,
+      "confidence": 0.96
+    },
+    {
+      "type": "Location",
+      "text": "Fukushima Prefecture",
+      "relevance": 0.036516,
+      "count": 2,
+      "confidence": 0.85894
+    },
+    {
+      "type": "Organization",
+      "text": "Government",
+      "relevance": 0.01674,
+      "disambiguation": {
+        "subtype": [
+          "FieldOfStudy",
+          "BuildingFunction"
+        ],
+        "name": "Government",
+        "dbpedia_resource": "http://dbpedia.org/resource/Government"
+      },
+      "count": 2,
+      "confidence": 0.980186
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Government of Japan",
+      "relevance": 0.956624,
+      "dbpedia_resource": "http://dbpedia.org/resource/Government_of_Japan"
+    },
+    {
+      "text": "Prefectures of Japan",
+      "relevance": 0.854059,
+      "dbpedia_resource": "http://dbpedia.org/resource/Prefectures_of_Japan"
+    },
+    {
+      "text": "Japan",
+      "relevance": 0.613272,
+      "dbpedia_resource": "http://dbpedia.org/resource/Japan"
+    },
+    {
+      "text": "Cabinet of Japan",
+      "relevance": 0.608653,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cabinet_of_Japan"
+    },
+    {
+      "text": "Ocean",
+      "relevance": 0.601999,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ocean"
+    },
+    {
+      "text": "Nuclear power",
+      "relevance": 0.599445,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nuclear_power"
+    },
+    {
+      "text": "Honshū",
+      "relevance": 0.54688,
+      "dbpedia_resource": "http://dbpedia.org/resource/Honshū"
+    },
+    {
+      "text": "Constitution of Japan",
+      "relevance": 0.544471,
+      "dbpedia_resource": "http://dbpedia.org/resource/Constitution_of_Japan"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999993,
+      "label": "/business and industrial/energy/nuclear power/nuclear accident"
+    },
+    {
+      "score": 0.654596,
+      "label": "/science/weather/meteorological disaster"
+    }
+  ]
+}

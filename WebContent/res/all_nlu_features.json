@@ -1,0 +1,30 @@
+{
+  "concepts": {},
+  "emotion": {},
+  "entities": {
+      "mentions": true,
+      "sentiment": true,
+      "emotion": true
+  },
+  "keywords": {
+    "sentiment": true,
+    "emotion": true
+  },
+  "metadata": {},
+  "relations": {},
+  "semantic_roles":{
+    "keywords": true,
+    "entities": true
+  },
+  "sentiment": {},
+  "categories": {
+      "explanation": true
+  },
+  "syntax": {
+    "tokens": {
+        "lemma": true,
+        "part_of_speech": true
+    },
+    "sentences": true
+  }
+}

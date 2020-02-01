@@ -1,0 +1,369 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1132,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.345696,
+      "label": "positive"
+    }
+  },
+  "retrieved_url": "https://www.iaea.org/newscenter/focus/chernobyl",
+  "language": "en",
+  "keywords": [
+    {
+      "text": "nuclear power plant",
+      "relevance": 0.807011,
+      "count": 1
+    },
+    {
+      "text": "IAEA’s work",
+      "relevance": 0.784588,
+      "count": 1
+    },
+    {
+      "text": "Chernobyl accident",
+      "relevance": 0.681835,
+      "count": 1
+    },
+    {
+      "text": "history of the nuclear power industry",
+      "relevance": 0.647265,
+      "count": 1
+    },
+    {
+      "text": "Chernobyl Disaster",
+      "relevance": 0.594564,
+      "count": 1
+    },
+    {
+      "text": "IAEA Director General Yukiya Amano",
+      "relevance": 0.590476,
+      "count": 1
+    },
+    {
+      "text": "April",
+      "relevance": 0.57668,
+      "count": 3
+    },
+    {
+      "text": "Chernobyl",
+      "relevance": 0.568475,
+      "count": 3
+    },
+    {
+      "text": "huge release of radionuclides",
+      "relevance": 0.562426,
+      "count": 1
+    },
+    {
+      "text": "Russian Federation",
+      "relevance": 0.544507,
+      "count": 1
+    },
+    {
+      "text": "weekly updates",
+      "relevance": 0.54215,
+      "count": 1
+    },
+    {
+      "text": "IAEA",
+      "relevance": 0.538953,
+      "count": 2
+    },
+    {
+      "text": "accident",
+      "relevance": 0.532535,
+      "count": 1
+    },
+    {
+      "text": "November",
+      "relevance": 0.531512,
+      "count": 1
+    },
+    {
+      "text": "March",
+      "relevance": 0.529418,
+      "count": 1
+    },
+    {
+      "text": "marks",
+      "relevance": 0.52845,
+      "count": 1
+    },
+    {
+      "text": "large areas of Belarus",
+      "relevance": 0.524102,
+      "count": 1
+    },
+    {
+      "text": "statement",
+      "relevance": 0.522592,
+      "count": 1
+    },
+    {
+      "text": "Global Support",
+      "relevance": 0.52003,
+      "count": 1
+    },
+    {
+      "text": "stories",
+      "relevance": 0.519003,
+      "count": 1
+    },
+    {
+      "text": "Tuesday",
+      "relevance": 0.51711,
+      "count": 1
+    },
+    {
+      "text": "Lessons",
+      "relevance": 0.516566,
+      "count": 1
+    },
+    {
+      "text": "photographs",
+      "relevance": 0.516516,
+      "count": 1
+    },
+    {
+      "text": "videos",
+      "relevance": 0.515112,
+      "count": 1
+    },
+    {
+      "text": "Global Efforts",
+      "relevance": 0.514839,
+      "count": 1
+    },
+    {
+      "text": "Radiation",
+      "relevance": 0.513382,
+      "count": 1
+    },
+    {
+      "text": "important news",
+      "relevance": 0.508975,
+      "count": 1
+    },
+    {
+      "text": "Ukraine",
+      "relevance": 0.508348,
+      "count": 1
+    },
+    {
+      "text": "Safety",
+      "relevance": 0.506885,
+      "count": 1
+    },
+    {
+      "text": "Regions",
+      "relevance": 0.502839,
+      "count": 1
+    },
+    {
+      "text": "technical aspects of the affected regions",
+      "relevance": 0.490141,
+      "count": 1
+    },
+    {
+      "text": "Models Help",
+      "relevance": 0.486626,
+      "count": 1
+    },
+    {
+      "text": "Recovery Moves",
+      "relevance": 0.484834,
+      "count": 1
+    },
+    {
+      "text": "former USSR",
+      "relevance": 0.463911,
+      "count": 1
+    },
+    {
+      "text": "occasion of the anniversary",
+      "relevance": 0.463911,
+      "count": 1
+    },
+    {
+      "text": "Correct Assessment",
+      "relevance": 0.463911,
+      "count": 1
+    },
+    {
+      "text": "Next Phase",
+      "relevance": 0.463911,
+      "count": 1
+    },
+    {
+      "text": "Future",
+      "relevance": 0.425461,
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "IAEA",
+      "relevance": 0.961624,
+      "disambiguation": {
+        "subtype": [
+          "AwardWinner"
+        ],
+        "name": "International_Atomic_Energy_Agency",
+        "dbpedia_resource": "http://dbpedia.org/resource/International_Atomic_Energy_Agency"
+      },
+      "count": 4,
+      "confidence": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Chernobyl nuclear power plant",
+      "relevance": 0.548331,
+      "disambiguation": {
+        "subtype": [
+          "Location"
+        ],
+        "name": "Chernobyl_Nuclear_Power_Plant",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chernobyl_Nuclear_Power_Plant"
+      },
+      "count": 1,
+      "confidence": 0.248874
+    },
+    {
+      "type": "Person",
+      "text": "Director General Yukiya Amano",
+      "relevance": 0.430328,
+      "count": 1,
+      "confidence": 0.582839
+    },
+    {
+      "type": "Quantity",
+      "text": "2016               30 Years",
+      "relevance": 0.364431,
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "Organization",
+      "text": "Russian Federation",
+      "relevance": 0.343007,
+      "disambiguation": {
+        "name": "Russia",
+        "dbpedia_resource": "http://dbpedia.org/resource/Russia"
+      },
+      "count": 1,
+      "confidence": 0.98694
+    },
+    {
+      "type": "Location",
+      "text": "Belarus",
+      "relevance": 0.339958,
+      "disambiguation": {
+        "subtype": [
+          "Country",
+          "GovernmentalJurisdiction"
+        ],
+        "name": "Belarus",
+        "dbpedia_resource": "http://dbpedia.org/resource/Belarus"
+      },
+      "count": 1,
+      "confidence": 0.996926
+    },
+    {
+      "type": "Location",
+      "text": "Ukraine",
+      "relevance": 0.294586,
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "Country",
+          "GovernmentalJurisdiction",
+          "Cuisine",
+          "ProjectParticipant"
+        ],
+        "name": "Ukraine",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ukraine"
+      },
+      "count": 1,
+      "confidence": 0.999492
+    },
+    {
+      "type": "Location",
+      "text": "USSR",
+      "relevance": 0.291949,
+      "disambiguation": {
+        "subtype": [
+          "Country",
+          "GovernmentalJurisdiction"
+        ],
+        "name": "Soviet_Union",
+        "dbpedia_resource": "http://dbpedia.org/resource/Soviet_Union"
+      },
+      "count": 1,
+      "confidence": 0.737705
+    },
+    {
+      "type": "Quantity",
+      "text": "30 years",
+      "relevance": 0.253283,
+      "count": 1,
+      "confidence": 0.8
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Chernobyl disaster",
+      "relevance": 0.976483,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chernobyl_disaster"
+    },
+    {
+      "text": "Ukraine",
+      "relevance": 0.888015,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ukraine"
+    },
+    {
+      "text": "Nuclear power",
+      "relevance": 0.734911,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nuclear_power"
+    },
+    {
+      "text": "Belarus",
+      "relevance": 0.703168,
+      "dbpedia_resource": "http://dbpedia.org/resource/Belarus"
+    },
+    {
+      "text": "Russia",
+      "relevance": 0.689131,
+      "dbpedia_resource": "http://dbpedia.org/resource/Russia"
+    },
+    {
+      "text": "Nuclear safety",
+      "relevance": 0.567364,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nuclear_safety"
+    },
+    {
+      "text": "International Atomic Energy Agency",
+      "relevance": 0.563251,
+      "dbpedia_resource": "http://dbpedia.org/resource/International_Atomic_Energy_Agency"
+    },
+    {
+      "text": "Soviet Union",
+      "relevance": 0.544456,
+      "dbpedia_resource": "http://dbpedia.org/resource/Soviet_Union"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.99998,
+      "label": "/business and industrial/energy/nuclear power"
+    },
+    {
+      "score": 0.998562,
+      "label": "/business and industrial/energy/nuclear power/nuclear accident"
+    }
+  ]
+}

@@ -1,0 +1,714 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 20813,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.818982,
+      "label": "positive"
+    }
+  },
+  "retrieved_url": "https://www.iaea.org/newscenter/focus/fukushima",
+  "language": "en",
+  "keywords": [
+    {
+      "text": "IAEA’s work",
+      "relevance": 0.854272,
+      "count": 1
+    },
+    {
+      "text": "Nuclear Safety Convention Review",
+      "relevance": 0.802836,
+      "count": 1
+    },
+    {
+      "text": "Nuclear Accident",
+      "relevance": 0.685093,
+      "count": 8
+    },
+    {
+      "text": "IAEA Fukushima Report",
+      "relevance": 0.683232,
+      "count": 1
+    },
+    {
+      "text": "Japanese Experts Conduct Joint Mission",
+      "relevance": 0.644336,
+      "count": 1
+    },
+    {
+      "text": "Nuclear Power",
+      "relevance": 0.611296,
+      "count": 2
+    },
+    {
+      "text": "IAEA Action Plan",
+      "relevance": 0.601392,
+      "count": 4
+    },
+    {
+      "text": "International Experts’ Meeting",
+      "relevance": 0.594074,
+      "count": 1
+    },
+    {
+      "text": "Daiichi Nuclear Power Plant",
+      "relevance": 0.591134,
+      "count": 1
+    },
+    {
+      "text": "Nuclear Safety",
+      "relevance": 0.575793,
+      "count": 21
+    },
+    {
+      "text": "Final Report",
+      "relevance": 0.572595,
+      "count": 4
+    },
+    {
+      "text": "Fukushima Daiichi Accident",
+      "relevance": 0.570042,
+      "count": 4
+    },
+    {
+      "text": "IAEA Director General Surveys Tsunami",
+      "relevance": 0.560653,
+      "count": 1
+    },
+    {
+      "text": "Board of Governors",
+      "relevance": 0.55947,
+      "count": 8
+    },
+    {
+      "text": "IAEA Fact-Finding Mission",
+      "relevance": 0.558603,
+      "count": 2
+    },
+    {
+      "text": "Director General Statement",
+      "relevance": 0.557139,
+      "count": 2
+    },
+    {
+      "text": "56th General Conference",
+      "relevance": 0.555447,
+      "count": 1
+    },
+    {
+      "text": "Introductory Statement",
+      "relevance": 0.548031,
+      "count": 8
+    },
+    {
+      "text": "IAEA",
+      "relevance": 0.546074,
+      "count": 9
+    },
+    {
+      "text": "IEM VI",
+      "relevance": 0.54591,
+      "count": 1
+    },
+    {
+      "text": "Fukushima",
+      "relevance": 0.543888,
+      "count": 18
+    },
+    {
+      "text": "Fukushima Nuclear Accident",
+      "relevance": 0.542568,
+      "count": 1
+    },
+    {
+      "text": "IAEA Ministerial Conference",
+      "relevance": 0.541977,
+      "count": 4
+    },
+    {
+      "text": "International Fact",
+      "relevance": 0.540928,
+      "count": 2
+    },
+    {
+      "text": "IAEA Leads Nuclear Safety Mission",
+      "relevance": 0.538009,
+      "count": 1
+    },
+    {
+      "text": "Radiation Protection",
+      "relevance": 0.536193,
+      "count": 4
+    },
+    {
+      "text": "Japanese Nuclear Power Station",
+      "relevance": 0.535213,
+      "count": 1
+    },
+    {
+      "text": "IAEA Nuclear Safety Review",
+      "relevance": 0.534863,
+      "count": 1
+    },
+    {
+      "text": "March",
+      "relevance": 0.532762,
+      "count": 23
+    },
+    {
+      "text": "Nuclear Emergency",
+      "relevance": 0.532736,
+      "count": 7
+    },
+    {
+      "text": "IAEA Briefs Member States",
+      "relevance": 0.530014,
+      "count": 4
+    },
+    {
+      "text": "Disaster Response",
+      "relevance": 0.529406,
+      "count": 1
+    },
+    {
+      "text": "Fourth Review of Fukushima Decommissioning",
+      "relevance": 0.529268,
+      "count": 1
+    },
+    {
+      "text": "November",
+      "relevance": 0.528271,
+      "count": 22
+    },
+    {
+      "text": "Director General's Report",
+      "relevance": 0.527117,
+      "count": 1
+    },
+    {
+      "text": "Director General",
+      "relevance": 0.526853,
+      "count": 2
+    },
+    {
+      "text": "IAEA Teams Assist Japan",
+      "relevance": 0.523679,
+      "count": 1
+    },
+    {
+      "text": "June",
+      "relevance": 0.523353,
+      "count": 20
+    },
+    {
+      "text": "Water Management",
+      "relevance": 0.522275,
+      "count": 1
+    },
+    {
+      "text": "weekly updates",
+      "relevance": 0.52227,
+      "count": 1
+    },
+    {
+      "text": "September Meeting",
+      "relevance": 0.52206,
+      "count": 1
+    },
+    {
+      "text": "Additional Information",
+      "relevance": 0.521931,
+      "count": 1
+    },
+    {
+      "text": "Preliminary Summary Report",
+      "relevance": 0.521736,
+      "count": 4
+    },
+    {
+      "text": "IAEA Releases Director General’s Report",
+      "relevance": 0.521423,
+      "count": 1
+    },
+    {
+      "text": "Second Mission",
+      "relevance": 0.519396,
+      "count": 2
+    },
+    {
+      "text": "Asia-Pacific Region",
+      "relevance": 0.518441,
+      "count": 1
+    },
+    {
+      "text": "Nuclear Power Plants",
+      "relevance": 0.51797,
+      "count": 1
+    },
+    {
+      "text": "September",
+      "relevance": 0.517859,
+      "count": 21
+    },
+    {
+      "text": "Review Meeting of Joint Convention",
+      "relevance": 0.516884,
+      "count": 1
+    },
+    {
+      "text": "Human Factors",
+      "relevance": 0.514916,
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "IAEA",
+      "relevance": 0.9999,
+      "disambiguation": {
+        "subtype": [
+          "AwardWinner"
+        ],
+        "name": "International_Atomic_Energy_Agency",
+        "dbpedia_resource": "http://dbpedia.org/resource/International_Atomic_Energy_Agency"
+      },
+      "count": 94,
+      "confidence": 1
+    },
+    {
+      "type": "Location",
+      "text": "Japan",
+      "relevance": 0.32402,
+      "disambiguation": {
+        "subtype": [
+          "MusicalGroup",
+          "BroadcastArtist",
+          "MusicalArtist",
+          "RecordProducer"
+        ],
+        "name": "Japan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Japan"
+      },
+      "count": 36,
+      "confidence": 1
+    },
+    {
+      "type": "Location",
+      "text": "Fukushima",
+      "relevance": 0.277662,
+      "count": 16,
+      "confidence": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Board of Governors",
+      "relevance": 0.226049,
+      "count": 10,
+      "confidence": 0.99866
+    },
+    {
+      "type": "Facility",
+      "text": "Fukushima Daiichi Nuclear Power Station",
+      "relevance": 0.194883,
+      "count": 9,
+      "confidence": 0.996009
+    },
+    {
+      "type": "Company",
+      "text": "TEPCO",
+      "relevance": 0.150636,
+      "disambiguation": {
+        "name": "Tokyo_Electric_Power_Company",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tokyo_Electric_Power_Company"
+      },
+      "count": 14,
+      "confidence": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Nuclear Regulation Authority",
+      "relevance": 0.126503,
+      "count": 5,
+      "confidence": 0.916668
+    },
+    {
+      "type": "Facility",
+      "text": "Daiichi Nuclear Power Plant",
+      "relevance": 0.12517,
+      "count": 6,
+      "confidence": 0.968922
+    },
+    {
+      "type": "Person",
+      "text": "Denis Flory",
+      "relevance": 0.101448,
+      "count": 2,
+      "confidence": 1.0
+    },
+    {
+      "type": "Organization",
+      "text": "Joint Mission",
+      "relevance": 0.054072,
+      "count": 1,
+      "confidence": 0.546127
+    },
+    {
+      "type": "Person",
+      "text": "Gustavo Caruso",
+      "relevance": 0.049005,
+      "count": 1,
+      "confidence": 0.98697
+    },
+    {
+      "type": "Person",
+      "text": "Tero Varjoranta",
+      "relevance": 0.048714,
+      "count": 1,
+      "confidence": 0.794217
+    },
+    {
+      "type": "Person",
+      "text": "Michael Weightman",
+      "relevance": 0.047444,
+      "count": 1,
+      "confidence": 0.998658
+    },
+    {
+      "type": "Person",
+      "text": "Antonio Guerreiro",
+      "relevance": 0.046542,
+      "count": 1,
+      "confidence": 0.953943
+    },
+    {
+      "type": "Person",
+      "text": "Tomas Žák",
+      "relevance": 0.04622,
+      "count": 1,
+      "confidence": 0.984265
+    },
+    {
+      "type": "Person",
+      "text": "Neil Henderson",
+      "relevance": 0.045967,
+      "count": 1,
+      "confidence": 0.994994
+    },
+    {
+      "type": "Facility",
+      "text": "Daiichi Nuclear Power Station",
+      "relevance": 0.045309,
+      "count": 3,
+      "confidence": 0.640678
+    },
+    {
+      "type": "Person",
+      "text": "Mike Weightman",
+      "relevance": 0.045144,
+      "count": 1,
+      "confidence": 0.999481
+    },
+    {
+      "type": "Quantity",
+      "text": "Six Decades",
+      "relevance": 0.039995,
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "Quantity",
+      "text": "2016               Five Years",
+      "relevance": 0.039179,
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "Location",
+      "text": "Vienna",
+      "relevance": 0.037395,
+      "count": 5,
+      "confidence": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "One Year",
+      "relevance": 0.037283,
+      "count": 2,
+      "confidence": 0.96
+    },
+    {
+      "type": "Facility",
+      "text": "Japanese Nuclear Power Station",
+      "relevance": 0.036831,
+      "count": 1,
+      "confidence": 0.33165
+    },
+    {
+      "type": "Company",
+      "text": "Uranium Fuel Bank",
+      "relevance": 0.036135,
+      "count": 1,
+      "confidence": 0.153544
+    },
+    {
+      "type": "Organization",
+      "text": "IAEA Board of Governors",
+      "relevance": 0.02923,
+      "count": 1,
+      "confidence": 0.733708
+    },
+    {
+      "type": "Organization",
+      "text": "United Nations",
+      "relevance": 0.027274,
+      "disambiguation": {
+        "subtype": [
+          "MembershipOrganization",
+          "AwardWinner",
+          "GovernmentalBody",
+          "TouristAttraction"
+        ],
+        "name": "United_Nations",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Nations"
+      },
+      "count": 2,
+      "confidence": 0.957839
+    },
+    {
+      "type": "Company",
+      "text": "Daiichi Decommissioning Plans",
+      "relevance": 0.026806,
+      "count": 1,
+      "confidence": 0.231457
+    },
+    {
+      "type": "Organization",
+      "text": "Board of Governors Convenes",
+      "relevance": 0.025864,
+      "count": 1,
+      "confidence": 0.62262
+    },
+    {
+      "type": "Organization",
+      "text": "IEC",
+      "relevance": 0.024873,
+      "count": 3,
+      "confidence": 0.963091
+    },
+    {
+      "type": "Facility",
+      "text": "Fukushima Daiichi Plant",
+      "relevance": 0.023708,
+      "count": 1,
+      "confidence": 0.268034
+    },
+    {
+      "type": "Organization",
+      "text": "General Assembly",
+      "relevance": 0.021634,
+      "disambiguation": {
+        "name": "United_Nations_General_Assembly",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Nations_General_Assembly"
+      },
+      "count": 1,
+      "confidence": 0.350982
+    },
+    {
+      "type": "Location",
+      "text": "Czech Republic",
+      "relevance": 0.020832,
+      "count": 1,
+      "confidence": 0.904925
+    },
+    {
+      "type": "NaturalEvent",
+      "text": "Tsunami",
+      "relevance": 0.018422,
+      "count": 1,
+      "confidence": 0.813229
+    },
+    {
+      "type": "Organization",
+      "text": "Nuclear Emergency Response for Food and Agriculture, Joint FAO",
+      "relevance": 0.017693,
+      "count": 1,
+      "confidence": 0.442478
+    },
+    {
+      "type": "Facility",
+      "text": "Fukushima Daiichi Nuclear Power Plant",
+      "relevance": 0.013688,
+      "count": 2,
+      "confidence": 0.524943
+    },
+    {
+      "type": "Organization",
+      "text": "IAEA International Mission",
+      "relevance": 0.011906,
+      "count": 1,
+      "confidence": 0.390375
+    },
+    {
+      "type": "Organization",
+      "text": "Japanese Government",
+      "relevance": 0.010337,
+      "disambiguation": {
+        "name": "Government_of_Japan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Government_of_Japan"
+      },
+      "count": 2,
+      "confidence": 0.858164
+    },
+    {
+      "type": "Facility",
+      "text": "Fukushima Nuclear Power Stations",
+      "relevance": 0.009921,
+      "count": 2,
+      "confidence": 0.442177
+    },
+    {
+      "type": "Location",
+      "text": "New York",
+      "relevance": 0.009488,
+      "count": 1,
+      "confidence": 0.994177
+    },
+    {
+      "type": "Person",
+      "text": "Power Plant",
+      "relevance": 0.005977,
+      "count": 1,
+      "confidence": 0.129966
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Summary Report",
+      "relevance": 0.005775,
+      "count": 1,
+      "confidence": 0.137114
+    },
+    {
+      "type": "Location",
+      "text": "Switzerland",
+      "relevance": 0.005565,
+      "disambiguation": {
+        "name": "Switzerland",
+        "dbpedia_resource": "http://dbpedia.org/resource/Switzerland"
+      },
+      "count": 1,
+      "confidence": 0.999765
+    },
+    {
+      "type": "Organization",
+      "text": "Technical Cooperation Project",
+      "relevance": 0.003303,
+      "count": 1,
+      "confidence": 0.366697
+    },
+    {
+      "type": "Location",
+      "text": "Daiichi",
+      "relevance": 0.002927,
+      "count": 1,
+      "confidence": 0.705791
+    },
+    {
+      "type": "Organization",
+      "text": "Emergency Preparedness and Response",
+      "relevance": 0.001822,
+      "count": 1,
+      "confidence": 0.141981
+    },
+    {
+      "type": "Location",
+      "text": "Pacific Region",
+      "relevance": 0.001585,
+      "count": 1,
+      "confidence": 0.575299
+    },
+    {
+      "type": "Organization",
+      "text": "Asian Nuclear Safety Network",
+      "relevance": 0.001432,
+      "count": 1,
+      "confidence": 0.230988
+    },
+    {
+      "type": "Organization",
+      "text": "ANSN",
+      "relevance": 0.001384,
+      "count": 1,
+      "confidence": 0.777826
+    },
+    {
+      "type": "Location",
+      "text": "Asia",
+      "relevance": 0.001026,
+      "count": 1,
+      "confidence": 0.99738
+    },
+    {
+      "type": "Location",
+      "text": "Paris",
+      "relevance": 2.74e-4,
+      "count": 1,
+      "confidence": 0.947628
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Nuclear safety",
+      "relevance": 0.945982,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nuclear_safety"
+    },
+    {
+      "text": "Nuclear power",
+      "relevance": 0.94169,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nuclear_power"
+    },
+    {
+      "text": "Lunar eclipses",
+      "relevance": 0.846706,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lunar_eclipses"
+    },
+    {
+      "text": "Three Mile Island accident",
+      "relevance": 0.800073,
+      "dbpedia_resource": "http://dbpedia.org/resource/Three_Mile_Island_accident"
+    },
+    {
+      "text": "Electricity generation",
+      "relevance": 0.777684,
+      "dbpedia_resource": "http://dbpedia.org/resource/Electricity_generation"
+    },
+    {
+      "text": "Chernobyl disaster",
+      "relevance": 0.742703,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chernobyl_disaster"
+    },
+    {
+      "text": "Nuclear Regulatory Commission",
+      "relevance": 0.742133,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nuclear_Regulatory_Commission"
+    },
+    {
+      "text": "Coal",
+      "relevance": 0.696465,
+      "dbpedia_resource": "http://dbpedia.org/resource/Coal"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999999,
+      "label": "/business and industrial/energy/nuclear power/nuclear accident"
+    },
+    {
+      "score": 0.764446,
+      "label": "/business and industrial/energy/renewable energy"
+    }
+  ]
+}

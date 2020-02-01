@@ -1,0 +1,486 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 10719,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.693206,
+      "label": "positive"
+    }
+  },
+  "retrieved_url": "https://www.iaea.org/newscenter/focus/dprk",
+  "language": "en",
+  "keywords": [
+    {
+      "text": "IAEA’s work",
+      "relevance": 0.927063,
+      "count": 2
+    },
+    {
+      "text": "IAEA Director General Yukiya Amano",
+      "relevance": 0.909432,
+      "count": 5
+    },
+    {
+      "text": "IAEA activities",
+      "relevance": 0.763718,
+      "count": 1
+    },
+    {
+      "text": "IAEA Board of Governors",
+      "relevance": 0.757176,
+      "count": 4
+    },
+    {
+      "text": "September Meeting",
+      "relevance": 0.679818,
+      "count": 2
+    },
+    {
+      "text": "UN General Assembly",
+      "relevance": 0.663519,
+      "count": 1
+    },
+    {
+      "text": "IAEA Director General",
+      "relevance": 0.641959,
+      "count": 6
+    },
+    {
+      "text": "IAEA Board of Governors Opens",
+      "relevance": 0.633114,
+      "count": 1
+    },
+    {
+      "text": "Introductory Statement",
+      "relevance": 0.615614,
+      "count": 26
+    },
+    {
+      "text": "Acting Director General Urges Iran",
+      "relevance": 0.589894,
+      "count": 1
+    },
+    {
+      "text": "September",
+      "relevance": 0.574526,
+      "count": 26
+    },
+    {
+      "text": "November",
+      "relevance": 0.571568,
+      "count": 21
+    },
+    {
+      "text": "IAEA Director General Highlights Achievements",
+      "relevance": 0.566975,
+      "count": 1
+    },
+    {
+      "text": "Director General",
+      "relevance": 0.555855,
+      "count": 3
+    },
+    {
+      "text": "Board of Governors",
+      "relevance": 0.546575,
+      "count": 34
+    },
+    {
+      "text": "statements",
+      "relevance": 0.546213,
+      "count": 1
+    },
+    {
+      "text": "National Development Priorities",
+      "relevance": 0.543297,
+      "count": 1
+    },
+    {
+      "text": "June",
+      "relevance": 0.543131,
+      "count": 15
+    },
+    {
+      "text": "media reports",
+      "relevance": 0.541948,
+      "count": 1
+    },
+    {
+      "text": "March",
+      "relevance": 0.541427,
+      "count": 14
+    },
+    {
+      "text": "nuclear situation",
+      "relevance": 0.538426,
+      "count": 1
+    },
+    {
+      "text": "information resources",
+      "relevance": 0.537072,
+      "count": 1
+    },
+    {
+      "text": "Acting Director General",
+      "relevance": 0.535897,
+      "count": 1
+    },
+    {
+      "text": "Panel Discussion",
+      "relevance": 0.527786,
+      "count": 1
+    },
+    {
+      "text": "59th General Conference",
+      "relevance": 0.526786,
+      "count": 1
+    },
+    {
+      "text": "Statement",
+      "relevance": 0.523156,
+      "count": 7
+    },
+    {
+      "text": "Press Briefing",
+      "relevance": 0.522108,
+      "count": 1
+    },
+    {
+      "text": "Health Care",
+      "relevance": 0.521982,
+      "count": 1
+    },
+    {
+      "text": "March Meeting",
+      "relevance": 0.520796,
+      "count": 1
+    },
+    {
+      "text": "IAEA LEU Bank Storage Facility",
+      "relevance": 0.520053,
+      "count": 1
+    },
+    {
+      "text": "North Korea",
+      "relevance": 0.518704,
+      "count": 4
+    },
+    {
+      "text": "Coverage of events",
+      "relevance": 0.518419,
+      "count": 1
+    },
+    {
+      "text": "IAEA",
+      "relevance": 0.515171,
+      "count": 5
+    },
+    {
+      "text": "56th General Conference",
+      "relevance": 0.515011,
+      "count": 1
+    },
+    {
+      "text": "Nuclear Safety",
+      "relevance": 0.514634,
+      "count": 1
+    },
+    {
+      "text": "Non-Proliferation",
+      "relevance": 0.513617,
+      "count": 1
+    },
+    {
+      "text": "IAEA Board of Governors September Meeting",
+      "relevance": 0.510387,
+      "count": 1
+    },
+    {
+      "text": "Nuclear Test",
+      "relevance": 0.509672,
+      "count": 3
+    },
+    {
+      "text": "IAEA Director General Highlights Support",
+      "relevance": 0.508629,
+      "count": 1
+    },
+    {
+      "text": "Development",
+      "relevance": 0.508296,
+      "count": 3
+    },
+    {
+      "text": "Remarks",
+      "relevance": 0.506874,
+      "count": 2
+    },
+    {
+      "text": "decisions",
+      "relevance": 0.506334,
+      "count": 1
+    },
+    {
+      "text": "December",
+      "relevance": 0.505758,
+      "count": 2
+    },
+    {
+      "text": "documents",
+      "relevance": 0.50564,
+      "count": 1
+    },
+    {
+      "text": "DPRK",
+      "relevance": 0.505429,
+      "count": 33
+    },
+    {
+      "text": "UN General Assembly Resolution",
+      "relevance": 0.504672,
+      "count": 1
+    },
+    {
+      "text": "Safeguards",
+      "relevance": 0.504367,
+      "count": 18
+    },
+    {
+      "text": "Atoms",
+      "relevance": 0.503843,
+      "count": 1
+    },
+    {
+      "text": "Key Resolutions",
+      "relevance": 0.5035,
+      "count": 1
+    },
+    {
+      "text": "Report",
+      "relevance": 0.503177,
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "IAEA",
+      "relevance": 0.9999,
+      "count": 48,
+      "confidence": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Board of Governors",
+      "relevance": 0.9999,
+      "count": 42,
+      "confidence": 1
+    },
+    {
+      "type": "Location",
+      "text": "Korea",
+      "relevance": 0.516263,
+      "disambiguation": {
+        "subtype": [
+          "Country",
+          "GovernmentalJurisdiction"
+        ],
+        "name": "South_Korea",
+        "dbpedia_resource": "http://dbpedia.org/resource/South_Korea"
+      },
+      "count": 16,
+      "confidence": 1
+    },
+    {
+      "type": "Person",
+      "text": "Director General Yukiya Amano",
+      "relevance": 0.284267,
+      "count": 6,
+      "confidence": 0.997026
+    },
+    {
+      "type": "Person",
+      "text": "Yukiya Amano",
+      "relevance": 0.156242,
+      "disambiguation": {
+        "name": "Yukiya_Amano",
+        "dbpedia_resource": "http://dbpedia.org/resource/Yukiya_Amano"
+      },
+      "count": 3,
+      "confidence": 0.999365
+    },
+    {
+      "type": "Location",
+      "text": "Iran",
+      "relevance": 0.120042,
+      "count": 5,
+      "confidence": 1
+    },
+    {
+      "type": "Organization",
+      "text": "United Nations General Assembly",
+      "relevance": 0.111631,
+      "disambiguation": {
+        "name": "United_Nations_General_Assembly",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Nations_General_Assembly"
+      },
+      "count": 6,
+      "confidence": 0.999774
+    },
+    {
+      "type": "Person",
+      "text": "Dr. ElBaradei",
+      "relevance": 0.110323,
+      "count": 2,
+      "confidence": 0.999723
+    },
+    {
+      "type": "Organization",
+      "text": "59th General Conference",
+      "relevance": 0.10481,
+      "count": 1,
+      "confidence": 0.215909
+    },
+    {
+      "type": "Person",
+      "text": "Becky Anderson",
+      "relevance": 0.074673,
+      "disambiguation": {
+        "name": "Becky_Anderson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Becky_Anderson"
+      },
+      "count": 1,
+      "confidence": 0.997011
+    },
+    {
+      "type": "Facility",
+      "text": "Bank Storage Facility",
+      "relevance": 0.057323,
+      "count": 1,
+      "confidence": 0.17984
+    },
+    {
+      "type": "Quantity",
+      "text": "Six Decades",
+      "relevance": 0.05164,
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "Company",
+      "text": "CNN",
+      "relevance": 0.049789,
+      "disambiguation": {
+        "subtype": [
+          "Broadcast",
+          "AwardWinner",
+          "RadioNetwork",
+          "TVNetwork"
+        ],
+        "name": "CNN",
+        "dbpedia_resource": "http://dbpedia.org/resource/CNN"
+      },
+      "count": 2,
+      "confidence": 0.994486
+    },
+    {
+      "type": "Organization",
+      "text": "IAEA Board of Governors",
+      "relevance": 0.040326,
+      "count": 1,
+      "confidence": 0.733708
+    },
+    {
+      "type": "Organization",
+      "text": "UN",
+      "relevance": 0.039313,
+      "disambiguation": {
+        "subtype": [
+          "MembershipOrganization",
+          "AwardWinner",
+          "GovernmentalBody",
+          "TouristAttraction"
+        ],
+        "name": "United_Nations",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Nations"
+      },
+      "count": 2,
+      "confidence": 1.0
+    },
+    {
+      "type": "Organization",
+      "text": "Board of Governors Convenes",
+      "relevance": 0.039207,
+      "count": 1,
+      "confidence": 0.62262
+    },
+    {
+      "type": "Person",
+      "text": "Amano",
+      "relevance": 0.038312,
+      "count": 2,
+      "confidence": 0.992506
+    },
+    {
+      "type": "Person",
+      "text": "Director General ElBaradei",
+      "relevance": 0.033915,
+      "count": 1,
+      "confidence": 0.630482
+    }
+  ],
+  "concepts": [
+    {
+      "text": "2010s",
+      "relevance": 0.988402,
+      "dbpedia_resource": "http://dbpedia.org/resource/2010s"
+    },
+    {
+      "text": "Years in the future",
+      "relevance": 0.924081,
+      "dbpedia_resource": "http://dbpedia.org/resource/Years_in_the_future"
+    },
+    {
+      "text": "2016",
+      "relevance": 0.873881,
+      "dbpedia_resource": "http://dbpedia.org/resource/2016"
+    },
+    {
+      "text": "North Korea",
+      "relevance": 0.741773,
+      "dbpedia_resource": "http://dbpedia.org/resource/North_Korea"
+    },
+    {
+      "text": "2017",
+      "relevance": 0.727375,
+      "dbpedia_resource": "http://dbpedia.org/resource/2017"
+    },
+    {
+      "text": "2015",
+      "relevance": 0.727299,
+      "dbpedia_resource": "http://dbpedia.org/resource/2015"
+    },
+    {
+      "text": "United Nations",
+      "relevance": 0.654632,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Nations"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.772608,
+      "label": "/law, govt and politics/government/heads of state"
+    },
+    {
+      "score": 0.711972,
+      "label": "/law, govt and politics/armed forces"
+    },
+    {
+      "score": 0.673812,
+      "label": "/society/unrest and war"
+    }
+  ]
+}

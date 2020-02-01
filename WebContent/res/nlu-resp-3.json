@@ -1,0 +1,203 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 861,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.860244,
+      "label": "positive"
+    }
+  },
+  "retrieved_url": "https://www.iaea.org/about/policy/gc/gc63/2019-09-20",
+  "language": "en",
+  "keywords": [
+    {
+      "text": "63rd IAEA General Conference",
+      "relevance": 0.867206,
+      "count": 1
+    },
+    {
+      "text": "IAEA’s work",
+      "relevance": 0.718713,
+      "count": 1
+    },
+    {
+      "text": "right legal framework",
+      "relevance": 0.711393,
+      "count": 1
+    },
+    {
+      "text": "63rd annual IAEA General Conference",
+      "relevance": 0.69529,
+      "count": 1
+    },
+    {
+      "text": "government bodies",
+      "relevance": 0.642851,
+      "count": 1
+    },
+    {
+      "text": "use of nuclear science",
+      "relevance": 0.588066,
+      "count": 1
+    },
+    {
+      "text": "Conference side events",
+      "relevance": 0.566398,
+      "count": 1
+    },
+    {
+      "text": "establishment of a nuclear regulator",
+      "relevance": 0.565208,
+      "count": 1
+    },
+    {
+      "text": "place today",
+      "relevance": 0.551147,
+      "count": 1
+    },
+    {
+      "text": "yesterday",
+      "relevance": 0.546695,
+      "count": 2
+    },
+    {
+      "text": "resolutions",
+      "relevance": 0.543016,
+      "count": 2
+    },
+    {
+      "text": "article",
+      "relevance": 0.525911,
+      "count": 1
+    },
+    {
+      "text": "industry",
+      "relevance": 0.522452,
+      "count": 1
+    },
+    {
+      "text": "importance of the Agency",
+      "relevance": 0.520337,
+      "count": 1
+    },
+    {
+      "text": "role",
+      "relevance": 0.51819,
+      "count": 1
+    },
+    {
+      "text": "development",
+      "relevance": 0.515666,
+      "count": 1
+    },
+    {
+      "text": "technology",
+      "relevance": 0.514112,
+      "count": 1
+    },
+    {
+      "text": "activities",
+      "relevance": 0.51164,
+      "count": 1
+    },
+    {
+      "text": "peace",
+      "relevance": 0.51164,
+      "count": 1
+    },
+    {
+      "text": "health",
+      "relevance": 0.509601,
+      "count": 1
+    },
+    {
+      "text": "prosperity",
+      "relevance": 0.507919,
+      "count": 1
+    },
+    {
+      "text": "world",
+      "relevance": 0.506531,
+      "count": 1
+    },
+    {
+      "text": "weekly updates",
+      "relevance": 0.503359,
+      "count": 1
+    },
+    {
+      "text": "peaceful use of nuclear technology",
+      "relevance": 0.480321,
+      "count": 1
+    },
+    {
+      "text": "important news",
+      "relevance": 0.463321,
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "IAEA",
+      "relevance": 0.9999,
+      "count": 3,
+      "confidence": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Nuclear weapon",
+      "relevance": 0.92727,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nuclear_weapon"
+    },
+    {
+      "text": "International Atomic Energy Agency",
+      "relevance": 0.831667,
+      "dbpedia_resource": "http://dbpedia.org/resource/International_Atomic_Energy_Agency"
+    },
+    {
+      "text": "Political terms",
+      "relevance": 0.768444,
+      "dbpedia_resource": "http://dbpedia.org/resource/Political_terms"
+    },
+    {
+      "text": "United Nations",
+      "relevance": 0.735955,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Nations"
+    },
+    {
+      "text": "Nuclear proliferation",
+      "relevance": 0.728476,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nuclear_proliferation"
+    },
+    {
+      "text": "Technology",
+      "relevance": 0.72161,
+      "dbpedia_resource": "http://dbpedia.org/resource/Technology"
+    },
+    {
+      "text": "The Establishment",
+      "relevance": 0.644733,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Establishment"
+    },
+    {
+      "text": "Peace",
+      "relevance": 0.626453,
+      "dbpedia_resource": "http://dbpedia.org/resource/Peace"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.991603,
+      "label": "/business and industrial/energy/nuclear power"
+    },
+    {
+      "score": 0.929214,
+      "label": "/business and industrial/energy/nuclear power/nuclear accident"
+    }
+  ]
+}

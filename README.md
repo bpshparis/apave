@@ -95,12 +95,49 @@ NLU_METHOD=/v1/analyze?version=$NLU_VERSION && echo $NLU_METHOD
 
 NLU_FEATURES='{"sentiment": {}, "keywords": {}, "entities": {}, "categories": {}, "concepts": {}}' && echo "$NLU_FEATURES" | jq .
 
+cat > WebContent/res/all_nlu_features.json << EOF
+{
+  "concepts": {},
+  "emotion": {},
+  "entities": {
+    "mentions": true,
+    "sentiment": true,
+    "emotion": true
+  },
+  "keywords": {
+    "sentiment": true,
+    "emotion": true
+  },
+  "metadata": {},
+  "relations": {},
+  "semantic_roles": {
+    "keywords": true,
+    "entities": true
+  },
+  "sentiment": {},
+  "categories": {
+    "explanation": true
+  },
+  "syntax": {
+    "tokens": {
+      "lemma": true,
+      "part_of_speech": true
+    },
+    "sentences": true
+  },
+  "return_analyzed_text": true
+}
+EOF
+
+ALL_NLU_FEATURES=$(jq -c . WebContent/res/all_nlu_features.json)
+
 NLU_TEXT="J'aimerai avoir des nouvelles de ma commande passée il y a déjà 15 jours et que je n'ai toujours pas reçu." && echo $NLU_TEXT
 
-URL="https://www.iaea.org/newscenter/focus/iran" 
-URL_ID=1
+URL_ID=0
 
-jq -n --argjson features "$NLU_FEATURES" --arg text "$URL" '{"url": $text, "features": $features}' | tee nlu.req.json | jq .
+URL=$(jq -r '.[] | select(.id == '$URL_ID') | .url' WebContent/res/links.json) && echo $URL
+
+jq -n --argjson features "$ALL_NLU_FEATURES" --arg text "$URL" '{"url": $text, "features": $features, "return_analyzed_text": true}' | tee nlu.req.json | jq .
 
 curl -X POST -u 'apikey:'$NLU_APIKEY -H 'Content-Type: application/json' -d @nlu.req.json $NLU_URL$NLU_METHOD | tee WebContent/res/nlu-resp-$URL_ID.json | jq .
 ```
