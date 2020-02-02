@@ -87,7 +87,6 @@ var enColumns = {
   "dbpedia_resource": {field:"dbpedia_resource", title: "DBpedia resource", titleTooltip: "", align: "left", valign:"top", align: "middle", rowspan: 1, colspan: 1, formatter: "URLFormatter", sortable: true},
   "subtype": {field:"subtype", title: "Sub Type", titleTooltip: "", align: "left", valign:"top", align: "middle", rowspan: 1, colspan: 1, formatter: "subtypeFormatter", sortable: true},
 
-
 }
 
 var coColumns = {
@@ -121,17 +120,112 @@ var reColumns = {
   "arguments1": {field:"arguments1", title: "2nd Argument", titleTooltip: "Second entity mention that is involved in the relation", align: "left", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 4, formatter: "", sortable: true},
   
   "text0": {field:"text0", title: "Text", titleTooltip: "Text that corresponds to the argument", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 1, formatter: "", sortable: true},
-  "location0": {field:"location0", title: "Location", titleTooltip: "Character offsets indicating the beginning and end of the mention in the analyzed text", valign:"top", halign: "center", align: "right", rowspan: 1, colspan: 1, formatter: "locationFormatter", sortable: true},
+  "location0": {field:"location0", title: "Location", titleTooltip: "Character offsets indicating the beginning and end of the mention in the analyzed text", valign:"top", halign: "center", align: "right", rowspan: 1, colspan: 1, formatter: "", sortable: true},
   "entitiesText0": {field:"entitiesText0", title: "Entity Text", titleTooltip: "Text that corresponds to the entity", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 1, formatter: "", sortable: true},
   "entitiesType0": {field:"entitiesType0", title: "Entity Type", titleTooltip: "Entity type", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 1, formatter: "", sortable: true},
   "text1": {field:"text1", title: "Text", titleTooltip: "Text that corresponds to the argument", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 1, formatter: "", sortable: true},
-  "location1": {field:"location1", title: "Location", titleTooltip: "Character offsets indicating the beginning and end of the mention in the analyzed text", valign:"top", halign: "center", align: "right", rowspan: 1, colspan: 1, formatter: "locationFormatter", sortable: true},
+  "location1": {field:"location1", title: "Location", titleTooltip: "Character offsets indicating the beginning and end of the mention in the analyzed text", valign:"top", halign: "center", align: "right", rowspan: 1, colspan: 1, formatter: "", sortable: true},
   "entitiesText1": {field:"entitiesText1", title: "Entity Text", titleTooltip: "Text that corresponds to the entity", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 1, formatter: "", sortable: true},
   "entitiesType1": {field:"entitiesType1", title: "Entity Type", titleTooltip: "Entity type", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 1, formatter: "", sortable: true},
   
 }
 
+var srColumns = {
 
+  "semantic_roles": {field:"semantic_roles", title: "Semantic Roles", titleTooltip: "Sentence from the source that contains the subject, action, and object", valign:"top", halign: "center", rowspan: 1, colspan: 10, formatter: "", sortable: true},
+
+  "sentence": {field:"sentence", title: "Sentence", titleTooltip: "The type of the relation", valign:"top", halign: "center", align: "left", rowspan: 2, colspan: 1, formatter: "", sortable: true},
+  "subject": {field:"subject", title: "Subject", titleTooltip: "The extracted subject from the sentence", align: "left", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 3, formatter: "", sortable: true},
+  "action": {field:"action", title: "Action", titleTooltip: "The extracted action from the sentence", align: "left", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 4, formatter: "", sortable: true},
+  "object": {field:"object", title: "Object", titleTooltip: "The extracted object from the sentence", align: "left", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 2, formatter: "", sortable: true},
+
+  "subjectText": {field:"subjectText", title: "Text", titleTooltip: "Text that corresponds to the subject role", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 1, formatter: "", sortable: true},
+  "subjectEntities": {field:"subjectEntities", title: "Entities", titleTooltip: "Entity type", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 1, formatter: "subjectEntitiesFormatter", sortable: true},
+  "subjectKeywords": {field:"subjectKeywords", title: "Keywords", titleTooltip: "An array of extracted keywords", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 1, formatter: "subjectKeywordsFormatter", sortable: true},
+
+  "actionText": {field:"actionText", title: "Text", titleTooltip: "Analyzed text that corresponds to the action", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 1, formatter: "", sortable: true},
+  "actionNormalized": {field:"actionNormalized", title: "Normalized", titleTooltip: "normalized version of the action", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 1, formatter: "", sortable: true},
+  "actionVerbText": {field:"actionVerbText", title: "Verb Text", titleTooltip: "The keyword text", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 1, formatter: "", sortable: true},
+  "actionVerbTense": {field:"actionVerbTense", title: "Verb Tense", titleTooltip: "Verb tense", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 1, formatter: "", sortable: true},
+
+  "objectText": {field:"objectText", title: "Text", titleTooltip: "Object text", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 1, formatter: "", sortable: true},
+  "objectKeywords": {field:"objectKeywords", title: "Keywords", titleTooltip: "An array of extracted keywords", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 1, formatter: "objectKeywordsFormatter", sortable: true},
+
+
+}
+
+var syToColumns = {
+
+  "syntax": {field:"syntax", title: "Syntax", titleTooltip: "Tokens and sentences returned from syntax analysis.", valign:"top", halign: "center", rowspan: 1, colspan: 4, formatter: "", sortable: true},
+
+  "tokens": {field:"tokens", title: "Tokens", titleTooltip: "", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 4, formatter: "", sortable: true},
+  
+  "tokensText": {field:"tokensText", title: "Text", titleTooltip: "The token as it appears in the analyzed text.", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 1, formatter: "", sortable: true},
+  "tokensPartOfSpeech": {field:"tokensPartOfSpeech", title: "Part Of Speech", titleTooltip: "The part of speech of the token. For descriptions of the values, see [Universal Dependencies POS tags](https://universaldependencies.org/u/pos/). Possible values: [ADJ,ADP,ADV,AUX,CCONJ,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,PUNCT,SCONJ,SYM,VERB,X]", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 1, formatter: "", sortable: true},
+  "tokensLocation": {field:"tokensLocation", title: "Location", titleTooltip: "Character offsets indicating the beginning and end of the token in the analyzed text.", valign:"top", halign: "center", align: "right", rowspan: 1, colspan: 1, formatter: "", sortable: true},
+  "tokensLemma": {field:"tokensLemma", title: "Lemma", titleTooltip: "The [lemma](https://wikipedia.org/wiki/Lemma_%28morphology%29) of the token.", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 1, formatter: "", sortable: true},
+
+}
+
+var sySeColumns = {
+
+  "syntax": {field:"syntax", title: "Syntax", titleTooltip: "Tokens and sentences returned from syntax analysis.", valign:"top", halign: "center", rowspan: 1, colspan: 2, formatter: "", sortable: true},
+
+  "sentences": {field:"sentences", title: "Sentences", titleTooltip: "", align: "left", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 2, formatter: "", sortable: true},
+
+  "sentencesText": {field:"sentencesText", title: "Text", titleTooltip: "The sentence.", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 1, formatter: "", sortable: true},
+  "sentencesLocation": {field:"sentencesLocation", title: "Location", titleTooltip: "Character offsets indicating the beginning and end of the sentence in the analyzed text.", valign:"top", halign: "center", align: "right", rowspan: 1, colspan: 1, formatter: "", sortable: true},
+
+}
+
+var syToCols = [];
+var syToRow0 = [];
+syToRow0.push(syToColumns.syntax);
+var syToRow1 = [];
+syToRow1.push(syToColumns.tokens);
+var syToRow2 = [];
+syToRow2.push(syToColumns.tokensText);
+syToRow2.push(syToColumns.tokensPartOfSpeech);
+syToRow2.push(syToColumns.tokensLocation);
+syToRow2.push(syToColumns.tokensLemma);
+syToCols.push(syToRow0);
+syToCols.push(syToRow1);
+syToCols.push(syToRow2);
+
+var sySeCols = [];
+var sySeRow0 = [];
+sySeRow0.push(sySeColumns.syntax);
+var sySeRow1 = [];
+sySeRow1.push(sySeColumns.sentences);
+var sySeRow2 = [];
+sySeRow2.push(sySeColumns.sentencesText);
+sySeRow2.push(sySeColumns.sentencesLocation);
+sySeCols.push(sySeRow0);
+sySeCols.push(sySeRow1);
+sySeCols.push(sySeRow2);
+
+
+var srCols = [];
+var srRow0 = [];
+srRow0.push(srColumns.semantic_roles);
+var srRow1 = [];
+srRow1.push(srColumns.sentence);
+srRow1.push(srColumns.subject);
+srRow1.push(srColumns.action);
+srRow1.push(srColumns.object);
+var srRow2 = [];
+srRow2.push(srColumns.subjectText);
+srRow2.push(srColumns.subjectEntities);
+srRow2.push(srColumns.subjectKeywords);
+srRow2.push(srColumns.actionText);
+srRow2.push(srColumns.actionNormalized);
+srRow2.push(srColumns.actionVerbText);
+srRow2.push(srColumns.actionVerbTense);
+srRow2.push(srColumns.objectText);
+srRow2.push(srColumns.objectKeywords);
+srCols.push(srRow0);
+srCols.push(srRow1);
+srCols.push(srRow2);
 
 var glCols = [];
 var glRow0 = [];
@@ -313,7 +407,8 @@ $('#keTab').click(function (){
 
 $('#enTab').click(function (){
   $('#answers').bootstrapTable("destroy");
-  buildTable(enCols);
+  // buildTable(enCols);
+  buildEnTable(enCols);
   $('#answers').bootstrapTable('load', loadEn(datas));
 })
 
@@ -334,6 +429,25 @@ $('#reTab').click(function (){
   buildTable(reCols);
   $('#answers').bootstrapTable('load', loadRe(datas));
 })
+
+$('#srTab').click(function (){
+  $('#answers').bootstrapTable("destroy");
+  buildTable(srCols);
+  $('#answers').bootstrapTable('load', loadSr(datas));
+})
+
+$('#sySeTab').click(function (){
+  $('#answers').bootstrapTable("destroy");
+  buildTable(sySeCols);
+  $('#answers').bootstrapTable('load', loadSySe(datas));
+})
+
+$('#syToTab').click(function (){
+  $('#answers').bootstrapTable("destroy");
+  buildTable(syToCols);
+  $('#answers').bootstrapTable('load', loadSyTo(datas));
+})
+
 
 $("#send").click(function (){
 
@@ -528,7 +642,8 @@ function loadEn(data){
       joy: entitie.emotion.joy,
       fear: entitie.emotion.fear,
       disgust: entitie.emotion.disgust,
-      anger: entitie.emotion.anger
+      anger: entitie.emotion.anger,
+      mentions: entitie.mentions
     });
 
 
@@ -537,6 +652,89 @@ function loadEn(data){
   return rows;
 }
 
+
+function loadSr(data){
+
+  var rows = [];
+
+  $.each(data.semantic_roles, function(i, semantic_role){
+
+    var subjectEntities = [];
+    var subjectKeywords = [];
+    var objectKeywords = [];
+    var objectText = '';
+
+    if(semantic_role.subject.entities){
+      subjectEntities = semantic_role.subject.entities;
+    }
+
+    if(semantic_role.subject.keywords){
+      subjectKeywords = semantic_role.subject.keywords
+    }
+
+    if(semantic_role.object && semantic_role.object.keywords){
+      objectText = semantic_role.object.text
+      objectKeywords = semantic_role.object.keywords
+    }
+
+    rows.push({
+      sentence: semantic_role.sentence,
+      actionText: semantic_role.action.text,
+      actionNormalized: semantic_role.action.normalized,
+      actionVerbText: semantic_role.action.verb.text,
+      actionVerbTense: semantic_role.action.verb.tense,
+      subjectText: semantic_role.subject.text,
+      objectText: objectText,
+      subjectEntities: subjectEntities,
+      subjectKeywords: subjectKeywords,
+      objectKeywords: objectKeywords
+    });
+
+
+  })
+
+  return rows;
+}
+
+function loadSyTo(data){
+
+  var rows = [];
+
+  if(data.syntax && data.syntax.tokens){
+
+    $.each(data.syntax.tokens, function(i, token){
+
+      rows.push({
+        tokensText: token.text,
+        tokensPartOfSpeech: token.part_of_speech,
+        tokensLocation: token.location,
+        tokensLemma: token.lemma
+      });
+
+    })
+  }
+
+  return rows;
+}
+
+function loadSySe(data){
+
+  var rows = [];
+
+  if(data.syntax && data.syntax.sentences){
+
+    $.each(data.syntax.sentences, function(i, sentence){
+
+      rows.push({
+        sentencesText: sentence.text,
+        sentencesLocation: sentence.location         
+      });
+
+    })
+  }
+
+  return rows;
+}
 
 function loadKe(data){
 
@@ -610,8 +808,6 @@ function loadGl(data){
 
 function buildTable(cols){
 
-  console.log(cols);
-
   $('#answers').bootstrapTable({
       columns: cols,
       // url: url,
@@ -619,6 +815,11 @@ function buildTable(cols){
       showToggle: false,
       showColumns: true,
       search: true,
+      showSearchClearButton: true,
+      showExtendedPagination: true,
+      paginationVAlign: "both",
+      pagination: true,
+      pageSize: 50,
       toolbar: "#mainToolbar",
       toolbarAlign: 'left',
       showExport: true,
@@ -647,7 +848,6 @@ function IndexFormatter(value, row, index) {
 }
 
 function authorsFormatter(value, row, index) {
-  console.log(row);
   if(row.authors && row.authors.length > 0){
     // var html = '<ul class="list-inline">';
     var html = '<ul class="">';
@@ -661,7 +861,6 @@ function authorsFormatter(value, row, index) {
 }
 
 function feedsFormatter(value, row, index) {
-  console.log(row);
   if(row.feeds && row.feeds.length > 0){
     // var html = '<ul class="list-inline">';
     var html = '<ul class="">';
@@ -675,8 +874,6 @@ function feedsFormatter(value, row, index) {
 }
 
 function locationFormatter(value, row, index) {
-  console.log(value);
-  console.log(row);
   if(value.length > 0){
     // var html = '<ul class="list-inline">';
     var html = '<ul class="">';
@@ -690,8 +887,124 @@ function locationFormatter(value, row, index) {
 }
 
 
+function objectKeywordsFormatter(value, row, index) {
+  if(row.objectKeywords && row.objectKeywords.length > 1){
+    var html = '<table style="border: none; width:100%; heigth: 100%">';
+    $.each(row.objectKeywords, function(i, objectKeyword){
+      html += '<tr style="text-align:left"><td>' + objectKeyword.text + '</tr></td>';
+    });
+    html += '</table>';
+    return html;
+  }
+  if(row.objectKeywords && row.objectKeywords.length == 1){
+    return row.objectKeywords[0].text;
+  }
+  return '';
+}
+
+
+function subjectKeywordsFormatter(value, row, index) {
+  if(row.subjectKeywords && row.subjectKeywords.length > 1){
+    var html = '<table style="border: none; width:100%; heigth: 100%">';
+    $.each(row.subjectKeywords, function(i, subjectKeyword){
+      html += '<tr style="text-align:left"><td>' + subjectKeyword.text + '</tr></td>';
+    });
+    html += '</table>';
+    return html;
+  }
+  if(row.subjectKeywords && row.subjectKeywords.length == 1){
+    return row.subjectKeywords[0].text;
+  }
+  return '';
+}
+
+
+function subjectEntitiesFormatter(value, row, index) {
+  if(row.subjectEntities && row.subjectEntities.length > 0){
+
+    var html = '<table style="border: none; width: 100%">';
+    var rowspan = 1;
+    var disambiguation = false;
+
+    $.each(row.subjectEntities, function(i, object){
+      if(object.disambiguation){
+        disambiguation = true;
+        if(object.disambiguation.subtype && object.disambiguation.subtype.length > 1){
+          console.log(row);
+          rowspan = object.disambiguation.subtype.length;
+        }
+      }
+    });
+
+    if(disambiguation){
+      html += '<tr>'
+      html += '<th rowspan="2" style="text-align:center">Type</th>'
+      html += '<th rowspan="2" style="text-align:center">Text</th>'
+      html += '<th colspan="3" style="text-align:center">Disambiguation</th>'
+      html += '</tr>'
+
+      html += '<tr>'
+      html += '<th style="text-align:center">Name</th>'
+      html += '<th style="text-align:center">DBpedia Resource</th>'
+      html += '<th style="text-align:center">Sub Type</th>'
+      html += '</tr>'
+    }
+    else{
+      html += '<tr>'
+      html += '<th rowspan="1" style="text-align:center">Type</th>'
+      html += '<th rowspan="1" style="text-align:center">Text</th>'
+      html += '</tr>'
+    }
+
+    $.each(row.subjectEntities, function(i, object){
+      
+
+      if(!object.disambiguation){
+        html += '<tr style="text-align:left">'
+        html += '<td rowspan="' + rowspan + '">' + object.type + '</td>';
+        html += '<td rowspan="' + rowspan + '">' + object.text + '</td>';
+        html += '</tr>';
+  
+      }
+      else{
+        html += '<tr style="text-align:left">'
+        html += '<td rowspan="' + rowspan + '">' + object.type + '</td>';
+        html += '<td rowspan="' + rowspan + '">' + object.text + '</td>';
+        html += '<td rowspan="' + rowspan + '">' + object.disambiguation.name + '</td>';
+        var res = '';
+        if(object.disambiguation.dbpedia_resource){
+          res = object.disambiguation.dbpedia_resource;
+          res = res.substring(res.lastIndexOf('/') + 1);
+        }
+        html += '<td rowspan="' + rowspan + '"><a href="' + object.disambiguation.dbpedia_resource + '">' + res + '</a></td>';
+        if(object.disambiguation.subtype){
+          html += '<td>' + object.disambiguation.subtype[0] + '</td>';
+        }
+        html += '</tr>';
+
+        if(object.disambiguation.subtype && object.disambiguation.subtype.length > 1){
+            $.each(object.disambiguation.subtype, function(j, st){
+              if(j > 0){
+                html += '<tr style="text-align:left">'
+                html += '<td>' + st + '</td>';
+                html += '</tr>';
+              }
+            })
+        }
+        
+      }
+
+  
+    });
+    html += '</table>';
+    return html;
+
+  }
+  return '';
+}
+
+
 function subtypeFormatter(value, row, index) {
-  console.log(row);
   if(row.subtype){
     // var html = '<ul class="list-inline">';
     var html = '<ul class="">';
@@ -705,7 +1018,6 @@ function subtypeFormatter(value, row, index) {
 }
 
 function explanationFormatter(value, row, index) {
-  console.log(row);
   if(row.explanation.relevant_text){
     // var html = '<ul class="list-inline">';
     var html = '<ul class="">';
@@ -733,13 +1045,21 @@ function buildEnTable(cols){
       // data: data,
       showToggle: false,
       search: true,
+      showSearchClearButton: true,
+      showExtendedPagination: true,
+      paginationVAlign: "both",
+      pagination: true,
+      pageSize: 50,
+      showColumns: true,
+      showExport: true,
       toolbar: "#mainToolbar",
-      toolbarAlign: 'right',
-      searchAlign: 'left',
+      toolbarAlign: 'left',
+      searchAlign: 'right',
       idField: "index",
       detailView: true,
       onExpandRow: function (index, row, $detail) {
-        ExpandTable($detail, row.positions, row);
+        console.log(row);
+        ExpandTable($detail, row.mentions, row);
       },
       onEditableInit: function(){
         //Fired when all columns was initialized by $().editable() method.
@@ -768,17 +1088,17 @@ function ExpandTable($detail, data, parentData) {
 
 function BuildSubTable($el, data, parentData){
 
+  console.log(data);
+
   var cols = [];
-  // cols.push({field:"checkbox", checkbox: "true"});
   var row0 = [];
-  row0.push({field:"index", title: "Index", align:"center", valign:"top", rowspan: 2, formatter: "IndexFormatter", sortable: false});
-  // row0.push({field:"flag", title: "Flag", rowspan: 2, formatter: "flagFormatter", sortable: true});
-  row0.push({field:"positions", title: "Positions", align:"center", colspan: 3, sortable: true});
+  // row0.push({field:"index", title: "Index", align:"center", valign:"middle", rowspan: 2, formatter: "IndexFormatter", sortable: false});
+  row0.push({field:"mentions", title: "Mentions", titleTooltip: "Entity mentions and locations", valign:"top", halign: "center", align: "middle", rowspan: 1, colspan: 3, formatter: "", sortable: true});
 
   var row1 = [];
-  row1.push({field:"lat", title: "Latitude", align:"center", formatter: "latFormatter", sortable: true});
-  row1.push({field:"lng", title: "Longitude", align:"center", formatter: "lngFormatter", sortable: true});
-  row1.push({field:"timestamp", title: "Timestamp", align:"center", formatter: "timestampFormatter", sortable: true});
+  row1.push({field:"text", title: "text", titleTooltip: "Entity mention text", valign:"top", halign: "center", align: "left", rowspan: 1, colspan: 1, formatter: "", sortable: true});
+  row1.push({field:"location", title: "Location", titleTooltip: "Character offsets indicating the beginning and end of the mention in the analyzed text", valign:"top", halign: "center", align: "right", rowspan: 1, colspan: 1, formatter: "", sortable: true});
+  row1.push({field:"confidence", title: "Confidence", titleTooltip: "Confidence in the entity identification from 0 to 1. Higher values indicate higher confidence. In standard entities requests, confidence is returned only for English text. All entities requests that use custom models return the confidence score.", valign:"top", halign: "center", align: "right", rowspan: 1, colspan: 1, formatter: "", sortable: true});
 
   cols.push(row0);
   cols.push(row1);
@@ -790,7 +1110,7 @@ function BuildSubTable($el, data, parentData){
       showToggle: false,
       search: false,
       checkboxHeader: false,
-      idField: "index",
+      // idField: "index",
       onEditableInit: function(){
         //Fired when all columns was initialized by $().editable() method.
       },
