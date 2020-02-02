@@ -1,4 +1,4 @@
-var cogWheels = '<span class="glyphicons glyphicons-cogwheels x1" aria-hidden="true"></span>';
+var cogWheels = '<span class="glyphicon glyphicon-cog" aria-hidden="true"></span>';
 var upload = '<span class="glyphicons glyphicons-upload x1" aria-hidden="true"></span>';
 var play = '<span class="glyphicons glyphicons-play x1" aria-hidden="true"></span>';
 var playlist = '<span class="glyphicons glyphicons-playlist x1" aria-hidden="true"></span>';
@@ -7,7 +7,7 @@ var save = '<span class="glyphicons glyphicons-floppy-save x1" aria-hidden="true
 var glColumns = {
 
   "retrieved_url": {field:"retrieved_url", title: "URL", titleTooltip: "URL of the webpage that was analyzed", align: "left", valign:"top", halign: "center", rowspan: 2, colspan: 1, formatter: "URLFormatter", sortable: true},
-  "analyzed_text": {field:"analyzed_text", title: "Text", titleTooltip: "Text that was used in the analysis", width: "900", align: "left", valign:"top", halign: "center", rowspan: 2, colspan: 1, formatter: "", sortable: true},
+  "analyzed_text": {field:"analyzed_text", title: "Text", titleTooltip: "Text that was used in the analysis", width: "900", align: "left", valign:"top", halign: "center", rowspan: 2, colspan: 1, formatter: "analyzed_textFormatter", sortable: true},
   "language": {field:"language", title: "Language", titleTooltip: "Language used to analyze the text", align: "left", valign:"top", halign: "center", rowspan: 2, colspan: 1, formatter: "", sortable: true},
 
   "metadata": {field:"metadata", title: "Metadata", titleTooltip: "Webpage metadata, such as the author and the title of the page", valign:"top", halign: "center", rowspan: 1, colspan: 5, formatter: "", sortable: true},
@@ -518,6 +518,25 @@ $("#send").click(function (){
 
 })
 
+$('#exampleModalScrollable').on('shown.bs.modal', function() {
+
+  var datas = $('#answers').bootstrapTable("getData");
+
+  console.log(datas);
+
+  var retrieved_url = datas[0].retrieved_url;
+
+  var analyzed_text = datas[0].analyzed_text;
+
+  console.log(retrieved_url);
+  console.log(analyzed_text);
+
+  $(this).find('.modal-header').find('.modal-title').empty();
+  $(this).find('.modal-body').empty();
+  $(this).find('.modal-header').find('.modal-title').append(retrieved_url);
+  $(this).find('.modal-body').append(analyzed_text);
+});
+
 function loadLinks(){
 
   $.getJSON("res/links.json", function(data){
@@ -840,6 +859,13 @@ function buildTable(cols){
       }
   });
 
+}
+
+function analyzed_textFormatter(value, row, index) {
+
+  var html = '<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalScrollable">Text</button>';
+
+  return html;
 }
 
 function IndexFormatter(value, row, index) {

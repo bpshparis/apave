@@ -2,7 +2,1662 @@
   "usage": {
     "text_units": 1,
     "text_characters": 1132,
-    "features": 5
+    "features": 9
+  },
+  "syntax": {
+    "tokens": [
+      {
+        "text": "If",
+        "part_of_speech": "SCONJ",
+        "location": [
+          0,
+          2
+        ],
+        "lemma": "if"
+      },
+      {
+        "text": "you",
+        "part_of_speech": "PRON",
+        "location": [
+          3,
+          6
+        ],
+        "lemma": "you"
+      },
+      {
+        "text": "would",
+        "part_of_speech": "AUX",
+        "location": [
+          7,
+          12
+        ],
+        "lemma": "will"
+      },
+      {
+        "text": "like",
+        "part_of_speech": "VERB",
+        "location": [
+          13,
+          17
+        ],
+        "lemma": "like"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          18,
+          20
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "learn",
+        "part_of_speech": "VERB",
+        "location": [
+          21,
+          26
+        ],
+        "lemma": "learn"
+      },
+      {
+        "text": "more",
+        "part_of_speech": "ADJ",
+        "location": [
+          27,
+          31
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": "about",
+        "part_of_speech": "ADP",
+        "location": [
+          32,
+          37
+        ],
+        "lemma": "about"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          38,
+          41
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "IAEA",
+        "part_of_speech": "PROPN",
+        "location": [
+          42,
+          46
+        ]
+      },
+      {
+        "text": "’s",
+        "part_of_speech": "PART",
+        "location": [
+          46,
+          48
+        ],
+        "lemma": "’s"
+      },
+      {
+        "text": "work",
+        "part_of_speech": "NOUN",
+        "location": [
+          49,
+          53
+        ],
+        "lemma": "work"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          53,
+          54
+        ]
+      },
+      {
+        "text": "sign",
+        "part_of_speech": "VERB",
+        "location": [
+          55,
+          59
+        ],
+        "lemma": "sign"
+      },
+      {
+        "text": "up",
+        "part_of_speech": "ADP",
+        "location": [
+          60,
+          62
+        ],
+        "lemma": "up"
+      },
+      {
+        "text": "for",
+        "part_of_speech": "ADP",
+        "location": [
+          63,
+          66
+        ],
+        "lemma": "for"
+      },
+      {
+        "text": "our",
+        "part_of_speech": "PRON",
+        "location": [
+          67,
+          70
+        ],
+        "lemma": "our"
+      },
+      {
+        "text": "weekly",
+        "part_of_speech": "ADJ",
+        "location": [
+          71,
+          77
+        ],
+        "lemma": "weekly"
+      },
+      {
+        "text": "updates",
+        "part_of_speech": "NOUN",
+        "location": [
+          78,
+          85
+        ],
+        "lemma": "update"
+      },
+      {
+        "text": "containing",
+        "part_of_speech": "VERB",
+        "location": [
+          86,
+          96
+        ],
+        "lemma": "contain"
+      },
+      {
+        "text": "our",
+        "part_of_speech": "PRON",
+        "location": [
+          97,
+          100
+        ],
+        "lemma": "our"
+      },
+      {
+        "text": "most",
+        "part_of_speech": "ADV",
+        "location": [
+          101,
+          105
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": "important",
+        "part_of_speech": "ADJ",
+        "location": [
+          106,
+          115
+        ],
+        "lemma": "important"
+      },
+      {
+        "text": "news",
+        "part_of_speech": "NOUN",
+        "location": [
+          116,
+          120
+        ],
+        "lemma": "news"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          120,
+          121
+        ]
+      },
+      {
+        "text": "multimedia",
+        "part_of_speech": "ADJ",
+        "location": [
+          122,
+          132
+        ],
+        "lemma": "multimedia"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          133,
+          136
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "more",
+        "part_of_speech": "ADJ",
+        "location": [
+          137,
+          141
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          141,
+          142
+        ]
+      },
+      {
+        "text": "The",
+        "part_of_speech": "DET",
+        "location": [
+          143,
+          146
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "accident",
+        "part_of_speech": "NOUN",
+        "location": [
+          147,
+          155
+        ],
+        "lemma": "accident"
+      },
+      {
+        "text": "at",
+        "part_of_speech": "ADP",
+        "location": [
+          156,
+          158
+        ],
+        "lemma": "at"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          159,
+          162
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "Chernobyl",
+        "part_of_speech": "PROPN",
+        "location": [
+          163,
+          172
+        ]
+      },
+      {
+        "text": "nuclear",
+        "part_of_speech": "ADJ",
+        "location": [
+          173,
+          180
+        ],
+        "lemma": "nuclear"
+      },
+      {
+        "text": "power",
+        "part_of_speech": "NOUN",
+        "location": [
+          181,
+          186
+        ],
+        "lemma": "power"
+      },
+      {
+        "text": "plant",
+        "part_of_speech": "NOUN",
+        "location": [
+          187,
+          192
+        ],
+        "lemma": "plant"
+      },
+      {
+        "text": "in",
+        "part_of_speech": "ADP",
+        "location": [
+          193,
+          195
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "1986",
+        "part_of_speech": "NUM",
+        "location": [
+          196,
+          200
+        ]
+      },
+      {
+        "text": "was",
+        "part_of_speech": "AUX",
+        "location": [
+          201,
+          204
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          205,
+          208
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "most",
+        "part_of_speech": "ADV",
+        "location": [
+          209,
+          213
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": "severe",
+        "part_of_speech": "ADJ",
+        "location": [
+          214,
+          220
+        ],
+        "lemma": "severe"
+      },
+      {
+        "text": "in",
+        "part_of_speech": "ADP",
+        "location": [
+          221,
+          223
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          224,
+          227
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "history",
+        "part_of_speech": "NOUN",
+        "location": [
+          228,
+          235
+        ],
+        "lemma": "history"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          236,
+          238
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          239,
+          242
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "nuclear",
+        "part_of_speech": "ADJ",
+        "location": [
+          243,
+          250
+        ],
+        "lemma": "nuclear"
+      },
+      {
+        "text": "power",
+        "part_of_speech": "NOUN",
+        "location": [
+          251,
+          256
+        ],
+        "lemma": "power"
+      },
+      {
+        "text": "industry",
+        "part_of_speech": "NOUN",
+        "location": [
+          257,
+          265
+        ],
+        "lemma": "industry"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          265,
+          266
+        ]
+      },
+      {
+        "text": "causing",
+        "part_of_speech": "VERB",
+        "location": [
+          267,
+          274
+        ],
+        "lemma": "cause"
+      },
+      {
+        "text": "a",
+        "part_of_speech": "DET",
+        "location": [
+          275,
+          276
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "huge",
+        "part_of_speech": "ADJ",
+        "location": [
+          277,
+          281
+        ],
+        "lemma": "huge"
+      },
+      {
+        "text": "release",
+        "part_of_speech": "NOUN",
+        "location": [
+          282,
+          289
+        ],
+        "lemma": "release"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          290,
+          292
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "radionuclides",
+        "part_of_speech": "NOUN",
+        "location": [
+          293,
+          306
+        ]
+      },
+      {
+        "text": "over",
+        "part_of_speech": "ADP",
+        "location": [
+          307,
+          311
+        ],
+        "lemma": "over"
+      },
+      {
+        "text": "large",
+        "part_of_speech": "ADJ",
+        "location": [
+          312,
+          317
+        ],
+        "lemma": "large"
+      },
+      {
+        "text": "areas",
+        "part_of_speech": "NOUN",
+        "location": [
+          318,
+          323
+        ],
+        "lemma": "area"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          324,
+          326
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "Belarus",
+        "part_of_speech": "PROPN",
+        "location": [
+          327,
+          334
+        ]
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          334,
+          335
+        ]
+      },
+      {
+        "text": "Ukraine",
+        "part_of_speech": "PROPN",
+        "location": [
+          336,
+          343
+        ]
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          344,
+          347
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          348,
+          351
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "Russian",
+        "part_of_speech": "PROPN",
+        "location": [
+          352,
+          359
+        ],
+        "lemma": "Russian"
+      },
+      {
+        "text": "Federation",
+        "part_of_speech": "PROPN",
+        "location": [
+          360,
+          370
+        ],
+        "lemma": "federation"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          370,
+          371
+        ]
+      },
+      {
+        "text": "Tuesday",
+        "part_of_speech": "PROPN",
+        "location": [
+          373,
+          380
+        ],
+        "lemma": "Tuesday"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          380,
+          381
+        ]
+      },
+      {
+        "text": "26",
+        "part_of_speech": "NUM",
+        "location": [
+          382,
+          384
+        ]
+      },
+      {
+        "text": "April",
+        "part_of_speech": "PROPN",
+        "location": [
+          385,
+          390
+        ],
+        "lemma": "April"
+      },
+      {
+        "text": "2016",
+        "part_of_speech": "NUM",
+        "location": [
+          391,
+          395
+        ]
+      },
+      {
+        "text": "marks",
+        "part_of_speech": "NOUN",
+        "location": [
+          396,
+          401
+        ],
+        "lemma": "mark"
+      },
+      {
+        "text": "30",
+        "part_of_speech": "NUM",
+        "location": [
+          402,
+          404
+        ]
+      },
+      {
+        "text": "years",
+        "part_of_speech": "NOUN",
+        "location": [
+          405,
+          410
+        ],
+        "lemma": "year"
+      },
+      {
+        "text": "since",
+        "part_of_speech": "SCONJ",
+        "location": [
+          411,
+          416
+        ],
+        "lemma": "since"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          417,
+          420
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "Chernobyl",
+        "part_of_speech": "PROPN",
+        "location": [
+          421,
+          430
+        ]
+      },
+      {
+        "text": "accident",
+        "part_of_speech": "NOUN",
+        "location": [
+          431,
+          439
+        ],
+        "lemma": "accident"
+      },
+      {
+        "text": "in",
+        "part_of_speech": "ADP",
+        "location": [
+          440,
+          442
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          443,
+          446
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "former",
+        "part_of_speech": "ADJ",
+        "location": [
+          447,
+          453
+        ],
+        "lemma": "former"
+      },
+      {
+        "text": "USSR",
+        "part_of_speech": "PROPN",
+        "location": [
+          454,
+          458
+        ]
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          458,
+          459
+        ]
+      },
+      {
+        "text": "The",
+        "part_of_speech": "DET",
+        "location": [
+          460,
+          463
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "IAEA",
+        "part_of_speech": "PROPN",
+        "location": [
+          464,
+          468
+        ]
+      },
+      {
+        "text": "has",
+        "part_of_speech": "VERB",
+        "location": [
+          469,
+          472
+        ],
+        "lemma": "have"
+      },
+      {
+        "text": "stories",
+        "part_of_speech": "NOUN",
+        "location": [
+          473,
+          480
+        ],
+        "lemma": "storey"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          480,
+          481
+        ]
+      },
+      {
+        "text": "photographs",
+        "part_of_speech": "NOUN",
+        "location": [
+          482,
+          493
+        ],
+        "lemma": "photograph"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          494,
+          497
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "videos",
+        "part_of_speech": "NOUN",
+        "location": [
+          498,
+          504
+        ],
+        "lemma": "video"
+      },
+      {
+        "text": "that",
+        "part_of_speech": "PRON",
+        "location": [
+          505,
+          509
+        ],
+        "lemma": "that"
+      },
+      {
+        "text": "depict",
+        "part_of_speech": "VERB",
+        "location": [
+          510,
+          516
+        ],
+        "lemma": "depict"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          517,
+          520
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "environmental",
+        "part_of_speech": "ADJ",
+        "location": [
+          521,
+          534
+        ],
+        "lemma": "environmental"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          534,
+          535
+        ]
+      },
+      {
+        "text": "social",
+        "part_of_speech": "ADJ",
+        "location": [
+          536,
+          542
+        ],
+        "lemma": "social"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          543,
+          546
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "technical",
+        "part_of_speech": "ADJ",
+        "location": [
+          547,
+          556
+        ],
+        "lemma": "technical"
+      },
+      {
+        "text": "aspects",
+        "part_of_speech": "NOUN",
+        "location": [
+          557,
+          564
+        ],
+        "lemma": "aspect"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          565,
+          567
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          568,
+          571
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "affected",
+        "part_of_speech": "VERB",
+        "location": [
+          572,
+          580
+        ],
+        "lemma": "affect"
+      },
+      {
+        "text": "regions",
+        "part_of_speech": "NOUN",
+        "location": [
+          581,
+          588
+        ],
+        "lemma": "region"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          588,
+          589
+        ]
+      },
+      {
+        "text": "Read",
+        "part_of_speech": "VERB",
+        "location": [
+          590,
+          594
+        ],
+        "lemma": "read"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          595,
+          598
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "statement",
+        "part_of_speech": "NOUN",
+        "location": [
+          599,
+          608
+        ],
+        "lemma": "statement"
+      },
+      {
+        "text": "by",
+        "part_of_speech": "ADP",
+        "location": [
+          609,
+          611
+        ],
+        "lemma": "by"
+      },
+      {
+        "text": "IAEA",
+        "part_of_speech": "PROPN",
+        "location": [
+          612,
+          616
+        ]
+      },
+      {
+        "text": "Director",
+        "part_of_speech": "PROPN",
+        "location": [
+          617,
+          625
+        ],
+        "lemma": "director"
+      },
+      {
+        "text": "General",
+        "part_of_speech": "PROPN",
+        "location": [
+          626,
+          633
+        ],
+        "lemma": "general"
+      },
+      {
+        "text": "Yukiya",
+        "part_of_speech": "PROPN",
+        "location": [
+          634,
+          640
+        ]
+      },
+      {
+        "text": "Amano",
+        "part_of_speech": "PROPN",
+        "location": [
+          641,
+          646
+        ]
+      },
+      {
+        "text": "on",
+        "part_of_speech": "ADP",
+        "location": [
+          647,
+          649
+        ],
+        "lemma": "on"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          650,
+          653
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "occasion",
+        "part_of_speech": "NOUN",
+        "location": [
+          654,
+          662
+        ],
+        "lemma": "occasion"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          663,
+          665
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          666,
+          669
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "anniversary",
+        "part_of_speech": "NOUN",
+        "location": [
+          670,
+          681
+        ],
+        "lemma": "anniversary"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          681,
+          682
+        ]
+      },
+      {
+        "text": "26",
+        "part_of_speech": "NUM",
+        "location": [
+          696,
+          698
+        ]
+      },
+      {
+        "text": "April",
+        "part_of_speech": "PROPN",
+        "location": [
+          699,
+          704
+        ],
+        "lemma": "April"
+      },
+      {
+        "text": "2016",
+        "part_of_speech": "NUM",
+        "location": [
+          705,
+          709
+        ]
+      },
+      {
+        "text": "30",
+        "part_of_speech": "NUM",
+        "location": [
+          724,
+          726
+        ]
+      },
+      {
+        "text": "Years",
+        "part_of_speech": "NOUN",
+        "location": [
+          727,
+          732
+        ],
+        "lemma": "year"
+      },
+      {
+        "text": "after",
+        "part_of_speech": "ADP",
+        "location": [
+          733,
+          738
+        ],
+        "lemma": "after"
+      },
+      {
+        "text": "Chernobyl",
+        "part_of_speech": "PROPN",
+        "location": [
+          739,
+          748
+        ]
+      },
+      {
+        "text": ":",
+        "part_of_speech": "PUNCT",
+        "location": [
+          748,
+          749
+        ]
+      },
+      {
+        "text": "IAEA",
+        "part_of_speech": "PROPN",
+        "location": [
+          750,
+          754
+        ]
+      },
+      {
+        "text": "Continues",
+        "part_of_speech": "VERB",
+        "location": [
+          755,
+          764
+        ],
+        "lemma": "continue"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          765,
+          767
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "Support",
+        "part_of_speech": "VERB",
+        "location": [
+          768,
+          775
+        ],
+        "lemma": "support"
+      },
+      {
+        "text": "Global",
+        "part_of_speech": "ADJ",
+        "location": [
+          776,
+          782
+        ],
+        "lemma": "global"
+      },
+      {
+        "text": "Efforts",
+        "part_of_speech": "NOUN",
+        "location": [
+          783,
+          790
+        ],
+        "lemma": "effort"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          791,
+          793
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "Help",
+        "part_of_speech": "VERB",
+        "location": [
+          794,
+          798
+        ],
+        "lemma": "help"
+      },
+      {
+        "text": "Affected",
+        "part_of_speech": "VERB",
+        "location": [
+          799,
+          807
+        ],
+        "lemma": "affect"
+      },
+      {
+        "text": "Regions",
+        "part_of_speech": "NOUN",
+        "location": [
+          808,
+          815
+        ],
+        "lemma": "region"
+      },
+      {
+        "text": "11",
+        "part_of_speech": "NUM",
+        "location": [
+          831,
+          833
+        ]
+      },
+      {
+        "text": "November",
+        "part_of_speech": "PROPN",
+        "location": [
+          834,
+          842
+        ],
+        "lemma": "November"
+      },
+      {
+        "text": "2015",
+        "part_of_speech": "NUM",
+        "location": [
+          843,
+          847
+        ]
+      },
+      {
+        "text": "Measuring",
+        "part_of_speech": "VERB",
+        "location": [
+          862,
+          871
+        ],
+        "lemma": "measure"
+      },
+      {
+        "text": "Radiation",
+        "part_of_speech": "NOUN",
+        "location": [
+          872,
+          881
+        ],
+        "lemma": "radiation"
+      },
+      {
+        "text": ":",
+        "part_of_speech": "PUNCT",
+        "location": [
+          881,
+          882
+        ],
+        "lemma": ":"
+      },
+      {
+        "text": "Improved",
+        "part_of_speech": "VERB",
+        "location": [
+          883,
+          891
+        ],
+        "lemma": "improve"
+      },
+      {
+        "text": "Models",
+        "part_of_speech": "NOUN",
+        "location": [
+          892,
+          898
+        ],
+        "lemma": "model"
+      },
+      {
+        "text": "Help",
+        "part_of_speech": "NOUN",
+        "location": [
+          899,
+          903
+        ],
+        "lemma": "help"
+      },
+      {
+        "text": "Correct",
+        "part_of_speech": "ADJ",
+        "location": [
+          904,
+          911
+        ],
+        "lemma": "correct"
+      },
+      {
+        "text": "Assessment",
+        "part_of_speech": "NOUN",
+        "location": [
+          912,
+          922
+        ],
+        "lemma": "assessment"
+      },
+      {
+        "text": "3",
+        "part_of_speech": "NUM",
+        "location": [
+          938,
+          939
+        ]
+      },
+      {
+        "text": "March",
+        "part_of_speech": "PROPN",
+        "location": [
+          940,
+          945
+        ],
+        "lemma": "March"
+      },
+      {
+        "text": "2011",
+        "part_of_speech": "NUM",
+        "location": [
+          946,
+          950
+        ]
+      },
+      {
+        "text": "Lessons",
+        "part_of_speech": "PROPN",
+        "location": [
+          965,
+          972
+        ],
+        "lemma": "lesson"
+      },
+      {
+        "text": "from",
+        "part_of_speech": "ADP",
+        "location": [
+          973,
+          977
+        ],
+        "lemma": "from"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          978,
+          981
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "Chernobyl",
+        "part_of_speech": "PROPN",
+        "location": [
+          982,
+          991
+        ]
+      },
+      {
+        "text": "Disaster",
+        "part_of_speech": "PROPN",
+        "location": [
+          992,
+          1000
+        ],
+        "lemma": "disaster"
+      },
+      {
+        "text": "-",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1001,
+          1002
+        ]
+      },
+      {
+        "text": "Safety",
+        "part_of_speech": "NOUN",
+        "location": [
+          1003,
+          1009
+        ],
+        "lemma": "safety"
+      },
+      {
+        "text": "for",
+        "part_of_speech": "ADP",
+        "location": [
+          1010,
+          1013
+        ],
+        "lemma": "for"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          1014,
+          1017
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "Future",
+        "part_of_speech": "NOUN",
+        "location": [
+          1018,
+          1024
+        ],
+        "lemma": "future"
+      },
+      {
+        "text": "25",
+        "part_of_speech": "NUM",
+        "location": [
+          1040,
+          1042
+        ]
+      },
+      {
+        "text": "April",
+        "part_of_speech": "PROPN",
+        "location": [
+          1043,
+          1048
+        ],
+        "lemma": "April"
+      },
+      {
+        "text": "2008",
+        "part_of_speech": "NUM",
+        "location": [
+          1049,
+          1053
+        ]
+      },
+      {
+        "text": "At",
+        "part_of_speech": "ADP",
+        "location": [
+          1068,
+          1070
+        ],
+        "lemma": "at"
+      },
+      {
+        "text": "Chernobyl",
+        "part_of_speech": "PROPN",
+        "location": [
+          1071,
+          1080
+        ]
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          1080,
+          1081
+        ]
+      },
+      {
+        "text": "Global",
+        "part_of_speech": "ADJ",
+        "location": [
+          1082,
+          1088
+        ],
+        "lemma": "global"
+      },
+      {
+        "text": "Support",
+        "part_of_speech": "NOUN",
+        "location": [
+          1089,
+          1096
+        ],
+        "lemma": "support"
+      },
+      {
+        "text": "for",
+        "part_of_speech": "ADP",
+        "location": [
+          1097,
+          1100
+        ],
+        "lemma": "for"
+      },
+      {
+        "text": "Recovery",
+        "part_of_speech": "PROPN",
+        "location": [
+          1101,
+          1109
+        ],
+        "lemma": "recovery"
+      },
+      {
+        "text": "Moves",
+        "part_of_speech": "PROPN",
+        "location": [
+          1110,
+          1115
+        ],
+        "lemma": "move"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "ADP",
+        "location": [
+          1116,
+          1118
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "Next",
+        "part_of_speech": "ADJ",
+        "location": [
+          1119,
+          1123
+        ],
+        "lemma": "next"
+      },
+      {
+        "text": "Phase",
+        "part_of_speech": "NOUN",
+        "location": [
+          1124,
+          1129
+        ],
+        "lemma": "phase"
+      }
+    ],
+    "sentences": [
+      {
+        "text": "If you would like to learn more about the IAEA’s work, sign up for our weekly updates containing our most important news, multimedia and more.",
+        "location": [
+          0,
+          142
+        ]
+      },
+      {
+        "text": "The accident at the Chernobyl nuclear power plant in 1986 was the most severe in the history of the nuclear power industry, causing a huge release of radionuclides over large areas of Belarus, Ukraine and the Russian Federation.",
+        "location": [
+          143,
+          371
+        ]
+      },
+      {
+        "text": "Tuesday, 26 April 2016 marks 30 years since the Chernobyl accident in the former USSR.",
+        "location": [
+          373,
+          459
+        ]
+      },
+      {
+        "text": "The IAEA has stories, photographs and videos that depict the environmental, social and technical aspects of the affected regions.",
+        "location": [
+          460,
+          589
+        ]
+      },
+      {
+        "text": "Read the statement by IAEA Director General Yukiya Amano on the occasion of the anniversary.",
+        "location": [
+          590,
+          682
+        ]
+      },
+      {
+        "text": "26 April 2016               30 Years after Chernobyl: IAEA Continues to Support Global Efforts to Help Affected Regions",
+        "location": [
+          696,
+          815
+        ]
+      },
+      {
+        "text": "11 November 2015               Measuring Radiation: Improved Models Help Correct Assessment",
+        "location": [
+          831,
+          922
+        ]
+      },
+      {
+        "text": "3 March 2011               Lessons from the Chernobyl Disaster - Safety for the Future",
+        "location": [
+          938,
+          1024
+        ]
+      },
+      {
+        "text": "25 April 2008               At Chernobyl, Global Support for Recovery Moves to Next Phase",
+        "location": [
+          1040,
+          1129
+        ]
+      }
+    ]
   },
   "sentiment": {
     "document": {
@@ -10,197 +1665,1287 @@
       "label": "positive"
     }
   },
+  "semantic_roles": [
+    {
+      "subject": {
+        "text": "you"
+      },
+      "sentence": "If you would like to learn more about the IAEA’s work, sign up for our weekly updates containing our most important news, multimedia and more.",
+      "object": {
+        "text": "to learn more about the IAEA’s work",
+        "keywords": [
+          {
+            "text": "IAEA"
+          },
+          {
+            "text": "work"
+          }
+        ],
+        "entities": [
+          {
+            "type": "Organization",
+            "text": "IAEA",
+            "disambiguation": {
+              "subtype": [
+                "AwardWinner"
+              ],
+              "name": "International Atomic Energy Agency",
+              "dbpedia_resource": "http://dbpedia.org/resource/International_Atomic_Energy_Agency"
+            }
+          }
+        ]
+      },
+      "action": {
+        "verb": {
+          "text": "like",
+          "tense": "future"
+        },
+        "text": "like",
+        "normalized": "like"
+      }
+    },
+    {
+      "subject": {
+        "text": "you"
+      },
+      "sentence": "If you would like to learn more about the IAEA’s work, sign up for our weekly updates containing our most important news, multimedia and more.",
+      "object": {
+        "text": "more about the IAEA’s work",
+        "keywords": [
+          {
+            "text": "IAEA"
+          },
+          {
+            "text": "work"
+          }
+        ],
+        "entities": [
+          {
+            "type": "Organization",
+            "text": "IAEA",
+            "disambiguation": {
+              "subtype": [
+                "AwardWinner"
+              ],
+              "name": "International Atomic Energy Agency",
+              "dbpedia_resource": "http://dbpedia.org/resource/International_Atomic_Energy_Agency"
+            }
+          }
+        ]
+      },
+      "action": {
+        "verb": {
+          "text": "learn",
+          "tense": "future"
+        },
+        "text": "would like to learn",
+        "normalized": "would like to learn"
+      }
+    },
+    {
+      "subject": {
+        "text": "more about the IAEA’s",
+        "keywords": [
+          {
+            "text": "IAEA"
+          }
+        ],
+        "entities": [
+          {
+            "type": "Organization",
+            "text": "IAEA",
+            "disambiguation": {
+              "subtype": [
+                "AwardWinner"
+              ],
+              "name": "International Atomic Energy Agency",
+              "dbpedia_resource": "http://dbpedia.org/resource/International_Atomic_Energy_Agency"
+            }
+          }
+        ]
+      },
+      "sentence": "If you would like to learn more about the IAEA’s work, sign up for our weekly updates containing our most important news, multimedia and more.",
+      "object": {
+        "text": "for our weekly updates containing our most important news, multimedia and more",
+        "keywords": [
+          {
+            "text": "weekly updates"
+          },
+          {
+            "text": "important news"
+          },
+          {
+            "text": "multimedia"
+          }
+        ]
+      },
+      "action": {
+        "verb": {
+          "text": "work",
+          "tense": "present"
+        },
+        "text": "work",
+        "normalized": "work"
+      }
+    },
+    {
+      "subject": {
+        "text": "The accident at the Chernobyl nuclear power plant in 1986",
+        "keywords": [
+          {
+            "text": "Chernobyl nuclear power"
+          },
+          {
+            "text": "accident"
+          },
+          {
+            "text": "plant"
+          }
+        ],
+        "entities": []
+      },
+      "sentence": " The accident at the Chernobyl nuclear power plant in 1986 was the most severe in the history of the nuclear power industry, causing a huge release of radionuclides over large areas of Belarus, Ukraine and the Russian Federation.",
+      "object": {
+        "text": "the most severe in the history of the nuclear power industry, causing a huge release of radionuclides over large areas of Belarus, Ukraine and the Russian Federation",
+        "keywords": [
+          {
+            "text": "nuclear power industry"
+          },
+          {
+            "text": "huge release"
+          },
+          {
+            "text": "large areas"
+          },
+          {
+            "text": "Russian Federation"
+          }
+        ],
+        "entities": [
+          {
+            "type": "Location",
+            "text": "Belarus",
+            "disambiguation": {
+              "subtype": [
+                "Country",
+                "GovernmentalJurisdiction",
+                "Country"
+              ],
+              "name": "Belarus",
+              "dbpedia_resource": "http://dbpedia.org/resource/Belarus"
+            }
+          },
+          {
+            "type": "Location",
+            "text": "Ukraine",
+            "disambiguation": {
+              "subtype": [
+                "Region",
+                "Country",
+                "GovernmentalJurisdiction",
+                "Cuisine",
+                "ProjectParticipant",
+                "Country"
+              ],
+              "name": "Ukraine",
+              "dbpedia_resource": "http://dbpedia.org/resource/Ukraine"
+            }
+          },
+          {
+            "type": "Organization",
+            "text": "Russian Federation",
+            "disambiguation": {
+              "subtype": [],
+              "name": "Russia",
+              "dbpedia_resource": "http://dbpedia.org/resource/Russia"
+            }
+          }
+        ]
+      },
+      "action": {
+        "verb": {
+          "text": "be",
+          "tense": "past"
+        },
+        "text": "was",
+        "normalized": "be"
+      }
+    },
+    {
+      "subject": {
+        "text": "The IAEA",
+        "keywords": [
+          {
+            "text": "IAEA"
+          }
+        ],
+        "entities": [
+          {
+            "type": "Organization",
+            "text": "IAEA",
+            "disambiguation": {
+              "subtype": [
+                "AwardWinner"
+              ],
+              "name": "International Atomic Energy Agency",
+              "dbpedia_resource": "http://dbpedia.org/resource/International_Atomic_Energy_Agency"
+            }
+          }
+        ]
+      },
+      "sentence": " The IAEA has stories, photographs and videos that depict the environmental, social and technical aspects of the affected regions.",
+      "object": {
+        "text": "stories, photographs and videos that depict the environmental, social and technical aspects of the affected regions",
+        "keywords": [
+          {
+            "text": "technical aspects"
+          },
+          {
+            "text": "regions"
+          },
+          {
+            "text": "stories"
+          },
+          {
+            "text": "photographs"
+          }
+        ]
+      },
+      "action": {
+        "verb": {
+          "text": "have",
+          "tense": "present"
+        },
+        "text": "has",
+        "normalized": "have"
+      }
+    },
+    {
+      "subject": {
+        "text": "stories, photographs and videos",
+        "keywords": [
+          {
+            "text": "stories"
+          },
+          {
+            "text": "photographs"
+          },
+          {
+            "text": "videos"
+          }
+        ]
+      },
+      "sentence": " The IAEA has stories, photographs and videos that depict the environmental, social and technical aspects of the affected regions.",
+      "object": {
+        "text": "the environmental, social and technical aspects of the affected regions",
+        "keywords": [
+          {
+            "text": "technical aspects"
+          },
+          {
+            "text": "regions"
+          }
+        ]
+      },
+      "action": {
+        "verb": {
+          "text": "depict",
+          "tense": "present"
+        },
+        "text": "depict",
+        "normalized": "depict"
+      }
+    },
+    {
+      "subject": {
+        "text": "by IAEA Director General Yukiya Amano",
+        "keywords": [
+          {
+            "text": "IAEA Director General"
+          },
+          {
+            "text": "Yukiya Amano"
+          }
+        ],
+        "entities": [
+          {
+            "type": "Organization",
+            "text": "IAEA",
+            "disambiguation": {
+              "subtype": [
+                "AwardWinner"
+              ],
+              "name": "International Atomic Energy Agency",
+              "dbpedia_resource": "http://dbpedia.org/resource/International_Atomic_Energy_Agency"
+            }
+          },
+          {
+            "type": "JobTitle",
+            "text": "Director"
+          },
+          {
+            "type": "Person",
+            "text": "General Yukiya Amano",
+            "disambiguation": {
+              "subtype": [
+                "Person"
+              ],
+              "name": "Yukiya Amano",
+              "dbpedia_resource": "http://dbpedia.org/resource/Yukiya_Amano"
+            }
+          }
+        ]
+      },
+      "sentence": " Read the statement by IAEA Director General Yukiya Amano on the occasion of the anniversary.",
+      "object": {
+        "text": "the statement",
+        "keywords": [
+          {
+            "text": "statement"
+          }
+        ]
+      },
+      "action": {
+        "verb": {
+          "text": "Read",
+          "tense": "present"
+        },
+        "text": "Read",
+        "normalized": "Read"
+      }
+    },
+    {
+      "subject": {
+        "text": "IAEA",
+        "keywords": [
+          {
+            "text": "IAEA"
+          }
+        ],
+        "entities": [
+          {
+            "type": "Organization",
+            "text": "IAEA",
+            "disambiguation": {
+              "subtype": [
+                "AwardWinner"
+              ],
+              "name": "International Atomic Energy Agency",
+              "dbpedia_resource": "http://dbpedia.org/resource/International_Atomic_Energy_Agency"
+            }
+          }
+        ]
+      },
+      "sentence": " 26 April 2016 30 Years after Chernobyl: IAEA Continues to Support Global Efforts to Help Affected Regions",
+      "action": {
+        "verb": {
+          "text": "Continues",
+          "tense": "present"
+        },
+        "text": "Continues to Support",
+        "normalized": "Continues to Support"
+      }
+    },
+    {
+      "subject": {
+        "text": "IAEA",
+        "keywords": [
+          {
+            "text": "IAEA"
+          }
+        ],
+        "entities": [
+          {
+            "type": "Organization",
+            "text": "IAEA",
+            "disambiguation": {
+              "subtype": [
+                "AwardWinner"
+              ],
+              "name": "International Atomic Energy Agency",
+              "dbpedia_resource": "http://dbpedia.org/resource/International_Atomic_Energy_Agency"
+            }
+          }
+        ]
+      },
+      "sentence": " 26 April 2016 30 Years after Chernobyl: IAEA Continues to Support Global Efforts to Help Affected Regions",
+      "object": {
+        "text": "Global Efforts",
+        "keywords": [
+          {
+            "text": "Global Efforts"
+          }
+        ]
+      },
+      "action": {
+        "verb": {
+          "text": "Support",
+          "tense": "future"
+        },
+        "text": "Continues to Support",
+        "normalized": "Continues to Support"
+      }
+    },
+    {
+      "subject": {
+        "text": "IAEA",
+        "keywords": [
+          {
+            "text": "IAEA"
+          }
+        ],
+        "entities": [
+          {
+            "type": "Organization",
+            "text": "IAEA",
+            "disambiguation": {
+              "subtype": [
+                "AwardWinner"
+              ],
+              "name": "International Atomic Energy Agency",
+              "dbpedia_resource": "http://dbpedia.org/resource/International_Atomic_Energy_Agency"
+            }
+          }
+        ]
+      },
+      "sentence": " 26 April 2016 30 Years after Chernobyl: IAEA Continues to Support Global Efforts to Help Affected Regions",
+      "object": {
+        "text": "Affected Regions",
+        "keywords": [
+          {
+            "text": "Regions"
+          }
+        ]
+      },
+      "action": {
+        "verb": {
+          "text": "Help",
+          "tense": "future"
+        },
+        "text": "to Help",
+        "normalized": "to Help"
+      }
+    },
+    {
+      "subject": {
+        "text": "Improved Models",
+        "keywords": [
+          {
+            "text": "Models"
+          }
+        ]
+      },
+      "sentence": " 11 November 2015 Measuring Radiation: Improved Models Help Correct Assessment",
+      "object": {
+        "text": "Correct Assessment",
+        "keywords": [
+          {
+            "text": "Correct Assessment"
+          }
+        ]
+      },
+      "action": {
+        "verb": {
+          "text": "Help",
+          "tense": "present"
+        },
+        "text": "Help",
+        "normalized": "Help"
+      }
+    }
+  ],
   "retrieved_url": "https://www.iaea.org/newscenter/focus/chernobyl",
+  "relations": [
+    {
+      "type": "locatedAt",
+      "sentence": "The accident at the Chernobyl nuclear power plant in 1986 was the most severe in the history of the nuclear power industry, causing a huge release of radionuclides over large areas of Belarus, Ukraine and the Russian Federation.",
+      "score": 0.483031,
+      "arguments": [
+        {
+          "text": "accident",
+          "location": [
+            147,
+            155
+          ],
+          "entities": [
+            {
+              "type": "NaturalDisaster",
+              "text": "accident"
+            }
+          ]
+        },
+        {
+          "text": "Chernobyl nuclear",
+          "location": [
+            163,
+            180
+          ],
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "Chernobyl nuclear"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "locatedAt",
+      "sentence": "The accident at the Chernobyl nuclear power plant in 1986 was the most severe in the history of the nuclear power industry, causing a huge release of radionuclides over large areas of Belarus, Ukraine and the Russian Federation.",
+      "score": 0.601429,
+      "arguments": [
+        {
+          "text": "accident",
+          "location": [
+            147,
+            155
+          ],
+          "entities": [
+            {
+              "type": "NaturalDisaster",
+              "text": "accident"
+            }
+          ]
+        },
+        {
+          "text": "power plant",
+          "location": [
+            181,
+            192
+          ],
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "Chernobyl nuclear"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "timeOf",
+      "sentence": "The accident at the Chernobyl nuclear power plant in 1986 was the most severe in the history of the nuclear power industry, causing a huge release of radionuclides over large areas of Belarus, Ukraine and the Russian Federation.",
+      "score": 0.830072,
+      "arguments": [
+        {
+          "text": "1986",
+          "location": [
+            196,
+            200
+          ],
+          "entities": [
+            {
+              "type": "Date",
+              "text": "1986"
+            }
+          ]
+        },
+        {
+          "text": "accident",
+          "location": [
+            147,
+            155
+          ],
+          "entities": [
+            {
+              "type": "NaturalDisaster",
+              "text": "accident"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "affectedBy",
+      "sentence": "Tuesday, 26 April 2016 marks 30 years since the Chernobyl accident in the former USSR.",
+      "score": 0.571633,
+      "arguments": [
+        {
+          "text": "Chernobyl",
+          "location": [
+            421,
+            430
+          ],
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Chernobyl"
+            }
+          ]
+        },
+        {
+          "text": "accident",
+          "location": [
+            431,
+            439
+          ],
+          "entities": [
+            {
+              "type": "NaturalDisaster",
+              "text": "accident"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "employedBy",
+      "sentence": "Read the statement by IAEA Director General Yukiya Amano on the occasion of the anniversary.",
+      "score": 0.710689,
+      "arguments": [
+        {
+          "text": "Director General",
+          "location": [
+            617,
+            633
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Yukiya Amano"
+            }
+          ]
+        },
+        {
+          "text": "IAEA",
+          "location": [
+            612,
+            616
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "IAEA",
+              "disambiguation": {
+                "subtype": [
+                  "Multigov"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "Chernobyl Nuclear Accident, Resources, News updates | IAEA",
+    "publication_date": "2014-05-14T00:00:00",
+    "image": "",
+    "feeds": [
+      {
+        "link": "https://www.iaea.org/feeds"
+      }
+    ],
+    "authors": []
+  },
   "language": "en",
   "keywords": [
     {
       "text": "nuclear power plant",
+      "sentiment": {
+        "score": -0.710463,
+        "label": "negative"
+      },
       "relevance": 0.807011,
+      "emotion": {
+        "sadness": 0.174194,
+        "joy": 0.059306,
+        "fear": 0.686196,
+        "disgust": 0.031477,
+        "anger": 0.143999
+      },
       "count": 1
     },
     {
       "text": "IAEA’s work",
+      "sentiment": {
+        "score": 0.78953,
+        "label": "positive"
+      },
       "relevance": 0.784588,
+      "emotion": {
+        "sadness": 0.164962,
+        "joy": 0.318938,
+        "fear": 0.06762,
+        "disgust": 0.037927,
+        "anger": 0.074236
+      },
       "count": 1
     },
     {
       "text": "Chernobyl accident",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.681835,
+      "emotion": {
+        "sadness": 0.512137,
+        "joy": 0.280511,
+        "fear": 0.12075,
+        "disgust": 0.036599,
+        "anger": 0.027388
+      },
       "count": 1
     },
     {
       "text": "history of the nuclear power industry",
+      "sentiment": {
+        "score": -0.710463,
+        "label": "negative"
+      },
       "relevance": 0.647265,
+      "emotion": {
+        "sadness": 0.174194,
+        "joy": 0.059306,
+        "fear": 0.686196,
+        "disgust": 0.031477,
+        "anger": 0.143999
+      },
       "count": 1
     },
     {
       "text": "Chernobyl Disaster",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.594564,
+      "emotion": {
+        "sadness": 0.268805,
+        "joy": 0.061868,
+        "fear": 0.18462,
+        "disgust": 0.136926,
+        "anger": 0.081843
+      },
       "count": 1
     },
     {
       "text": "IAEA Director General Yukiya Amano",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.590476,
+      "emotion": {
+        "sadness": 0.124134,
+        "joy": 0.560468,
+        "fear": 0.032265,
+        "disgust": 0.157751,
+        "anger": 0.095254
+      },
       "count": 1
     },
     {
       "text": "April",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.57668,
+      "emotion": {
+        "sadness": 0.402004,
+        "joy": 0.490874,
+        "fear": 0.039611,
+        "disgust": 0.022383,
+        "anger": 0.035989
+      },
       "count": 3
     },
     {
       "text": "Chernobyl",
+      "sentiment": {
+        "score": -0.710463,
+        "label": "negative"
+      },
       "relevance": 0.568475,
+      "emotion": {
+        "sadness": 0.381865,
+        "joy": 0.315256,
+        "fear": 0.270982,
+        "disgust": 0.028699,
+        "anger": 0.093334
+      },
       "count": 3
     },
     {
       "text": "huge release of radionuclides",
+      "sentiment": {
+        "score": -0.710463,
+        "label": "negative"
+      },
       "relevance": 0.562426,
+      "emotion": {
+        "sadness": 0.174194,
+        "joy": 0.059306,
+        "fear": 0.686196,
+        "disgust": 0.031477,
+        "anger": 0.143999
+      },
       "count": 1
     },
     {
       "text": "Russian Federation",
+      "sentiment": {
+        "score": -0.710463,
+        "label": "negative"
+      },
       "relevance": 0.544507,
+      "emotion": {
+        "sadness": 0.174194,
+        "joy": 0.059306,
+        "fear": 0.686196,
+        "disgust": 0.031477,
+        "anger": 0.143999
+      },
       "count": 1
     },
     {
       "text": "weekly updates",
+      "sentiment": {
+        "score": 0.78953,
+        "label": "positive"
+      },
       "relevance": 0.54215,
+      "emotion": {
+        "sadness": 0.164962,
+        "joy": 0.318938,
+        "fear": 0.06762,
+        "disgust": 0.037927,
+        "anger": 0.074236
+      },
       "count": 1
     },
     {
       "text": "IAEA",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.538953,
+      "emotion": {
+        "sadness": 0.09468,
+        "joy": 0.78201,
+        "fear": 0.019559,
+        "disgust": 0.031725,
+        "anger": 0.050094
+      },
       "count": 2
     },
     {
       "text": "accident",
+      "sentiment": {
+        "score": -0.710463,
+        "label": "negative"
+      },
       "relevance": 0.532535,
+      "emotion": {
+        "sadness": 0.341325,
+        "joy": 0.116133,
+        "fear": 0.566685,
+        "disgust": 0.024965,
+        "anger": 0.082011
+      },
       "count": 1
     },
     {
       "text": "November",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.531512,
+      "emotion": {
+        "sadness": 0.094023,
+        "joy": 0.307853,
+        "fear": 0.038832,
+        "disgust": 0.025242,
+        "anger": 0.013118
+      },
       "count": 1
     },
     {
       "text": "March",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.529418,
+      "emotion": {
+        "sadness": 0.268805,
+        "joy": 0.061868,
+        "fear": 0.18462,
+        "disgust": 0.136926,
+        "anger": 0.081843
+      },
       "count": 1
     },
     {
       "text": "marks",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.52845,
+      "emotion": {
+        "sadness": 0.512137,
+        "joy": 0.280511,
+        "fear": 0.12075,
+        "disgust": 0.036599,
+        "anger": 0.027388
+      },
       "count": 1
     },
     {
       "text": "large areas of Belarus",
+      "sentiment": {
+        "score": -0.710463,
+        "label": "negative"
+      },
       "relevance": 0.524102,
+      "emotion": {
+        "sadness": 0.174194,
+        "joy": 0.059306,
+        "fear": 0.686196,
+        "disgust": 0.031477,
+        "anger": 0.143999
+      },
       "count": 1
     },
     {
       "text": "statement",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.522592,
+      "emotion": {
+        "sadness": 0.124134,
+        "joy": 0.560468,
+        "fear": 0.032265,
+        "disgust": 0.157751,
+        "anger": 0.095254
+      },
       "count": 1
     },
     {
       "text": "Global Support",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.52003,
+      "emotion": {
+        "sadness": 0.226441,
+        "joy": 0.519031,
+        "fear": 0.093994,
+        "disgust": 0.062773,
+        "anger": 0.043176
+      },
       "count": 1
     },
     {
       "text": "stories",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.519003,
+      "emotion": {
+        "sadness": 0.044588,
+        "joy": 0.710121,
+        "fear": 0.088119,
+        "disgust": 0.042077,
+        "anger": 0.056908
+      },
       "count": 1
     },
     {
       "text": "Tuesday",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.51711,
+      "emotion": {
+        "sadness": 0.512137,
+        "joy": 0.280511,
+        "fear": 0.12075,
+        "disgust": 0.036599,
+        "anger": 0.027388
+      },
       "count": 1
     },
     {
       "text": "Lessons",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.516566,
+      "emotion": {
+        "sadness": 0.268805,
+        "joy": 0.061868,
+        "fear": 0.18462,
+        "disgust": 0.136926,
+        "anger": 0.081843
+      },
       "count": 1
     },
     {
       "text": "photographs",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.516516,
+      "emotion": {
+        "sadness": 0.044588,
+        "joy": 0.710121,
+        "fear": 0.088119,
+        "disgust": 0.042077,
+        "anger": 0.056908
+      },
       "count": 1
     },
     {
       "text": "videos",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.515112,
+      "emotion": {
+        "sadness": 0.044588,
+        "joy": 0.710121,
+        "fear": 0.088119,
+        "disgust": 0.042077,
+        "anger": 0.056908
+      },
       "count": 1
     },
     {
       "text": "Global Efforts",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.514839,
+      "emotion": {
+        "sadness": 0.374874,
+        "joy": 0.379113,
+        "fear": 0.029335,
+        "disgust": 0.025124,
+        "anger": 0.033793
+      },
       "count": 1
     },
     {
       "text": "Radiation",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.513382,
+      "emotion": {
+        "sadness": 0.094023,
+        "joy": 0.307853,
+        "fear": 0.038832,
+        "disgust": 0.025242,
+        "anger": 0.013118
+      },
       "count": 1
     },
     {
       "text": "important news",
+      "sentiment": {
+        "score": 0.78953,
+        "label": "positive"
+      },
       "relevance": 0.508975,
+      "emotion": {
+        "sadness": 0.164962,
+        "joy": 0.318938,
+        "fear": 0.06762,
+        "disgust": 0.037927,
+        "anger": 0.074236
+      },
       "count": 1
     },
     {
       "text": "Ukraine",
+      "sentiment": {
+        "score": -0.710463,
+        "label": "negative"
+      },
       "relevance": 0.508348,
+      "emotion": {
+        "sadness": 0.174194,
+        "joy": 0.059306,
+        "fear": 0.686196,
+        "disgust": 0.031477,
+        "anger": 0.143999
+      },
       "count": 1
     },
     {
       "text": "Safety",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.506885,
+      "emotion": {
+        "sadness": 0.268805,
+        "joy": 0.061868,
+        "fear": 0.18462,
+        "disgust": 0.136926,
+        "anger": 0.081843
+      },
       "count": 1
     },
     {
       "text": "Regions",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.502839,
+      "emotion": {
+        "sadness": 0.374874,
+        "joy": 0.379113,
+        "fear": 0.029335,
+        "disgust": 0.025124,
+        "anger": 0.033793
+      },
       "count": 1
     },
     {
       "text": "technical aspects of the affected regions",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.490141,
+      "emotion": {
+        "sadness": 0.044588,
+        "joy": 0.710121,
+        "fear": 0.088119,
+        "disgust": 0.042077,
+        "anger": 0.056908
+      },
       "count": 1
     },
     {
       "text": "Models Help",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.486626,
+      "emotion": {
+        "sadness": 0.094023,
+        "joy": 0.307853,
+        "fear": 0.038832,
+        "disgust": 0.025242,
+        "anger": 0.013118
+      },
       "count": 1
     },
     {
       "text": "Recovery Moves",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.484834,
+      "emotion": {
+        "sadness": 0.226441,
+        "joy": 0.519031,
+        "fear": 0.093994,
+        "disgust": 0.062773,
+        "anger": 0.043176
+      },
       "count": 1
     },
     {
       "text": "former USSR",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.463911,
+      "emotion": {
+        "sadness": 0.512137,
+        "joy": 0.280511,
+        "fear": 0.12075,
+        "disgust": 0.036599,
+        "anger": 0.027388
+      },
       "count": 1
     },
     {
       "text": "occasion of the anniversary",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.463911,
+      "emotion": {
+        "sadness": 0.124134,
+        "joy": 0.560468,
+        "fear": 0.032265,
+        "disgust": 0.157751,
+        "anger": 0.095254
+      },
       "count": 1
     },
     {
       "text": "Correct Assessment",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.463911,
+      "emotion": {
+        "sadness": 0.094023,
+        "joy": 0.307853,
+        "fear": 0.038832,
+        "disgust": 0.025242,
+        "anger": 0.013118
+      },
       "count": 1
     },
     {
       "text": "Next Phase",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.463911,
+      "emotion": {
+        "sadness": 0.226441,
+        "joy": 0.519031,
+        "fear": 0.093994,
+        "disgust": 0.062773,
+        "anger": 0.043176
+      },
       "count": 1
     },
     {
       "text": "Future",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.425461,
+      "emotion": {
+        "sadness": 0.268805,
+        "joy": 0.061868,
+        "fear": 0.18462,
+        "disgust": 0.136926,
+        "anger": 0.081843
+      },
       "count": 1
     }
   ],
@@ -208,7 +2953,52 @@
     {
       "type": "Organization",
       "text": "IAEA",
+      "sentiment": {
+        "score": 0.78953,
+        "label": "positive"
+      },
       "relevance": 0.961624,
+      "mentions": [
+        {
+          "text": "IAEA",
+          "location": [
+            42,
+            46
+          ],
+          "confidence": 0.999693
+        },
+        {
+          "text": "IAEA",
+          "location": [
+            464,
+            468
+          ],
+          "confidence": 0.999548
+        },
+        {
+          "text": "IAEA",
+          "location": [
+            612,
+            616
+          ],
+          "confidence": 0.988372
+        },
+        {
+          "text": "IAEA",
+          "location": [
+            750,
+            754
+          ],
+          "confidence": 0.973682
+        }
+      ],
+      "emotion": {
+        "sadness": 0.09468,
+        "joy": 0.78201,
+        "fear": 0.019559,
+        "disgust": 0.031725,
+        "anger": 0.050094
+      },
       "disambiguation": {
         "subtype": [
           "AwardWinner"
@@ -222,7 +3012,28 @@
     {
       "type": "Facility",
       "text": "Chernobyl nuclear power plant",
+      "sentiment": {
+        "score": -0.710463,
+        "label": "negative"
+      },
       "relevance": 0.548331,
+      "mentions": [
+        {
+          "text": "Chernobyl nuclear power plant",
+          "location": [
+            163,
+            192
+          ],
+          "confidence": 0.248874
+        }
+      ],
+      "emotion": {
+        "sadness": 0.174194,
+        "joy": 0.059306,
+        "fear": 0.686196,
+        "disgust": 0.031477,
+        "anger": 0.143999
+      },
       "disambiguation": {
         "subtype": [
           "Location"
@@ -236,21 +3047,84 @@
     {
       "type": "Person",
       "text": "Director General Yukiya Amano",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.430328,
+      "mentions": [
+        {
+          "text": "Director General Yukiya Amano",
+          "location": [
+            617,
+            646
+          ],
+          "confidence": 0.582839
+        }
+      ],
+      "emotion": {
+        "sadness": 0.124134,
+        "joy": 0.560468,
+        "fear": 0.032265,
+        "disgust": 0.157751,
+        "anger": 0.095254
+      },
       "count": 1,
       "confidence": 0.582839
     },
     {
       "type": "Quantity",
       "text": "2016               30 Years",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.364431,
+      "mentions": [
+        {
+          "text": "2016               30 Years",
+          "location": [
+            705,
+            732
+          ],
+          "confidence": 0.8
+        }
+      ],
+      "emotion": {
+        "sadness": 0.374874,
+        "joy": 0.379113,
+        "fear": 0.029335,
+        "disgust": 0.025124,
+        "anger": 0.033793
+      },
       "count": 1,
       "confidence": 0.8
     },
     {
       "type": "Organization",
       "text": "Russian Federation",
+      "sentiment": {
+        "score": -0.710463,
+        "label": "negative"
+      },
       "relevance": 0.343007,
+      "mentions": [
+        {
+          "text": "Russian Federation",
+          "location": [
+            352,
+            370
+          ],
+          "confidence": 0.98694
+        }
+      ],
+      "emotion": {
+        "sadness": 0.174194,
+        "joy": 0.059306,
+        "fear": 0.686196,
+        "disgust": 0.031477,
+        "anger": 0.143999
+      },
       "disambiguation": {
         "name": "Russia",
         "dbpedia_resource": "http://dbpedia.org/resource/Russia"
@@ -261,7 +3135,28 @@
     {
       "type": "Location",
       "text": "Belarus",
+      "sentiment": {
+        "score": -0.710463,
+        "label": "negative"
+      },
       "relevance": 0.339958,
+      "mentions": [
+        {
+          "text": "Belarus",
+          "location": [
+            327,
+            334
+          ],
+          "confidence": 0.996926
+        }
+      ],
+      "emotion": {
+        "sadness": 0.174194,
+        "joy": 0.059306,
+        "fear": 0.686196,
+        "disgust": 0.031477,
+        "anger": 0.143999
+      },
       "disambiguation": {
         "subtype": [
           "Country",
@@ -276,7 +3171,28 @@
     {
       "type": "Location",
       "text": "Ukraine",
+      "sentiment": {
+        "score": -0.710463,
+        "label": "negative"
+      },
       "relevance": 0.294586,
+      "mentions": [
+        {
+          "text": "Ukraine",
+          "location": [
+            336,
+            343
+          ],
+          "confidence": 0.999492
+        }
+      ],
+      "emotion": {
+        "sadness": 0.174194,
+        "joy": 0.059306,
+        "fear": 0.686196,
+        "disgust": 0.031477,
+        "anger": 0.143999
+      },
       "disambiguation": {
         "subtype": [
           "Region",
@@ -294,7 +3210,28 @@
     {
       "type": "Location",
       "text": "USSR",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.291949,
+      "mentions": [
+        {
+          "text": "USSR",
+          "location": [
+            454,
+            458
+          ],
+          "confidence": 0.737705
+        }
+      ],
+      "emotion": {
+        "sadness": 0.512137,
+        "joy": 0.280511,
+        "fear": 0.12075,
+        "disgust": 0.036599,
+        "anger": 0.027388
+      },
       "disambiguation": {
         "subtype": [
           "Country",
@@ -309,11 +3246,43 @@
     {
       "type": "Quantity",
       "text": "30 years",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.253283,
+      "mentions": [
+        {
+          "text": "30 years",
+          "location": [
+            402,
+            410
+          ],
+          "confidence": 0.8
+        }
+      ],
+      "emotion": {
+        "sadness": 0.512137,
+        "joy": 0.280511,
+        "fear": 0.12075,
+        "disgust": 0.036599,
+        "anger": 0.027388
+      },
       "count": 1,
       "confidence": 0.8
     }
   ],
+  "emotion": {
+    "document": {
+      "emotion": {
+        "sadness": 0.458843,
+        "joy": 0.630004,
+        "fear": 0.53717,
+        "disgust": 0.057183,
+        "anger": 0.070406
+      }
+    }
+  },
   "concepts": [
     {
       "text": "Chernobyl disaster",
@@ -359,11 +3328,44 @@
   "categories": [
     {
       "score": 0.99998,
-      "label": "/business and industrial/energy/nuclear power"
+      "label": "/business and industrial/energy/nuclear power",
+      "explanation": {
+        "relevant_text": [
+          {
+            "text": "chernobyl disaster"
+          },
+          {
+            "text": "iaea"
+          },
+          {
+            "text": "chernobyl accident"
+          },
+          {
+            "text": "chernobyl nuclear power plant"
+          }
+        ]
+      }
     },
     {
       "score": 0.998562,
-      "label": "/business and industrial/energy/nuclear power/nuclear accident"
+      "label": "/business and industrial/energy/nuclear power/nuclear accident",
+      "explanation": {
+        "relevant_text": [
+          {
+            "text": "chernobyl disaster"
+          },
+          {
+            "text": "iaea"
+          },
+          {
+            "text": "chernobyl accident"
+          },
+          {
+            "text": "radiation"
+          }
+        ]
+      }
     }
-  ]
+  ],
+  "analyzed_text": "If you would like to learn more about the IAEA’s work, sign up for our weekly updates containing our most important news, multimedia and more.\nThe accident at the Chernobyl nuclear power plant in 1986 was the most severe in the history of the nuclear power industry, causing a huge release of radionuclides over large areas of Belarus, Ukraine and the Russian Federation. \nTuesday, 26 April 2016 marks 30 years since the Chernobyl accident in the former USSR. The IAEA has stories, photographs and videos that depict the environmental, social and technical aspects of the affected regions.\nRead the statement by IAEA Director General Yukiya Amano on the occasion of the anniversary.\n             26 April 2016               30 Years after Chernobyl: IAEA Continues to Support Global Efforts to Help Affected Regions  \n             11 November 2015               Measuring Radiation: Improved Models Help Correct Assessment  \n             3 March 2011               Lessons from the Chernobyl Disaster - Safety for the Future  \n             25 April 2008               At Chernobyl, Global Support for Recovery Moves to Next Phase  \n"
 }

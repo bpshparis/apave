@@ -2,7 +2,1310 @@
   "usage": {
     "text_units": 1,
     "text_characters": 861,
-    "features": 5
+    "features": 9
+  },
+  "syntax": {
+    "tokens": [
+      {
+        "text": "If",
+        "part_of_speech": "SCONJ",
+        "location": [
+          0,
+          2
+        ],
+        "lemma": "if"
+      },
+      {
+        "text": "you",
+        "part_of_speech": "PRON",
+        "location": [
+          3,
+          6
+        ],
+        "lemma": "you"
+      },
+      {
+        "text": "would",
+        "part_of_speech": "AUX",
+        "location": [
+          7,
+          12
+        ],
+        "lemma": "will"
+      },
+      {
+        "text": "like",
+        "part_of_speech": "VERB",
+        "location": [
+          13,
+          17
+        ],
+        "lemma": "like"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "PART",
+        "location": [
+          18,
+          20
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "learn",
+        "part_of_speech": "VERB",
+        "location": [
+          21,
+          26
+        ],
+        "lemma": "learn"
+      },
+      {
+        "text": "more",
+        "part_of_speech": "ADJ",
+        "location": [
+          27,
+          31
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": "about",
+        "part_of_speech": "ADP",
+        "location": [
+          32,
+          37
+        ],
+        "lemma": "about"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          38,
+          41
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "IAEA",
+        "part_of_speech": "PROPN",
+        "location": [
+          42,
+          46
+        ]
+      },
+      {
+        "text": "’s",
+        "part_of_speech": "PART",
+        "location": [
+          46,
+          48
+        ],
+        "lemma": "’s"
+      },
+      {
+        "text": "work",
+        "part_of_speech": "NOUN",
+        "location": [
+          49,
+          53
+        ],
+        "lemma": "work"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          53,
+          54
+        ]
+      },
+      {
+        "text": "sign",
+        "part_of_speech": "VERB",
+        "location": [
+          55,
+          59
+        ],
+        "lemma": "sign"
+      },
+      {
+        "text": "up",
+        "part_of_speech": "ADP",
+        "location": [
+          60,
+          62
+        ],
+        "lemma": "up"
+      },
+      {
+        "text": "for",
+        "part_of_speech": "ADP",
+        "location": [
+          63,
+          66
+        ],
+        "lemma": "for"
+      },
+      {
+        "text": "our",
+        "part_of_speech": "PRON",
+        "location": [
+          67,
+          70
+        ],
+        "lemma": "our"
+      },
+      {
+        "text": "weekly",
+        "part_of_speech": "ADJ",
+        "location": [
+          71,
+          77
+        ],
+        "lemma": "weekly"
+      },
+      {
+        "text": "updates",
+        "part_of_speech": "NOUN",
+        "location": [
+          78,
+          85
+        ],
+        "lemma": "update"
+      },
+      {
+        "text": "containing",
+        "part_of_speech": "VERB",
+        "location": [
+          86,
+          96
+        ],
+        "lemma": "contain"
+      },
+      {
+        "text": "our",
+        "part_of_speech": "PRON",
+        "location": [
+          97,
+          100
+        ],
+        "lemma": "our"
+      },
+      {
+        "text": "most",
+        "part_of_speech": "ADV",
+        "location": [
+          101,
+          105
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": "important",
+        "part_of_speech": "ADJ",
+        "location": [
+          106,
+          115
+        ],
+        "lemma": "important"
+      },
+      {
+        "text": "news",
+        "part_of_speech": "NOUN",
+        "location": [
+          116,
+          120
+        ],
+        "lemma": "news"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          120,
+          121
+        ]
+      },
+      {
+        "text": "multimedia",
+        "part_of_speech": "ADJ",
+        "location": [
+          122,
+          132
+        ],
+        "lemma": "multimedia"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          133,
+          136
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "more",
+        "part_of_speech": "ADJ",
+        "location": [
+          137,
+          141
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          141,
+          142
+        ]
+      },
+      {
+        "text": "The",
+        "part_of_speech": "DET",
+        "location": [
+          151,
+          154
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "63rd",
+        "part_of_speech": "ADJ",
+        "location": [
+          155,
+          159
+        ]
+      },
+      {
+        "text": "IAEA",
+        "part_of_speech": "PROPN",
+        "location": [
+          160,
+          164
+        ]
+      },
+      {
+        "text": "General",
+        "part_of_speech": "PROPN",
+        "location": [
+          165,
+          172
+        ],
+        "lemma": "general"
+      },
+      {
+        "text": "Conference",
+        "part_of_speech": "PROPN",
+        "location": [
+          173,
+          183
+        ],
+        "lemma": "conference"
+      },
+      {
+        "text": "concluded",
+        "part_of_speech": "VERB",
+        "location": [
+          184,
+          193
+        ],
+        "lemma": "conclude"
+      },
+      {
+        "text": "yesterday",
+        "part_of_speech": "NOUN",
+        "location": [
+          194,
+          203
+        ],
+        "lemma": "yesterday"
+      },
+      {
+        "text": "(",
+        "part_of_speech": "PUNCT",
+        "location": [
+          204,
+          205
+        ]
+      },
+      {
+        "text": "see",
+        "part_of_speech": "VERB",
+        "location": [
+          205,
+          208
+        ],
+        "lemma": "see"
+      },
+      {
+        "text": "this",
+        "part_of_speech": "DET",
+        "location": [
+          209,
+          213
+        ],
+        "lemma": "this"
+      },
+      {
+        "text": "article",
+        "part_of_speech": "NOUN",
+        "location": [
+          214,
+          221
+        ],
+        "lemma": "article"
+      },
+      {
+        "text": "summarizing",
+        "part_of_speech": "VERB",
+        "location": [
+          223,
+          234
+        ],
+        "lemma": "summarize"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          235,
+          238
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "resolutions",
+        "part_of_speech": "NOUN",
+        "location": [
+          239,
+          250
+        ],
+        "lemma": "resolution"
+      },
+      {
+        "text": ")",
+        "part_of_speech": "PUNCT",
+        "location": [
+          250,
+          251
+        ]
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          251,
+          252
+        ]
+      },
+      {
+        "text": "but",
+        "part_of_speech": "CCONJ",
+        "location": [
+          253,
+          256
+        ],
+        "lemma": "but"
+      },
+      {
+        "text": "several",
+        "part_of_speech": "ADJ",
+        "location": [
+          257,
+          264
+        ],
+        "lemma": "several"
+      },
+      {
+        "text": "scheduled",
+        "part_of_speech": "VERB",
+        "location": [
+          265,
+          274
+        ],
+        "lemma": "schedule"
+      },
+      {
+        "text": "Conference",
+        "part_of_speech": "NOUN",
+        "location": [
+          275,
+          285
+        ],
+        "lemma": "conference"
+      },
+      {
+        "text": "side",
+        "part_of_speech": "NOUN",
+        "location": [
+          286,
+          290
+        ],
+        "lemma": "side"
+      },
+      {
+        "text": "events",
+        "part_of_speech": "NOUN",
+        "location": [
+          291,
+          297
+        ],
+        "lemma": "event"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          298,
+          301
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "other",
+        "part_of_speech": "ADJ",
+        "location": [
+          302,
+          307
+        ],
+        "lemma": "other"
+      },
+      {
+        "text": "activities",
+        "part_of_speech": "NOUN",
+        "location": [
+          308,
+          318
+        ],
+        "lemma": "activity"
+      },
+      {
+        "text": "took",
+        "part_of_speech": "VERB",
+        "location": [
+          319,
+          323
+        ],
+        "lemma": "take"
+      },
+      {
+        "text": "place",
+        "part_of_speech": "NOUN",
+        "location": [
+          324,
+          329
+        ],
+        "lemma": "place"
+      },
+      {
+        "text": "today",
+        "part_of_speech": "NOUN",
+        "location": [
+          330,
+          335
+        ],
+        "lemma": "today"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          335,
+          336
+        ]
+      },
+      {
+        "text": "Read",
+        "part_of_speech": "VERB",
+        "location": [
+          341,
+          345
+        ],
+        "lemma": "read"
+      },
+      {
+        "text": "more",
+        "part_of_speech": "ADJ",
+        "location": [
+          346,
+          350
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": "→",
+        "part_of_speech": "PUNCT",
+        "location": [
+          351,
+          352
+        ]
+      },
+      {
+        "text": "The",
+        "part_of_speech": "DET",
+        "location": [
+          361,
+          364
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "63rd",
+        "part_of_speech": "ADJ",
+        "location": [
+          365,
+          369
+        ]
+      },
+      {
+        "text": "annual",
+        "part_of_speech": "ADJ",
+        "location": [
+          370,
+          376
+        ],
+        "lemma": "annual"
+      },
+      {
+        "text": "IAEA",
+        "part_of_speech": "PROPN",
+        "location": [
+          377,
+          381
+        ]
+      },
+      {
+        "text": "General",
+        "part_of_speech": "PROPN",
+        "location": [
+          382,
+          389
+        ],
+        "lemma": "general"
+      },
+      {
+        "text": "Conference",
+        "part_of_speech": "PROPN",
+        "location": [
+          390,
+          400
+        ],
+        "lemma": "conference"
+      },
+      {
+        "text": "concluded",
+        "part_of_speech": "VERB",
+        "location": [
+          401,
+          410
+        ],
+        "lemma": "conclude"
+      },
+      {
+        "text": "yesterday",
+        "part_of_speech": "NOUN",
+        "location": [
+          411,
+          420
+        ],
+        "lemma": "yesterday"
+      },
+      {
+        "text": "with",
+        "part_of_speech": "ADP",
+        "location": [
+          421,
+          425
+        ],
+        "lemma": "with"
+      },
+      {
+        "text": "resolutions",
+        "part_of_speech": "NOUN",
+        "location": [
+          426,
+          437
+        ],
+        "lemma": "resolution"
+      },
+      {
+        "text": "adopted",
+        "part_of_speech": "VERB",
+        "location": [
+          438,
+          445
+        ],
+        "lemma": "adopt"
+      },
+      {
+        "text": "affirming",
+        "part_of_speech": "VERB",
+        "location": [
+          446,
+          455
+        ],
+        "lemma": "affirm"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          456,
+          459
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "importance",
+        "part_of_speech": "NOUN",
+        "location": [
+          460,
+          470
+        ],
+        "lemma": "importance"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          471,
+          473
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          474,
+          477
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "Agency",
+        "part_of_speech": "PROPN",
+        "location": [
+          478,
+          484
+        ],
+        "lemma": "agency"
+      },
+      {
+        "text": "’s",
+        "part_of_speech": "PART",
+        "location": [
+          484,
+          486
+        ],
+        "lemma": "’s"
+      },
+      {
+        "text": "role",
+        "part_of_speech": "NOUN",
+        "location": [
+          487,
+          491
+        ],
+        "lemma": "role"
+      },
+      {
+        "text": "in",
+        "part_of_speech": "SCONJ",
+        "location": [
+          492,
+          494
+        ],
+        "lemma": "in"
+      },
+      {
+        "text": "facilitating",
+        "part_of_speech": "VERB",
+        "location": [
+          495,
+          507
+        ],
+        "lemma": "facilitate"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          508,
+          511
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "development",
+        "part_of_speech": "NOUN",
+        "location": [
+          512,
+          523
+        ],
+        "lemma": "development"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          524,
+          527
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "use",
+        "part_of_speech": "NOUN",
+        "location": [
+          528,
+          531
+        ],
+        "lemma": "use"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          532,
+          534
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "nuclear",
+        "part_of_speech": "ADJ",
+        "location": [
+          535,
+          542
+        ],
+        "lemma": "nuclear"
+      },
+      {
+        "text": "science",
+        "part_of_speech": "NOUN",
+        "location": [
+          543,
+          550
+        ],
+        "lemma": "science"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          551,
+          554
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "technology",
+        "part_of_speech": "NOUN",
+        "location": [
+          555,
+          565
+        ],
+        "lemma": "technology"
+      },
+      {
+        "text": "for",
+        "part_of_speech": "ADP",
+        "location": [
+          566,
+          569
+        ],
+        "lemma": "for"
+      },
+      {
+        "text": "peace",
+        "part_of_speech": "NOUN",
+        "location": [
+          570,
+          575
+        ],
+        "lemma": "peace"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          575,
+          576
+        ]
+      },
+      {
+        "text": "health",
+        "part_of_speech": "NOUN",
+        "location": [
+          577,
+          583
+        ],
+        "lemma": "health"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          584,
+          587
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "prosperity",
+        "part_of_speech": "NOUN",
+        "location": [
+          588,
+          598
+        ],
+        "lemma": "prosperity"
+      },
+      {
+        "text": "throughout",
+        "part_of_speech": "ADP",
+        "location": [
+          599,
+          609
+        ],
+        "lemma": "throughout"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          610,
+          613
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "world",
+        "part_of_speech": "NOUN",
+        "location": [
+          614,
+          619
+        ],
+        "lemma": "world"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          619,
+          620
+        ]
+      },
+      {
+        "text": "Read",
+        "part_of_speech": "VERB",
+        "location": [
+          625,
+          629
+        ],
+        "lemma": "read"
+      },
+      {
+        "text": "more",
+        "part_of_speech": "ADJ",
+        "location": [
+          630,
+          634
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": "→",
+        "part_of_speech": "PUNCT",
+        "location": [
+          635,
+          636
+        ]
+      },
+      {
+        "text": "The",
+        "part_of_speech": "DET",
+        "location": [
+          645,
+          648
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "right",
+        "part_of_speech": "ADJ",
+        "location": [
+          649,
+          654
+        ],
+        "lemma": "right"
+      },
+      {
+        "text": "legal",
+        "part_of_speech": "ADJ",
+        "location": [
+          655,
+          660
+        ],
+        "lemma": "legal"
+      },
+      {
+        "text": "framework",
+        "part_of_speech": "NOUN",
+        "location": [
+          661,
+          670
+        ],
+        "lemma": "framework"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          670,
+          671
+        ]
+      },
+      {
+        "text": "including",
+        "part_of_speech": "VERB",
+        "location": [
+          672,
+          681
+        ],
+        "lemma": "include"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          682,
+          685
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "establishment",
+        "part_of_speech": "NOUN",
+        "location": [
+          686,
+          699
+        ],
+        "lemma": "establishment"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          700,
+          702
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "a",
+        "part_of_speech": "DET",
+        "location": [
+          703,
+          704
+        ],
+        "lemma": "a"
+      },
+      {
+        "text": "nuclear",
+        "part_of_speech": "ADJ",
+        "location": [
+          705,
+          712
+        ],
+        "lemma": "nuclear"
+      },
+      {
+        "text": "regulator",
+        "part_of_speech": "NOUN",
+        "location": [
+          713,
+          722
+        ],
+        "lemma": "regulator"
+      },
+      {
+        "text": "independent",
+        "part_of_speech": "ADJ",
+        "location": [
+          723,
+          734
+        ],
+        "lemma": "independent"
+      },
+      {
+        "text": "from",
+        "part_of_speech": "ADP",
+        "location": [
+          735,
+          739
+        ],
+        "lemma": "from"
+      },
+      {
+        "text": "industry",
+        "part_of_speech": "NOUN",
+        "location": [
+          740,
+          748
+        ],
+        "lemma": "industry"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          749,
+          752
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "other",
+        "part_of_speech": "ADJ",
+        "location": [
+          753,
+          758
+        ],
+        "lemma": "other"
+      },
+      {
+        "text": "government",
+        "part_of_speech": "NOUN",
+        "location": [
+          759,
+          769
+        ],
+        "lemma": "government"
+      },
+      {
+        "text": "bodies",
+        "part_of_speech": "NOUN",
+        "location": [
+          770,
+          776
+        ],
+        "lemma": "body"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          776,
+          777
+        ]
+      },
+      {
+        "text": "is",
+        "part_of_speech": "AUX",
+        "location": [
+          778,
+          780
+        ],
+        "lemma": "be"
+      },
+      {
+        "text": "key",
+        "part_of_speech": "ADJ",
+        "location": [
+          781,
+          784
+        ],
+        "lemma": "key"
+      },
+      {
+        "text": "to",
+        "part_of_speech": "ADP",
+        "location": [
+          785,
+          787
+        ],
+        "lemma": "to"
+      },
+      {
+        "text": "the",
+        "part_of_speech": "DET",
+        "location": [
+          788,
+          791
+        ],
+        "lemma": "the"
+      },
+      {
+        "text": "safe",
+        "part_of_speech": "ADJ",
+        "location": [
+          792,
+          796
+        ],
+        "lemma": "safe"
+      },
+      {
+        "text": ",",
+        "part_of_speech": "PUNCT",
+        "location": [
+          796,
+          797
+        ]
+      },
+      {
+        "text": "secure",
+        "part_of_speech": "ADJ",
+        "location": [
+          798,
+          804
+        ],
+        "lemma": "secure"
+      },
+      {
+        "text": "and",
+        "part_of_speech": "CCONJ",
+        "location": [
+          805,
+          808
+        ],
+        "lemma": "and"
+      },
+      {
+        "text": "peaceful",
+        "part_of_speech": "ADJ",
+        "location": [
+          809,
+          817
+        ],
+        "lemma": "peaceful"
+      },
+      {
+        "text": "use",
+        "part_of_speech": "NOUN",
+        "location": [
+          818,
+          821
+        ],
+        "lemma": "use"
+      },
+      {
+        "text": "of",
+        "part_of_speech": "ADP",
+        "location": [
+          822,
+          824
+        ],
+        "lemma": "of"
+      },
+      {
+        "text": "nuclear",
+        "part_of_speech": "ADJ",
+        "location": [
+          825,
+          832
+        ],
+        "lemma": "nuclear"
+      },
+      {
+        "text": "technology",
+        "part_of_speech": "NOUN",
+        "location": [
+          833,
+          843
+        ],
+        "lemma": "technology"
+      },
+      {
+        "text": ".",
+        "part_of_speech": "PUNCT",
+        "location": [
+          843,
+          844
+        ]
+      },
+      {
+        "text": "Read",
+        "part_of_speech": "VERB",
+        "location": [
+          849,
+          853
+        ],
+        "lemma": "read"
+      },
+      {
+        "text": "more",
+        "part_of_speech": "ADJ",
+        "location": [
+          854,
+          858
+        ],
+        "lemma": "much"
+      },
+      {
+        "text": "→",
+        "part_of_speech": "PUNCT",
+        "location": [
+          859,
+          860
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "text": "If you would like to learn more about the IAEA’s work, sign up for our weekly updates containing our most important news, multimedia and more.",
+        "location": [
+          0,
+          142
+        ]
+      },
+      {
+        "text": "The 63rd IAEA General Conference concluded yesterday (see this article  summarizing the resolutions), but several scheduled Conference side events and other activities took place today.",
+        "location": [
+          151,
+          336
+        ]
+      },
+      {
+        "text": "Read more →",
+        "location": [
+          341,
+          352
+        ]
+      },
+      {
+        "text": "The 63rd annual IAEA General Conference concluded yesterday with resolutions adopted affirming the importance of the Agency’s role in facilitating the development and use of nuclear science and technology for peace, health and prosperity throughout the world.",
+        "location": [
+          361,
+          620
+        ]
+      },
+      {
+        "text": "Read more →",
+        "location": [
+          625,
+          636
+        ]
+      },
+      {
+        "text": "The right legal framework, including the establishment of a nuclear regulator independent from industry and other government bodies, is key to the safe, secure and peaceful use of nuclear technology.",
+        "location": [
+          645,
+          844
+        ]
+      },
+      {
+        "text": "Read more →",
+        "location": [
+          849,
+          860
+        ]
+      }
+    ]
   },
   "sentiment": {
     "document": {
@@ -10,132 +1313,1061 @@
       "label": "positive"
     }
   },
+  "semantic_roles": [
+    {
+      "subject": {
+        "text": "you"
+      },
+      "sentence": "If you would like to learn more about the IAEA’s work, sign up for our weekly updates containing our most important news, multimedia and more.",
+      "object": {
+        "text": "to learn more about the IAEA’s work",
+        "keywords": [
+          {
+            "text": "IAEA"
+          },
+          {
+            "text": "work"
+          }
+        ],
+        "entities": [
+          {
+            "type": "Organization",
+            "text": "IAEA"
+          }
+        ]
+      },
+      "action": {
+        "verb": {
+          "text": "like",
+          "tense": "future"
+        },
+        "text": "like",
+        "normalized": "like"
+      }
+    },
+    {
+      "subject": {
+        "text": "you"
+      },
+      "sentence": "If you would like to learn more about the IAEA’s work, sign up for our weekly updates containing our most important news, multimedia and more.",
+      "object": {
+        "text": "more about the IAEA’s work",
+        "keywords": [
+          {
+            "text": "IAEA"
+          },
+          {
+            "text": "work"
+          }
+        ],
+        "entities": [
+          {
+            "type": "Organization",
+            "text": "IAEA"
+          }
+        ]
+      },
+      "action": {
+        "verb": {
+          "text": "learn",
+          "tense": "future"
+        },
+        "text": "would like to learn",
+        "normalized": "would like to learn"
+      }
+    },
+    {
+      "subject": {
+        "text": "more about the IAEA’s",
+        "keywords": [
+          {
+            "text": "IAEA"
+          }
+        ],
+        "entities": [
+          {
+            "type": "Organization",
+            "text": "IAEA"
+          }
+        ]
+      },
+      "sentence": "If you would like to learn more about the IAEA’s work, sign up for our weekly updates containing our most important news, multimedia and more.",
+      "object": {
+        "text": "for our weekly updates containing our most important news, multimedia and more",
+        "keywords": [
+          {
+            "text": "weekly updates"
+          },
+          {
+            "text": "important news"
+          },
+          {
+            "text": "multimedia"
+          }
+        ]
+      },
+      "action": {
+        "verb": {
+          "text": "work",
+          "tense": "present"
+        },
+        "text": "work",
+        "normalized": "work"
+      }
+    },
+    {
+      "subject": {
+        "text": "The 63rd IAEA General Conference",
+        "keywords": [
+          {
+            "text": "IAEA General Conference"
+          }
+        ],
+        "entities": [
+          {
+            "type": "Organization",
+            "text": "IAEA"
+          }
+        ]
+      },
+      "sentence": " The 63rd IAEA General Conference concluded yesterday (see this article summarizing the resolutions), but several scheduled Conference side events and other activities took place today.",
+      "action": {
+        "verb": {
+          "text": "conclude",
+          "tense": "past"
+        },
+        "text": "concluded",
+        "normalized": "conclude"
+      }
+    },
+    {
+      "subject": {
+        "text": "this article",
+        "keywords": [
+          {
+            "text": "article"
+          }
+        ]
+      },
+      "sentence": " The 63rd IAEA General Conference concluded yesterday (see this article summarizing the resolutions), but several scheduled Conference side events and other activities took place today.",
+      "object": {
+        "text": "the resolutions",
+        "keywords": [
+          {
+            "text": "resolutions"
+          }
+        ]
+      },
+      "action": {
+        "verb": {
+          "text": "summarize",
+          "tense": "present"
+        },
+        "text": "summarizing",
+        "normalized": "summarize"
+      }
+    },
+    {
+      "subject": {
+        "text": "several scheduled Conference side events and other activities",
+        "keywords": [
+          {
+            "text": "Conference side events"
+          },
+          {
+            "text": "activities"
+          }
+        ]
+      },
+      "sentence": " The 63rd IAEA General Conference concluded yesterday (see this article summarizing the resolutions), but several scheduled Conference side events and other activities took place today.",
+      "object": {
+        "text": "place",
+        "keywords": [
+          {
+            "text": "place"
+          }
+        ]
+      },
+      "action": {
+        "verb": {
+          "text": "take",
+          "tense": "past"
+        },
+        "text": "took",
+        "normalized": "take"
+      }
+    },
+    {
+      "subject": {
+        "text": "The 63rd annual IAEA General Conference",
+        "keywords": [
+          {
+            "text": "annual IAEA General"
+          }
+        ],
+        "entities": [
+          {
+            "type": "Organization",
+            "text": "IAEA"
+          }
+        ]
+      },
+      "sentence": " The 63rd annual IAEA General Conference concluded yesterday with resolutions adopted affirming the importance of the Agency’s role in facilitating the development and use of nuclear science and technology for peace, health and prosperity throughout the world.",
+      "object": {
+        "text": "with resolutions adopted affirming the importance of the Agency’s role in facilitating the development and use of nuclear science and technology for peace, health and prosperity throughout the world",
+        "keywords": [
+          {
+            "text": "Agency’s role"
+          },
+          {
+            "text": "nuclear science"
+          },
+          {
+            "text": "resolutions"
+          },
+          {
+            "text": "prosperity"
+          }
+        ]
+      },
+      "action": {
+        "verb": {
+          "text": "conclude",
+          "tense": "past"
+        },
+        "text": "concluded",
+        "normalized": "conclude"
+      }
+    },
+    {
+      "subject": {
+        "text": "the establishment of a nuclear regulator independent from industry and other government bodies",
+        "keywords": [
+          {
+            "text": "nuclear regulator"
+          },
+          {
+            "text": "government bodies"
+          },
+          {
+            "text": "establishment"
+          },
+          {
+            "text": "industry"
+          }
+        ]
+      },
+      "sentence": " The right legal framework, including the establishment of a nuclear regulator independent from industry and other government bodies, is key to the safe, secure and peaceful use of nuclear technology.",
+      "object": {
+        "text": "The right legal framework",
+        "keywords": [
+          {
+            "text": "right legal framework"
+          }
+        ]
+      },
+      "action": {
+        "verb": {
+          "text": "include",
+          "tense": "present"
+        },
+        "text": "including",
+        "normalized": "include"
+      }
+    }
+  ],
   "retrieved_url": "https://www.iaea.org/about/policy/gc/gc63/2019-09-20",
+  "relations": [
+    {
+      "type": "employedBy",
+      "sentence": "The 63rd IAEA General Conference concluded yesterday (see this article  summarizing the resolutions), but several scheduled Conference side events and other activities took place today.",
+      "score": 0.693072,
+      "arguments": [
+        {
+          "text": "General",
+          "location": [
+            165,
+            172
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "General"
+            }
+          ]
+        },
+        {
+          "text": "IAEA",
+          "location": [
+            160,
+            164
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "IAEA",
+              "disambiguation": {
+                "subtype": [
+                  "Multigov"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "employedBy",
+      "sentence": "Read more →         The 63rd annual IAEA General Conference concluded yesterday with resolutions adopted affirming the importance of the Agency's role in facilitating the development and use of nuclear science and technology for peace, health and prosperity throughout the world.",
+      "score": 0.654911,
+      "arguments": [
+        {
+          "text": "General",
+          "location": [
+            382,
+            389
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "General"
+            }
+          ]
+        },
+        {
+          "text": "IAEA",
+          "location": [
+            377,
+            381
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "IAEA",
+              "disambiguation": {
+                "subtype": [
+                  "Multigov"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "participantIn",
+      "sentence": "The 63rd IAEA General Conference concluded yesterday (see this article  summarizing the resolutions), but several scheduled Conference side events and other activities took place today.",
+      "score": 0.612026,
+      "arguments": [
+        {
+          "text": "General",
+          "location": [
+            165,
+            172
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "General"
+            }
+          ]
+        },
+        {
+          "text": "Conference",
+          "location": [
+            173,
+            183
+          ],
+          "entities": [
+            {
+              "type": "EventMeeting",
+              "text": "Conference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "participantIn",
+      "sentence": "Read more →         The 63rd annual IAEA General Conference concluded yesterday with resolutions adopted affirming the importance of the Agency's role in facilitating the development and use of nuclear science and technology for peace, health and prosperity throughout the world.",
+      "score": 0.515575,
+      "arguments": [
+        {
+          "text": "General",
+          "location": [
+            382,
+            389
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "General"
+            }
+          ]
+        },
+        {
+          "text": "Conference",
+          "location": [
+            390,
+            400
+          ],
+          "entities": [
+            {
+              "type": "EventMeeting",
+              "text": "Conference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "partOf",
+      "sentence": "The 63rd IAEA General Conference concluded yesterday (see this article  summarizing the resolutions), but several scheduled Conference side events and other activities took place today.",
+      "score": 0.317446,
+      "arguments": [
+        {
+          "text": "concluded",
+          "location": [
+            184,
+            193
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "concluded"
+            }
+          ]
+        },
+        {
+          "text": "Conference",
+          "location": [
+            173,
+            183
+          ],
+          "entities": [
+            {
+              "type": "EventMeeting",
+              "text": "Conference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "timeOf",
+      "sentence": "The 63rd IAEA General Conference concluded yesterday (see this article  summarizing the resolutions), but several scheduled Conference side events and other activities took place today.",
+      "score": 0.489308,
+      "arguments": [
+        {
+          "text": "yesterday",
+          "location": [
+            194,
+            203
+          ],
+          "entities": [
+            {
+              "type": "Date",
+              "text": "yesterday"
+            }
+          ]
+        },
+        {
+          "text": "Conference",
+          "location": [
+            173,
+            183
+          ],
+          "entities": [
+            {
+              "type": "EventMeeting",
+              "text": "Conference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "timeOf",
+      "sentence": "The 63rd IAEA General Conference concluded yesterday (see this article  summarizing the resolutions), but several scheduled Conference side events and other activities took place today.",
+      "score": 0.964565,
+      "arguments": [
+        {
+          "text": "yesterday",
+          "location": [
+            194,
+            203
+          ],
+          "entities": [
+            {
+              "type": "Date",
+              "text": "yesterday"
+            }
+          ]
+        },
+        {
+          "text": "concluded",
+          "location": [
+            184,
+            193
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "concluded"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "partOf",
+      "sentence": "Read more →         The 63rd annual IAEA General Conference concluded yesterday with resolutions adopted affirming the importance of the Agency's role in facilitating the development and use of nuclear science and technology for peace, health and prosperity throughout the world.",
+      "score": 0.310177,
+      "arguments": [
+        {
+          "text": "concluded",
+          "location": [
+            401,
+            410
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "concluded"
+            }
+          ]
+        },
+        {
+          "text": "Conference",
+          "location": [
+            390,
+            400
+          ],
+          "entities": [
+            {
+              "type": "EventMeeting",
+              "text": "Conference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "timeOf",
+      "sentence": "Read more →         The 63rd annual IAEA General Conference concluded yesterday with resolutions adopted affirming the importance of the Agency's role in facilitating the development and use of nuclear science and technology for peace, health and prosperity throughout the world.",
+      "score": 0.691938,
+      "arguments": [
+        {
+          "text": "yesterday",
+          "location": [
+            411,
+            420
+          ],
+          "entities": [
+            {
+              "type": "Date",
+              "text": "yesterday"
+            }
+          ]
+        },
+        {
+          "text": "Conference",
+          "location": [
+            390,
+            400
+          ],
+          "entities": [
+            {
+              "type": "EventMeeting",
+              "text": "Conference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "timeOf",
+      "sentence": "Read more →         The 63rd annual IAEA General Conference concluded yesterday with resolutions adopted affirming the importance of the Agency's role in facilitating the development and use of nuclear science and technology for peace, health and prosperity throughout the world.",
+      "score": 0.975186,
+      "arguments": [
+        {
+          "text": "yesterday",
+          "location": [
+            411,
+            420
+          ],
+          "entities": [
+            {
+              "type": "Date",
+              "text": "yesterday"
+            }
+          ]
+        },
+        {
+          "text": "concluded",
+          "location": [
+            401,
+            410
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "concluded"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "employedBy",
+      "sentence": "Read more →         The right legal framework, including the establishment of a nuclear regulator independent from industry and other government bodies, is key to the safe, secure and peaceful use of nuclear technology.",
+      "score": 0.927908,
+      "arguments": [
+        {
+          "text": "bodies",
+          "location": [
+            770,
+            776
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "bodies"
+            }
+          ]
+        },
+        {
+          "text": "government",
+          "location": [
+            759,
+            769
+          ],
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "government",
+              "disambiguation": {
+                "subtype": [
+                  "Country"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "63rd IAEA General Conference | IAEA",
+    "publication_date": "2019-09-20T00:00:00",
+    "image": "",
+    "feeds": [
+      {
+        "link": "https://www.iaea.org/feeds"
+      }
+    ],
+    "authors": []
+  },
   "language": "en",
   "keywords": [
     {
       "text": "63rd IAEA General Conference",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.867206,
+      "emotion": {
+        "sadness": 0.332667,
+        "joy": 0.244477,
+        "fear": 0.0327,
+        "disgust": 0.109231,
+        "anger": 0.127901
+      },
       "count": 1
     },
     {
       "text": "IAEA’s work",
+      "sentiment": {
+        "score": 0.78953,
+        "label": "positive"
+      },
       "relevance": 0.718713,
+      "emotion": {
+        "sadness": 0.164962,
+        "joy": 0.318938,
+        "fear": 0.06762,
+        "disgust": 0.037927,
+        "anger": 0.074236
+      },
       "count": 1
     },
     {
       "text": "right legal framework",
+      "sentiment": {
+        "score": 0.797195,
+        "label": "positive"
+      },
       "relevance": 0.711393,
+      "emotion": {
+        "sadness": 0.037893,
+        "joy": 0.139111,
+        "fear": 0.084577,
+        "disgust": 0.019592,
+        "anger": 0.283684
+      },
       "count": 1
     },
     {
       "text": "63rd annual IAEA General Conference",
+      "sentiment": {
+        "score": 0.648542,
+        "label": "positive"
+      },
       "relevance": 0.69529,
+      "emotion": {
+        "sadness": 0.075587,
+        "joy": 0.725009,
+        "fear": 0.017902,
+        "disgust": 0.016076,
+        "anger": 0.055415
+      },
       "count": 1
     },
     {
       "text": "government bodies",
+      "sentiment": {
+        "score": 0.797195,
+        "label": "positive"
+      },
       "relevance": 0.642851,
+      "emotion": {
+        "sadness": 0.037893,
+        "joy": 0.139111,
+        "fear": 0.084577,
+        "disgust": 0.019592,
+        "anger": 0.283684
+      },
       "count": 1
     },
     {
       "text": "use of nuclear science",
+      "sentiment": {
+        "score": 0.648542,
+        "label": "positive"
+      },
       "relevance": 0.588066,
+      "emotion": {
+        "sadness": 0.075587,
+        "joy": 0.725009,
+        "fear": 0.017902,
+        "disgust": 0.016076,
+        "anger": 0.055415
+      },
       "count": 1
     },
     {
       "text": "Conference side events",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.566398,
+      "emotion": {
+        "sadness": 0.332667,
+        "joy": 0.244477,
+        "fear": 0.0327,
+        "disgust": 0.109231,
+        "anger": 0.127901
+      },
       "count": 1
     },
     {
       "text": "establishment of a nuclear regulator",
+      "sentiment": {
+        "score": 0.797195,
+        "label": "positive"
+      },
       "relevance": 0.565208,
+      "emotion": {
+        "sadness": 0.037893,
+        "joy": 0.139111,
+        "fear": 0.084577,
+        "disgust": 0.019592,
+        "anger": 0.283684
+      },
       "count": 1
     },
     {
       "text": "place today",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.551147,
+      "emotion": {
+        "sadness": 0.332667,
+        "joy": 0.244477,
+        "fear": 0.0327,
+        "disgust": 0.109231,
+        "anger": 0.127901
+      },
       "count": 1
     },
     {
       "text": "yesterday",
+      "sentiment": {
+        "score": 0.648542,
+        "label": "positive"
+      },
       "relevance": 0.546695,
+      "emotion": {
+        "sadness": 0.121539,
+        "joy": 0.646629,
+        "fear": 0.015643,
+        "disgust": 0.028153,
+        "anger": 0.074116
+      },
       "count": 2
     },
     {
       "text": "resolutions",
+      "sentiment": {
+        "score": 0.648542,
+        "label": "positive"
+      },
       "relevance": 0.543016,
+      "emotion": {
+        "sadness": 0.121539,
+        "joy": 0.646629,
+        "fear": 0.015643,
+        "disgust": 0.028153,
+        "anger": 0.074116
+      },
       "count": 2
     },
     {
       "text": "article",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.525911,
+      "emotion": {
+        "sadness": 0.332667,
+        "joy": 0.244477,
+        "fear": 0.0327,
+        "disgust": 0.109231,
+        "anger": 0.127901
+      },
       "count": 1
     },
     {
       "text": "industry",
+      "sentiment": {
+        "score": 0.797195,
+        "label": "positive"
+      },
       "relevance": 0.522452,
+      "emotion": {
+        "sadness": 0.037893,
+        "joy": 0.139111,
+        "fear": 0.084577,
+        "disgust": 0.019592,
+        "anger": 0.283684
+      },
       "count": 1
     },
     {
       "text": "importance of the Agency",
+      "sentiment": {
+        "score": 0.648542,
+        "label": "positive"
+      },
       "relevance": 0.520337,
+      "emotion": {
+        "sadness": 0.075587,
+        "joy": 0.725009,
+        "fear": 0.017902,
+        "disgust": 0.016076,
+        "anger": 0.055415
+      },
       "count": 1
     },
     {
       "text": "role",
+      "sentiment": {
+        "score": 0.648542,
+        "label": "positive"
+      },
       "relevance": 0.51819,
+      "emotion": {
+        "sadness": 0.075587,
+        "joy": 0.725009,
+        "fear": 0.017902,
+        "disgust": 0.016076,
+        "anger": 0.055415
+      },
       "count": 1
     },
     {
       "text": "development",
+      "sentiment": {
+        "score": 0.648542,
+        "label": "positive"
+      },
       "relevance": 0.515666,
+      "emotion": {
+        "sadness": 0.075587,
+        "joy": 0.725009,
+        "fear": 0.017902,
+        "disgust": 0.016076,
+        "anger": 0.055415
+      },
       "count": 1
     },
     {
       "text": "technology",
+      "sentiment": {
+        "score": 0.648542,
+        "label": "positive"
+      },
       "relevance": 0.514112,
+      "emotion": {
+        "sadness": 0.038534,
+        "joy": 0.589104,
+        "fear": 0.022114,
+        "disgust": 0.009626,
+        "anger": 0.143973
+      },
       "count": 1
     },
     {
       "text": "activities",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.51164,
+      "emotion": {
+        "sadness": 0.332667,
+        "joy": 0.244477,
+        "fear": 0.0327,
+        "disgust": 0.109231,
+        "anger": 0.127901
+      },
       "count": 1
     },
     {
       "text": "peace",
+      "sentiment": {
+        "score": 0.648542,
+        "label": "positive"
+      },
       "relevance": 0.51164,
+      "emotion": {
+        "sadness": 0.038534,
+        "joy": 0.589104,
+        "fear": 0.022114,
+        "disgust": 0.009626,
+        "anger": 0.143973
+      },
       "count": 1
     },
     {
       "text": "health",
+      "sentiment": {
+        "score": 0.648542,
+        "label": "positive"
+      },
       "relevance": 0.509601,
+      "emotion": {
+        "sadness": 0.075587,
+        "joy": 0.725009,
+        "fear": 0.017902,
+        "disgust": 0.016076,
+        "anger": 0.055415
+      },
       "count": 1
     },
     {
       "text": "prosperity",
+      "sentiment": {
+        "score": 0.648542,
+        "label": "positive"
+      },
       "relevance": 0.507919,
+      "emotion": {
+        "sadness": 0.075587,
+        "joy": 0.725009,
+        "fear": 0.017902,
+        "disgust": 0.016076,
+        "anger": 0.055415
+      },
       "count": 1
     },
     {
       "text": "world",
+      "sentiment": {
+        "score": 0.797195,
+        "label": "positive"
+      },
       "relevance": 0.506531,
+      "emotion": {
+        "sadness": 0.075587,
+        "joy": 0.725009,
+        "fear": 0.017902,
+        "disgust": 0.016076,
+        "anger": 0.055415
+      },
       "count": 1
     },
     {
       "text": "weekly updates",
+      "sentiment": {
+        "score": 0.78953,
+        "label": "positive"
+      },
       "relevance": 0.503359,
+      "emotion": {
+        "sadness": 0.164962,
+        "joy": 0.318938,
+        "fear": 0.06762,
+        "disgust": 0.037927,
+        "anger": 0.074236
+      },
       "count": 1
     },
     {
       "text": "peaceful use of nuclear technology",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
       "relevance": 0.480321,
+      "emotion": {
+        "sadness": 0.037893,
+        "joy": 0.139111,
+        "fear": 0.084577,
+        "disgust": 0.019592,
+        "anger": 0.283684
+      },
       "count": 1
     },
     {
       "text": "important news",
+      "sentiment": {
+        "score": 0.78953,
+        "label": "positive"
+      },
       "relevance": 0.463321,
+      "emotion": {
+        "sadness": 0.164962,
+        "joy": 0.318938,
+        "fear": 0.06762,
+        "disgust": 0.037927,
+        "anger": 0.074236
+      },
       "count": 1
     }
   ],
@@ -143,11 +2375,59 @@
     {
       "type": "Organization",
       "text": "IAEA",
+      "sentiment": {
+        "score": 0.722141,
+        "label": "positive"
+      },
       "relevance": 0.9999,
+      "mentions": [
+        {
+          "text": "IAEA",
+          "location": [
+            42,
+            46
+          ],
+          "confidence": 0.999693
+        },
+        {
+          "text": "IAEA",
+          "location": [
+            160,
+            164
+          ],
+          "confidence": 0.995832
+        },
+        {
+          "text": "IAEA",
+          "location": [
+            377,
+            381
+          ],
+          "confidence": 0.997751
+        }
+      ],
+      "emotion": {
+        "sadness": 0.11354,
+        "joy": 0.675675,
+        "fear": 0.014614,
+        "disgust": 0.022177,
+        "anger": 0.067457
+      },
       "count": 3,
       "confidence": 1
     }
   ],
+  "emotion": {
+    "document": {
+      "emotion": {
+        "sadness": 0.050281,
+        "joy": 0.695937,
+        "fear": 0.014245,
+        "disgust": 0.017094,
+        "anger": 0.118032
+      }
+    }
+  },
   "concepts": [
     {
       "text": "Nuclear weapon",
@@ -193,11 +2473,38 @@
   "categories": [
     {
       "score": 0.991603,
-      "label": "/business and industrial/energy/nuclear power"
+      "label": "/business and industrial/energy/nuclear power",
+      "explanation": {
+        "relevant_text": [
+          {
+            "text": "iaea"
+          },
+          {
+            "text": "nuclear science and technology"
+          },
+          {
+            "text": "industry"
+          }
+        ]
+      }
     },
     {
       "score": 0.929214,
-      "label": "/business and industrial/energy/nuclear power/nuclear accident"
+      "label": "/business and industrial/energy/nuclear power/nuclear accident",
+      "explanation": {
+        "relevant_text": [
+          {
+            "text": "iaea"
+          },
+          {
+            "text": "industry"
+          },
+          {
+            "text": "safe"
+          }
+        ]
+      }
     }
-  ]
+  ],
+  "analyzed_text": "If you would like to learn more about the IAEA’s work, sign up for our weekly updates containing our most important news, multimedia and more.\n        The 63rd IAEA General Conference concluded yesterday (see this article  summarizing the resolutions), but several scheduled Conference side events and other activities took place today.     Read more →\n        The 63rd annual IAEA General Conference concluded yesterday with resolutions adopted affirming the importance of the Agency’s role in facilitating the development and use of nuclear science and technology for peace, health and prosperity throughout the world.     Read more →\n        The right legal framework, including the establishment of a nuclear regulator independent from industry and other government bodies, is key to the safe, secure and peaceful use of nuclear technology.     Read more →\n"
 }
