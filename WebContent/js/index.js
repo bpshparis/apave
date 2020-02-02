@@ -522,14 +522,9 @@ $('#exampleModalScrollable').on('shown.bs.modal', function() {
 
   var datas = $('#answers').bootstrapTable("getData");
 
-  console.log(datas);
-
   var retrieved_url = datas[0].retrieved_url;
 
   var analyzed_text = datas[0].analyzed_text;
-
-  console.log(retrieved_url);
-  console.log(analyzed_text);
 
   $(this).find('.modal-header').find('.modal-title').empty();
   $(this).find('.modal-body').empty();

@@ -1,0 +1,8 @@
+applications:
+- host: nlu-url-analyzer
+  disk: 256M
+  name: nlu-url-analyzer
+  path: ./WebContent
+  domain: eag-paris.eu-de.mybluemix.net
+  mem: 256M
+  instances: 1
