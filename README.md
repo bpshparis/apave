@@ -153,10 +153,9 @@ ibmcloud login --apikey @~/$APIKEY_NAME --no-region
 #### Loginto IBM Cloud
 
 > :bulb: Get region name with:
-
 >```
 ibmcloud regions --output JSON
->```
+```
 
 #### Target region, organization and resource group
 
