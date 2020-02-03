@@ -142,3 +142,61 @@ jq -n --argjson features "$ALL_NLU_FEATURES" --arg text "$URL" '{"url": $text, "
 curl -X POST -u 'apikey:'$NLU_APIKEY -H 'Content-Type: application/json' -d @nlu.req.json $NLU_URL$NLU_METHOD | tee WebContent/res/nlu-resp-$URL_ID.json | jq .
 ```
 
+### Deploy application
+
+#### Loginto IBM Cloud
+
+```
+ibmcloud login --apikey @~/$APIKEY_NAME --no-region
+```
+
+#### Loginto IBM Cloud
+
+> :bulb: Get region name with:
+
+>```
+ibmcloud regions --output JSON
+>```
+
+#### Target region, organization and resource group
+
+```
+GROUP=$(ibmcloud resource groups --output json | jq -r .[0].name) && echo $GROUP
+REGION="eu-de" && echo $REGION
+ORG=$(ibmcloud account orgs --output JSON | jq -r .[0].OrgName) && echo $ORG
+SPACE=$(ibmcloud account spaces -r $REGION -o $ORG --output JSON | jq -r .[0].name) && echo $SPACE
+
+ibmcloud target --cf -r $REGION -o $ORG -s $SPACE -g $GROUP
+```
+
+#### Deploy Cloud Foundry application
+
+> :bulb: Optional: Create a subdomain in your **$REGION.mybluemix.net** with:
+> ```
+> SUBDOMAIN="eag-paris"
+> DOMAIN=$REGION.mybluemix.net
+> ibmcloud cf create-domain $ORG $SUBDOMAIN.$DOMAIN
+> ```
+
+> :warning: **$HOST** and **$SUBDOMAIN** have to match [0-9][a-z][-] characters only.
+
+```
+HOST="nlu-url-analyzer"
+APP_NAME=$HOST
+CODE_SOURCE="./WebContent"
+DOMAIN="eag-paris.eu-de.mybluemix.net"
+
+cat > manifest.yaml << EOF
+applications:
+- host: $HOST
+  disk: 256M
+  name: $APP_NAME
+  path: $CODE_SOURCE
+  domain: $DOMAIN
+  mem: 256M
+  instances: 1
+EOF
+
+ibmcloud cf push
+```
+
