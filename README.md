@@ -30,8 +30,8 @@ ibmcloud config --usage-stats-collect false
 #### Login with one-time passcode
 
 ```
-USERID="sebastien.gautier@fr.ibm.com"
-PASSWD="j1mm4p6p"
+USERID=""
+PASSWD=""
 
 ibmcloud login -u $USERID -p $PASSWD --sso --no-region
 ```
