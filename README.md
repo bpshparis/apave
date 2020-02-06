@@ -147,6 +147,7 @@ curl -X POST -u 'apikey:'$NLU_APIKEY -H 'Content-Type: application/json' -d @nlu
 #### Loginto IBM Cloud
 
 ```
+APIKEY_NAME="apikey0"
 ibmcloud login --apikey @~/$APIKEY_NAME --no-region
 ```
 
