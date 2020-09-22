@@ -187,14 +187,22 @@ CODE_SOURCE="./WebContent"
 DOMAIN="eag-paris.eu-de.mybluemix.net"
 
 cat > manifest.yaml << EOF
+# WARNING: Only hyphen (e.g. -) are supported in hostname. Don't add any dot.
+# host must be unique in domain
 applications:
 - host: $HOST
   disk: 256M
+  #name must be unique in your space
   name: $APP_NAME
   path: $CODE_SOURCE
+  #domain must be available in your space
   domain: $DOMAIN
   mem: 256M
   instances: 1
+  #services:
+  #ta
+  #nlu
+  #wvc
 EOF
 
 ibmcloud cf push
