@@ -200,9 +200,9 @@ applications:
   mem: 256M
   instances: 1
   #services:
-  #ta
-  #nlu
-  #wvc
+  # - ta
+  # - nlu
+  # - wvc
 EOF
 
 ibmcloud cf push
